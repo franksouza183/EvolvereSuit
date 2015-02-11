@@ -1,0 +1,581 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<base href="%@">
+
+	<style id="mainStyle" type="text/css" media="screen,print">	@import url( "%@" ); @import url("Variants/Normal.css"); </style>
+
+	<script type="text/javascript">
+		
+		isDebug = false;
+		//Do this on load
+		function initEvents() {
+			if(isDebug == false) {
+				 document.getElementById("debug").style.display = "none";
+			}
+			alignChat(true);
+		}
+
+		//Debugging function
+		function trace(msg) {
+			var node = document.createElement("div");
+			var debugCon = document.getElementById("debug");
+			node.innerHTML = msg;
+			debugCon.appendChild(node);
+		}
+		
+	
+		//Appending new content to the message view
+		function appendMessage(html) {
+			var shouldScroll = nearBottom();
+			
+			//Remove any existing insertion point
+			var insert = document.getElementById("insert");
+			
+			if(insert) insert.parentNode.removeChild(insert);
+			
+			//Append the new message to the bottom of our chat block
+			var chat = document.getElementById("Chat");
+			var range = document.createRange();
+			range.selectNode(chat);
+			var documentFragment = range.createContextualFragment(html);
+			
+			var myFrag = chat.appendChild(documentFragment);
+			
+			var frag = document.querySelectorAll(".chatItem")[document.querySelectorAll(".chatItem").length-1];
+			//fadeIn(frag);
+			adjustTansitionClass();
+			alignChat(shouldScroll);
+			
+		}
+		
+		function fadeIn(myNode) {
+			myNode.style.visibility = "visible";
+			myNode.style.opacity = 0;
+			setTimeout(function() {
+				
+				myNode.style.WebkitTransition = "opacity 5s ease-in";
+				myNode.style["-webkit-filter"] = "blur(10px) opacity(1)";
+				myNode.style.opacity = 1;
+				
+			}, 0);
+		}
+		
+		hasClass = function(el, className) {
+			return el.className && new RegExp("(^|\\s)" + className + "(\\s|$)").test(el.className);
+		};
+		
+		function adjustTansitionClass() {
+			
+			var els = document.getElementsByTagName('*');
+			
+			setTimeout(function() {
+				
+				for (var i=0, j=els.length; i<j; i++){
+					var elm = els[i];
+					if (elm.className) {
+						if ( hasClass(elm,'start-transition') ){
+							
+							elm.className = elm.className.replace(/\bend-transition\b/, '');
+							elm.className = elm.className.replace(/\bstart-transition\b/, 'start-transition end-transition');
+							
+							elm.className = elm.className + " start-transition end-transition ";
+							
+						}
+						
+					}
+				}
+				
+			}, 0);
+			
+		}
+		
+		function appendNextMessage(html){
+			var shouldScroll = nearBottom();
+			
+			//Locate the insertion point
+			var insert = document.getElementById("insert");
+		
+			//make new node
+			range = document.createRange();
+			range.selectNode(insert.parentNode);
+			newNode = range.createContextualFragment(html);
+			
+			//swap
+			var pointer = insert.parentNode;
+			insert.parentNode.replaceChild(newNode,insert);			
+			var els = pointer.getElementsByTagName("div");
+
+			alignChat(shouldScroll);
+		}
+		
+		//Auto-scroll to bottom.  Use nearBottom to determine if a scrollToBottom is desired.
+		function nearBottom() {
+			return ( document.body.scrollTop >= ( document.body.offsetHeight - ( window.innerHeight * 1.2 ) ) );
+		}
+		
+		var intervall_scroll;
+		function scrollToBottom() {
+			adjustTansitionClass();
+			
+			//document.body.scrollTop = (document.body.scrollHeight-window.innerHeight);
+			//return;
+			if( intervall_scroll ) clearInterval( intervall_scroll );
+			intervall_scroll = setInterval( function() {
+				var target_scroll = (document.body.scrollHeight-window.innerHeight);
+				var scrolldiff = target_scroll - document.body.scrollTop;
+				if ( document.body.scrollTop != target_scroll ) {
+					var saved_scroll = document.body.scrollTop;
+					document.body.scrollTop += scrolldiff / 17 + ( scrolldiff >= 0 ? (scrolldiff != 0 ) : -1 );
+				 } else {
+				 	saved_scroll = -1;
+					clearInterval( intervall_scroll );
+				 }
+			} , 10 );
+			return;
+		}
+		
+		//Dynamically exchange the active stylesheet
+		function setStylesheet( id, url ) {
+			var code = "<style id=\"" + id + "\" type=\"text/css\" media=\"screen,print\">";
+			if( url.length ) code += "@import url( \"" + url + "\" );";
+			code += "</style>";
+			var range = document.createRange();
+			var head = document.getElementsByTagName( "head" ).item(0);
+			range.selectNode( head );
+			documentFragment = range.createContextualFragment( code );
+			head.removeChild( document.getElementById( id ) );
+			head.appendChild( documentFragment );
+		}
+		
+		//Align our chat to the bottom of the window.  If true is passed, view will also be scrolled down
+		function alignChat(shouldScroll) {
+
+			var windowHeight = window.innerHeight;
+			
+			if(windowHeight > 0) {
+				var contentElement = document.getElementById('Chat');
+				var contentHeight = contentElement.offsetHeight;
+				if (windowHeight - contentHeight > 0) {
+					contentElement.style.position = 'relative';
+					contentElement.style.top = '0px';
+				} else {
+					contentElement.style.position = 'static';
+				}
+			}
+			
+			if(shouldScroll) scrollToBottom();
+		}
+	</script>
+
+</head>
+<body class="table" id="bodyNode" onload="initEvents()">
+
+
+<div id="Chat" class="table-cell">
+	<div class="chatItem incomingItem context start-transition">
+		<div class="avatarContainer">
+			<div class="avatarImg">
+				<img src="Incoming/buddy_icon.png" class=" avatar">
+			</div>
+			<div class="avatarFrame"></div>
+		</div>
+		<div class="myBubble">
+			<div class="message">
+				<div class="nameStamp">
+					
+					<div class="nameStampTextContent">
+						Frank Souza
+					</div>
+					
+					<div class="nameStampTextBackground">
+						Frank Souza
+					</div>
+							 
+				</div>
+				<div class="timeStamp">
+					28-10-2013 18:42:57		 
+				</div>
+				<div class="followUp nofu"></div>
+				<div class="mainMsg">
+					<div class="msg">
+						<div >
+							<span id="message-token-9121b41e-6e05-41c6-9f45-b8ea74302ced">
+							askddka jd</span>
+						</div>
+					</div>
+				</div>
+				<div class="followUp nofu"></div>
+			</div>
+		</div>
+	</div>
+	<div class="chatItem outgoingItem context start-transition">
+		<div class="avatarContainer">
+			<div class="avatarImg">
+				<img src="Outgoing/buddy_icon.png" class=" avatar">
+			</div>
+			<div class="avatarFrame"></div>
+		</div>
+		<div class="myBubble">
+			<div class="message">
+				<div class="nameStamp">
+					
+					<div class="nameStampTextContent">
+						Frank Souza
+					</div>
+					
+					<div class="nameStampTextBackground">
+						Frank Souza
+					</div>
+							 
+				</div>
+				<div class="timeStamp">
+					28-10-2013 18:46:27		 
+				</div>
+				<div class="followUp nofu"></div>
+				<div class="mainMsg">
+					<div class="msg">
+						<div >
+							<span id="message-token-4d0b4f08-f8cd-4e8a-981e-16669481b0dc">
+							dasd</span>
+						</div>
+					</div>
+				</div>
+				<div class="followUp nofu"></div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="clear"></div>
+	
+	<div class="chatItem incomingItem context start-transition">
+		<div class="avatarContainer">
+			<div class="avatarImg">
+				<img src="Incoming/buddy_icon.png" class=" avatar">
+			</div>
+			<div class="avatarFrame"></div>
+		</div>
+		<div class="myBubble">
+			<div class="message">
+				<div class="nameStamp">
+					
+					<div class="nameStampTextContent">
+						Frank Souza
+					</div>
+					
+					<div class="nameStampTextBackground">
+						Frank Souza
+					</div>
+							 
+				</div>
+				<div class="timeStamp">
+					28-10-2013 18:46:34		 
+				</div>
+				<div class="followUp nofu"></div>
+				<div class="mainMsg">
+					<div class="msg">
+						<div >
+							<span id="message-token-12ea82ef-8dcf-4e04-8b50-83fb424d9742">
+							dasd</span>
+						</div>
+					</div>
+				</div>
+				<div class="followUp nofu"></div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="clear"></div>
+	
+	<div class="chatItem outgoingItem context start-transition">
+		<div class="avatarContainer">
+			<div class="avatarImg">
+				<img src="Outgoing/buddy_icon.png" class=" avatar">
+			</div>
+			<div class="avatarFrame"></div>
+		</div>
+		<div class="myBubble">
+			<div class="message">
+				<div class="nameStamp">
+					
+					<div class="nameStampTextContent">
+						Frank Souza
+					</div>
+					
+					<div class="nameStampTextBackground">
+						Frank Souza
+					</div>
+							 
+				</div>
+				<div class="timeStamp">
+					28-10-2013 18:46:52		 
+				</div>
+				<div class="followUp nofu"></div>
+				<div class="mainMsg">
+					<div class="msg">
+						<div >
+							<span id="message-token-272e245b-3cee-41bf-96c6-ac847167ffa9">
+							saddasda sd</span>
+						</div>
+					</div>
+					<div class="followUp"></div>
+					<div class="timeStamp">
+						28-10-2013 18:47:34
+					</div>
+					<div class="msg">
+						<div >
+							<span id="message-token-171bec5a-498a-489a-8881-618d9cb6de3e">
+							dasdsa</span>
+						</div>
+					</div>
+				</div>
+				<div class="followUp nofu"></div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="clear"></div>
+	
+	<div class="chatItem outgoingItem start-transition">
+		<div class="avatarContainer">
+			<div class="avatarImg">
+				<img src="Outgoing/buddy_icon.png" class=" avatar">
+			</div>
+			<div class="avatarFrame"></div>
+		</div>
+		<div class="myBubble">
+			<div class="message">
+				<div class="nameStamp">
+					
+					<div class="nameStampTextContent">
+						Frank Souza
+					</div>
+					
+				</div>
+				<div class="timeStamp">
+					01:34:15			
+				</div>
+				<div class="followUp nofu"></div>
+				<div class="mainMsg">
+					<div class="msg">
+						<div >
+							<span id="message-token-947c706b-18f7-410a-915b-86f9b11ea500">
+							ola</span>
+						</div>
+					</div>
+					<div class="followUp"></div>
+					<div class="timeStamp">
+						01:34:16
+					</div>
+					<div class="msg">
+						<div >
+							<span id="message-token-9eff9294-61dd-4d39-b140-36479510df0d">
+							ola</span>
+						</div>
+					</div>
+					<div class="followUp"></div>
+					<div class="timeStamp">
+						01:34:18
+					</div>
+					<div class="msg">
+						<div >
+							<span id="message-token-1eafd691-60c9-4556-b7b6-f9927c9cdc57">
+							oi</span>
+						</div>
+					</div>
+					<div class="followUp"></div>
+					<div class="timeStamp">
+						01:34:24
+					</div>
+					<div class="msg">
+						<div >
+							<span id="message-token-7ad941ce-de92-48c8-9e45-87a02b8ad231">
+							testsest es ts d s df sddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</span>
+						</div>
+					</div>
+					<div class="followUp"></div>
+					<div class="timeStamp">
+						01:34:26
+					</div>
+					<div class="msg">
+						<div >
+							<span id="message-token-c612f966-0b0f-4780-97ed-a3ed448f575c">
+							lskfdlfk </span>
+						</div>
+					</div>
+					<div class="followUp"></div>
+					<div class="timeStamp">
+						01:34:27
+					</div>
+					<div class="msg">
+						<div >
+							<span id="message-token-6a0710db-1a98-45b5-81e9-47b86797d864">
+							slsdkfl sdf</span>
+						</div>
+					</div>
+					<div class="followUp"></div>
+					<div class="timeStamp">
+						01:34:28
+					</div>
+					<div class="msg">
+						<div >
+							<span id="message-token-8d5d072e-3297-4f50-875b-f9471739149e">
+							lkdlfksl d</span>
+						</div>
+					</div>
+				</div>
+				<div class="followUp nofu"></div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="clear"></div>
+	
+	<div class="chatItem outgoingItem start-transition">
+		
+		<div class="avatarContainer">
+			
+			<div class="avatarImg">
+				
+				<img src="%userIconPath%" class="avatar"/>
+				
+			</div>
+			
+			<div class="avatarFrame"></div>
+			
+		</div>
+		
+		<div class="myBubble">
+			
+			<div class="message">
+				
+				<div class="followUp nofu"></div>
+				
+				<div class="mainMsg">
+					
+					<div class="msg-item">
+						
+						<div class="msg">
+							%message%
+						</div>
+						
+					</div>
+					
+					
+					<div class="msg-item">
+						
+						<div class="followUp"></div>
+						
+						<div class="msg">
+							%message%
+						</div>
+						<div class="timeStamp">
+							%time%
+						</div>
+						
+					</div>
+					
+					<div class="msg-item">
+						
+						<div class="followUp"></div>
+						
+						<div class="msg">
+							Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin lectus orci, venenatis pharetra, esgestas id, tincidunt vel, eros. Vivamus quis mi. Etiam pharetra lacus sed velit imperdiet bibendum
+						</div>
+						<div class="timeStamp">
+							%time%
+						</div>
+						
+					</div>
+					
+					<div class="msg-item">
+						
+						<div class="followUp"></div>
+						
+						<div class="msg">
+							sectetuer adipiscing elit. Proin lectus orc
+						</div>
+						<div class="timeStamp">
+							%time%
+						</div>
+						
+					</div>
+					
+					<div class="msg-item">
+						
+						<div class="followUp"></div>
+						
+						<div class="msg">
+							Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin lectus orci, venenatis pharetra, esgestas id, tincidunt vel, eros. Vivamus quis mi. Etiam pharetra lacus sed velit imperdiet bibendum
+						</div>
+						<div class="timeStamp">
+							%time%
+						</div>
+						
+					</div>
+
+					
+				</div>
+				
+				<div class="followUp nofu"></div>
+				
+				<div class="followUp nofu"></div>
+					
+				<div class="nameStamp">
+					
+					%sender% •
+					
+				</div>
+				
+				<div class="timeStamp" title="%time{dd MMM yyyy}%">
+					%time%
+				</div>
+				
+			</div>
+			
+		</div>
+		
+	</div>
+	
+	<div class="clear"></div>
+	
+	<div class="chatItem statusMessage">
+		<div class="statusMessageContent">
+			%message% • <span class="status-timeStamp">%time%</span>
+			<div class="clear"></div>
+		</div>
+	</div>
+	
+	<div class="chatItem statusMessage">
+		<div class="statusMessageContent">
+			%message% • <span class="status-timeStamp">%time%</span>
+			<div class="clear"></div>
+		</div>
+	</div>
+	
+	<div class="chatItem statusMessage">
+		<div class="statusMessageContent">
+			%message% • <span class="status-timeStamp">%time%</span>
+			<div class="clear"></div>
+		</div>
+	</div>
+	
+	<div class="chatItem statusMessage">
+		<div class="statusMessageContent">
+			%message% • <span class="status-timeStamp">%time%</span>
+			<div class="clear"></div>
+		</div>
+	</div>
+	
+</div>
+<div id="Mask">
+</div>
+
+
+<div id="debug">
+</div>
+
+</body>
+</html>

@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<base href="%@">
+	<style id="mainStyle" type="text/css" media="screen,print">	@import url( "%@" ); </style>
+
+	<script type="text/javascript">
+		
+		isDebug = false;
+		//Do this on load
+		function initEvents() {
+			if(isDebug == false) {
+				 document.getElementById("debug").style.display = "none";
+			}
+			alignChat(true);
+		}
+
+		//Debugging function
+		function trace(msg) {
+			var node = document.createElement("div");
+			var debugCon = document.getElementById("debug");
+			node.innerHTML = msg;
+			debugCon.appendChild(node);
+		}
+		
+	
+		//Appending new content to the message view
+		function appendMessage(html) {
+			var shouldScroll = nearBottom();
+			
+			//Remove any existing insertion point
+			var insert = document.getElementById("insert");
+			
+			if(insert) insert.parentNode.removeChild(insert);
+			
+			//Append the new message to the bottom of our chat block
+			var chat = document.getElementById("Chat");
+			var range = document.createRange();
+			range.selectNode(chat);
+			var documentFragment = range.createContextualFragment(html);
+			
+			var myFrag = chat.appendChild(documentFragment);
+			
+			var frag = document.querySelectorAll(".chatItem")[document.querySelectorAll(".chatItem").length-1];
+			//fadeIn(frag);
+			adjustTansitionClass();
+			alignChat(shouldScroll);
+			
+		}
+		
+		function fadeIn(myNode) {
+			myNode.style.visibility = "visible";
+			myNode.style.opacity = 0;
+			setTimeout(function() {
+				
+				myNode.style.WebkitTransition = "opacity 5s ease-in";
+				myNode.style["-webkit-filter"] = "blur(10px) opacity(1)";
+				myNode.style.opacity = 1;
+				
+			}, 0);
+		}
+		
+		hasClass = function(el, className) {
+			return el.className && new RegExp("(^|\\s)" + className + "(\\s|$)").test(el.className);
+		};
+		
+		function adjustTansitionClass() {
+			
+			var els = document.getElementsByTagName('*');
+			
+			setTimeout(function() {
+				
+				for (var i=0, j=els.length; i<j; i++){
+					var elm = els[i];
+					if (elm.className) {
+						if ( hasClass(elm,'start-transition') ){
+							
+							elm.className = elm.className.replace(/\bend-transition\b/, '');
+							elm.className = elm.className.replace(/\bstart-transition\b/, 'start-transition end-transition');
+							
+							elm.className = elm.className + " start-transition end-transition ";
+							
+						}
+						
+					}
+				}
+				
+			}, 0);
+			
+		}
+		
+		function appendNextMessage(html){
+			var shouldScroll = nearBottom();
+			
+			//Locate the insertion point
+			var insert = document.getElementById("insert");
+		
+			//make new node
+			range = document.createRange();
+			range.selectNode(insert.parentNode);
+			newNode = range.createContextualFragment(html);
+			
+			//swap
+			var pointer = insert.parentNode;
+			insert.parentNode.replaceChild(newNode,insert);			
+			var els = pointer.getElementsByTagName("div");
+
+			alignChat(shouldScroll);
+		}
+		
+		//Auto-scroll to bottom.  Use nearBottom to determine if a scrollToBottom is desired.
+		function nearBottom() {
+			return ( document.body.scrollTop >= ( document.body.offsetHeight - ( window.innerHeight * 1.2 ) ) );
+		}
+		
+		var intervall_scroll;
+		function scrollToBottom() {
+			
+			//document.body.scrollTop = (document.body.scrollHeight-window.innerHeight);
+			//return;
+			if( intervall_scroll ) clearInterval( intervall_scroll );
+			intervall_scroll = setInterval( function() {
+				var target_scroll = (document.body.scrollHeight-window.innerHeight);
+				var scrolldiff = target_scroll - document.body.scrollTop;
+				if ( document.body.scrollTop != target_scroll ) {
+					var saved_scroll = document.body.scrollTop;
+					document.body.scrollTop += scrolldiff / 17 + ( scrolldiff >= 0 ? (scrolldiff != 0 ) : -1 );
+				 } else {
+				 	saved_scroll = -1;
+					clearInterval( intervall_scroll );
+				 }
+			} , 10 );
+			return;
+		}
+		
+		//Dynamically exchange the active stylesheet
+		function setStylesheet( id, url ) {
+			var code = "<style id=\"" + id + "\" type=\"text/css\" media=\"screen,print\">";
+			if( url.length ) code += "@import url( \"" + url + "\" );";
+			code += "</style>";
+			var range = document.createRange();
+			var head = document.getElementsByTagName( "head" ).item(0);
+			range.selectNode( head );
+			documentFragment = range.createContextualFragment( code );
+			head.removeChild( document.getElementById( id ) );
+			head.appendChild( documentFragment );
+		}
+		
+		//Align our chat to the bottom of the window.  If true is passed, view will also be scrolled down
+		function alignChat(shouldScroll) {
+
+			var windowHeight = window.innerHeight;
+			
+			if(windowHeight > 0) {
+				var contentElement = document.getElementById('Chat');
+				var contentHeight = contentElement.offsetHeight;
+				if (windowHeight - contentHeight > 0) {
+					contentElement.style.position = 'relative';
+					contentElement.style.top = '0px';
+				} else {
+					contentElement.style.position = 'static';
+				}
+			}
+			
+			if(shouldScroll) scrollToBottom();
+		}
+	</script>
+
+</head>
+<body class="table" id="bodyNode" onload="initEvents()">
+%@
+<div id="Chat" class="table-cell">
+	
+</div>
+<div id="Mask"></div>
+%@
+<div id="debug"></div>
+
+</body>
+</html>
