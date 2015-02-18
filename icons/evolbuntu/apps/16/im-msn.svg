@@ -13,8 +13,8 @@
    height="16"
    id="svg13094"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="im-msn.svg">
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="goa-account-msn.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -43,9 +43,9 @@
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1033"
-     inkscape:window-x="-10"
-     inkscape:window-y="25"
+     inkscape:window-height="1025"
+     inkscape:window-x="-2"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:snap-global="false"
      fit-margin-top="0"
@@ -124,20 +124,10 @@
      inkscape:groupmode="layer"
      inkscape:label="Camada 1">
     <path
-       id="path3012"
-       d="m -9384.3076,4847.1987 c 0,6 1.9779,10.9779 5,14 1.2565,-0.7255 2.4571,-2.0369 3.0312,-3.0313 0.5741,0.9944 1.7435,2.3058 3,3.0313 3.0221,-3.0221 5,-8 5,-14 -3,0 -5.5373,1.4024 -7.0312,5 0.027,-0.9898 -0.5168,-2 -0.9688,-2 -0.4519,0 -1.027,1.0102 -1,2 -1.4939,-3.5976 -4.0312,-5 -7.0312,-5 z"
+       id="path2998"
+       d="m -9383.3077,4848.1989 c 0,6 2.25,9 4.2188,12.0313 0.7812,-1.0313 2.2071,-2.0369 2.7812,-3.0313 0.5741,0.9944 2,2 2.75,3.0313 2,-3.0313 4.25,-6.0313 4.25,-12.0313 -3,0 -4,1 -5.9999,3.9998 l -0.5001,-1.9998 -1,0 -0.4687,1.9998 c -2.0313,-2.9998 -3.0313,-3.9998 -6.0313,-3.9998 z"
        style="fill:#434a55;fill-opacity:0.6745098;stroke:none"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#434a55;fill-opacity:0.6745098;stroke:none"
-       d="m -9403.339,4847.1987 c 0,6 1.9779,10.9779 5,14 1.2565,-0.7255 2.4572,-2.0369 3.0313,-3.0313 0.5741,0.9944 1.7435,2.3058 3,3.0313 3.0221,-3.0221 5,-8 5,-14 -3,0 -5.5374,1.4024 -7.0313,5 0.027,-0.9898 -0.5167,-2 -0.9687,-2 -0.452,0 -1.027,1.0102 -1,2 -1.4939,-3.5976 -4.0313,-5 -7.0313,-5 z"
-       id="path2996"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#ececec;fill-opacity:0.6745098;fill-rule:nonzero;stroke:none"
-       d="m -9396.3389,4852.1989 c -0.066,2.1296 0.5081,4.1111 0.9999,5.9998 -1.4089,-1.8681 -2.0614,-5.2504 -1.5963,-7.3574 0.1338,-0.606 0.3635,0.6332 0.5964,1.3576 z"
-       id="rect3005"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccsc" />
+       sodipodi:nodetypes="cccccccccc" />
   </g>
 </svg>

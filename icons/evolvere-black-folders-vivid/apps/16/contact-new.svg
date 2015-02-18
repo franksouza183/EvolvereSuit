@@ -13,7 +13,7 @@
    height="16.000029"
    id="svg27665"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="contact-new.svg">
   <defs
      id="defs27667" />
@@ -31,9 +31,9 @@
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1033"
-     inkscape:window-x="-10"
-     inkscape:window-y="25"
+     inkscape:window-height="1025"
+     inkscape:window-x="-2"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
@@ -91,14 +91,9 @@
      id="layer1"
      transform="translate(3393.2465,-1650.2411)">
     <path
+       inkscape:connector-curvature="0"
        style="color:#000000;fill:#434a55;fill-opacity:0.6745119;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 4 1 C 1.2181 1 0.6251 3.0409 0.6875 4.25 L 0.78125 5.28125 C 0.00305 5.29125 0.3798 7.3841 0.9375 7.3125 C 1.183 8.2013 1.6379 8.7634 2.125 9.1875 C 2.2289 9.8764 2.19125 10.36015 2.15625 10.96875 C 1.5232492 11.38882 0.76297645 11.663877 0 11.90625 L 0 14.78125 C 1.0976568 14.999446 2.4535075 15.125 4 15.125 C 8.1958 15.125 11 14.2048 11 13 C 11 12.4743 7.74515 12.23065 5.84375 10.96875 C 5.80975 10.36015 5.771 9.8763 5.875 9.1875 C 6.362 8.7634 6.8169 8.2013 7.0625 7.3125 C 7.3994437 7.356 7.6662111 6.6002659 7.65625 6 L 7 6 L 7 5 L 7 3 L 7 2.625 C 6.5847007 1.7566845 5.6993547 1 4 1 z "
-       transform="translate(-3393.2465,1650.2411)"
-       id="rect2991" />
-    <path
-       id="path3008"
-       d="m -3382.2464,1650.2411 0,3 -3,0 0,2 3,0 0,3 2,0 0,-3 3,0 0,-2 -3,0 0,-3 -2,0 z"
-       style="color:#000000;fill:#434a55;fill-opacity:0.6745119;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       inkscape:connector-curvature="0" />
+       d="m -3388.2466,1651.2411 c -2.7819,0 -3.3749,2.0409 -3.3125,3.25 l 0.094,1.0313 c -0.7782,0.01 -0.4014,2.1028 0.1563,2.0312 0.2455,0.8888 0.7004,1.4509 1.1875,1.875 0.1039,0.6889 0.066,1.1727 0.031,1.7813 -0.633,0.42 -1.3932,0.695 -2.1562,0.9375 l 0,2.875 c 1.0977,0.2181 2.4535,0.3437 4,0.3437 4.1958,0 7,-0.9202 7,-2.125 0,-0.5257 -3.2549,-0.7693 -5.1563,-2.0312 -0.034,-0.6086 -0.073,-1.0925 0.031,-1.7813 0.487,-0.4241 0.9419,-0.9862 1.1875,-1.875 0.1425,0.018 0.2732,-0.1173 0.375,-0.3125 l -0.4375,0 -2,0 0,-4 2,0 0,-0.375 c -0.4153,-0.8683 -1.3006,-1.625 -3,-1.625 z m 5,0 0,3 -3,0 0,2 3,0 0,3 2,0 0,-3 3,0 0,-2 -3,0 0,-3 -2,0 z"
+       id="path3776" />
   </g>
 </svg>

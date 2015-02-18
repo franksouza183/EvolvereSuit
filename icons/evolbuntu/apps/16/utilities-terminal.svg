@@ -14,7 +14,7 @@
    height="15.999998"
    id="svg13094"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="Etermutilities-terminal.svg">
   <sodipodi:namedview
      id="base"
@@ -44,9 +44,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1033"
-     inkscape:window-x="-10"
-     inkscape:window-y="25"
+     inkscape:window-height="1025"
+     inkscape:window-x="-2"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:snap-global="true"
      fit-margin-top="0"
@@ -131,10 +131,10 @@
      inkscape:groupmode="layer"
      inkscape:label="Camada 1">
     <path
-       id="path3069"
-       d="m -9398.616,5036.9924 0,2 16,0 0,-2 z m 0,3 0,8 16,0 0,-8 z m 2.7812,0.9688 4.5,2.6249 0,0.8125 -4.5,2.625 -0.8125,-1.3125 3.125,-1.7187 -3.125,-1.7188 z m -2.7812,8.0312 0,2 16,0 0,-2 z"
-       style="fill:#434a54;fill-opacity:0.6745098;fill-rule:nonzero;stroke:none"
+       sodipodi:nodetypes="ccccccccccccccccccccccc"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccccccccccccc" />
+       style="fill:#434a54;fill-opacity:0.6745098;fill-rule:nonzero;stroke:none"
+       d="m -9397.616,5036.9924 0,2 14,0 0,-2 z m 0,3 0,8 14,0 0,-8 z m 2.7812,0.9688 4.5,2.6249 0,0.8125 -4.5,2.625 -0.8125,-1.3125 3.125,-1.7187 -3.125,-1.7188 z m -2.7812,8.0312 0,2 14,0 0,-2 z"
+       id="path2994" />
   </g>
 </svg>

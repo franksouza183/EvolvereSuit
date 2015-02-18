@@ -13,7 +13,7 @@
    height="16"
    width="16"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="mail-folder-outbox.svg">
   <defs
      id="defs3009" />
@@ -27,14 +27,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1033"
+     inkscape:window-height="1025"
      id="namedview3007"
      showgrid="true"
      inkscape:zoom="41.7193"
-     inkscape:cx="7.8091864"
-     inkscape:cy="8.6504501"
+     inkscape:cx="9.0507981"
+     inkscape:cy="8.8679105"
      inkscape:window-x="-2"
-     inkscape:window-y="25"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg13094"
      inkscape:snap-bbox="true"
@@ -66,15 +66,15 @@
     </rdf:RDF>
   </metadata>
   <path
-     id="path3028"
-     d="m 0,7 0,8 2,0 12,0 2,0 0,-8 -3,0 0,5 -10,0 0,-5 z"
+     sodipodi:nodetypes="ccccccccccc"
+     inkscape:connector-curvature="0"
      style="color:#000000;fill:#434a55;fill-opacity:0.6745098;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccccccc" />
+     d="m 1,7 0,7 1,0 12,0 1,0 0,-7 -2,0 0,5 -10,0 0,-5 z"
+     id="path2993" />
   <path
-     style="fill:#434a55;fill-opacity:0.6745098;stroke:none"
-     d="M 6,10 6,5 3,5 8,0 l 5,5 -3,0 0,5 z"
-     id="path2987"
+     sodipodi:nodetypes="ccccccccccccc"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccccc" />
+     style="color:#000000;fill:#434a55;fill-opacity:0.6745098;fill-rule:nonzero;stroke:none;stroke-width:2.28571415;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     d="m 5,5 3,-4 3,4 -2.0000002,0 0,3.9999998 L 7,8.9999998 7,5 z m 2,5 1.9999998,0 0,1 L 7,11 z"
+     id="path2985" />
 </svg>

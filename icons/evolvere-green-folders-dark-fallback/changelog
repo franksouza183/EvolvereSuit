@@ -8,29 +8,33 @@ Actions
 	
 Apps
 	
-	- Syncthing added;
-	- Viber added;
-	- BitTorrent Sync added
-	- Borderlands 2 added;
-	- WhatsApp Web added;
-	- Skype adjusted;
-	- AppGrid added;
-	- Minetest / Freeminer added;
-	- Telegram added;
-	- QupZilla added;
-	- KShutdown added;
-	- Vivaldi added;
+	- Syncthing icon added;
+	- Viber icon added;
+	- BitTorrent Sync icon added
+	- Borderlands 2 icon added;
+	- WhatsApp Web icon added;
+	- Skype icon adjusted;
+	- AppGrid icon added;
+	- Minetest / Freeminer icons added;
+	- Telegram icon added;
+	- QupZilla icon added;
+	- KShutdown icon added;
+	- Vivaldi icon added;
+	- Solyd X/K distributors logos icons added;
+	- GShutdown icon added;
+	- Minecraft icon adjusted;
+	- Thunderbird icon added;
 	- Teamviewer file linked to team-viewer;
 	- Files chrome-https___m.facebook.com_.svg and chrome-https___m.facebook.com.svg added and linked to im-facebook.svg
-	- ffado icon file adjusted
+	- ffado icon adjusted
 	- alsa-tools icon file linked to ffado icon file
-	- Added 22px and 24px sizes of Aptana
+	- Added 22px and 24px for various icons
 	
 Mimetypes
 	
-	- Some icons adjusted for small sizes;
+	- Various icons adjusted for small sizes;
 	- Various symlinks added;
-	- Certificates added;
+	- Generic certificate icon added;
 	
 Status
 	
@@ -41,3 +45,4 @@ Status
 Places
 	
 	- Aptana folder added
+	- .directory files adjusted in the root of each icon theme directory for easy identification (KDE)

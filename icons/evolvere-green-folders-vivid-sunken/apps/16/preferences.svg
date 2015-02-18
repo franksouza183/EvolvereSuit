@@ -13,8 +13,8 @@
    height="16"
    id="svg27665"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="preferences-desktop.svg">
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="administration.svg">
   <defs
      id="defs27667" />
   <sodipodi:namedview
@@ -31,9 +31,9 @@
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1033"
-     inkscape:window-x="-10"
-     inkscape:window-y="25"
+     inkscape:window-height="1025"
+     inkscape:window-x="-2"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
@@ -136,9 +136,8 @@
      transform="translate(3364.4171,-2100.7186)">
     <path
        style="color:#000000;fill:#434a55;fill-opacity:0.6745098;fill-rule:nonzero;stroke:none;stroke-width:1.99998009;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 1,0 -1,1 0,14 1,1 14,0 1,-1 0,-14 -1,-1 z m 10,3 c 1.104564,0 2,0.8954363 2,2 0,1.1045637 -0.895436,2 -2,2 C 9.8954363,7 9,6.1045637 9,5 9,5.5539329 8.5539329,6 8,6 L 4,6 C 3.4460671,6 3,5.5539329 3,5 3,4.4460671 3.4460671,4 4,4 L 8,4 C 8.5539329,4 9,4.4460671 9,5 9,3.8954363 9.8954363,3 11,3 z M 5,9 c 1.1045528,0 2,0.8954472 2,2 0,-0.553933 0.4460671,-1 1,-1 l 4,0 c 0.553933,0 1,0.446067 1,1 0,0.553933 -0.446067,1 -1,1 L 8,12 C 7.4460671,12 7,11.553933 7,11 7,12.104553 6.1045528,13 5,13 3.8954472,13 3,12.104553 3,11 3,9.8954472 3.8954472,9 5,9 z"
-       transform="translate(-3364.4171,2100.7186)"
-       id="rect3056"
+       d="m -3362.4171,2101.7186 -1,1 0,12 1,1 12,0 1,-1 0,-12 -1,-1 z m 9,2 c 1.1046,0 2,0.8954 2,2 0,1.1046 -0.8954,2 -2,2 -1.1046,0 -2,-0.8954 -2,-2 0,0.5539 -0.4461,1 -1,1 l -4,0 c -0.5539,0 -1,-0.4461 -1,-1 0,-0.5539 0.4461,-1 1,-1 l 4,0 c 0.5539,0 1,0.4461 1,1 0,-1.1046 0.8954,-2 2,-2 z m -6,6 c 1.1046,0 2,0.8954 2,2 0,-0.5539 0.4461,-1 1,-1 l 4,0 c 0.5539,0 1,0.4461 1,1 0,0.5539 -0.4461,1 -1,1 l -4,0 c -0.5539,0 -1,-0.4461 -1,-1 0,1.1046 -0.8954,2 -2,2 -1.1046,0 -2,-0.8954 -2,-2 0,-1.1046 0.8954,-2 2,-2 z"
+       id="path2999"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccssscssssscsscssssscsss" />
   </g>

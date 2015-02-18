@@ -13,7 +13,7 @@
    height="16"
    width="16"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="folder-musics.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -25,14 +25,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1032"
+     inkscape:window-height="1025"
      id="namedview2995"
      showgrid="false"
      inkscape:zoom="14.75"
      inkscape:cx="8"
      inkscape:cy="8"
-     inkscape:window-x="-1"
-     inkscape:window-y="25"
+     inkscape:window-x="-2"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg13094" />
   <defs
@@ -50,8 +50,9 @@
     </rdf:RDF>
   </metadata>
   <path
-     id="path12179"
-     d="M 12,0 7,12 C 7,11.28764 5.522836,10 3.616484,10 1.710133,10 0,11.35255 0,13 c 0,1.647454 1.6726,3 3.616484,3 1.943885,0 3.86291,-1 4.719092,-3 L 11.10626,6 C 13,6 17.30488,9 11,13 l 2,0 c 1.471888,-0.981259 3,-2.39239 3,-5 0,-2.159825 -2.490629,-4.471888 -3,-6 l 0,-2 z"
-     style="fill:#434a54;fill-opacity:0.67450982;fill-rule:nonzero"
-     inkscape:connector-curvature="0" />
+     id="path3769"
+     d="M 11,1 C 10.346737,3.7144174 8.2856417,9.9788632 7.7308882,10.375869 7.2213183,9.7162333 6.0382663,9 4.616484,9 2.710133,9 1,10.35255 1,12 c 0,1.647454 1.6726,3 3.616484,3 1.943885,0 3.86291,-1 4.719092,-3 L 11.705503,5 C 12.522288,6.1335742 15.544087,9.2891484 11,12 l 2,0 c 1.471888,-0.981259 2,-1.39239 2,-4 0,-2.159825 -1.490629,-3.471888 -2,-5 l 0,-2 z"
+     style="fill:#434a54;fill-opacity:0.6745098;fill-rule:nonzero"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccsssccccsccc" />
 </svg>

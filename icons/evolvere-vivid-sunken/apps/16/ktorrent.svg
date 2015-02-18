@@ -13,7 +13,7 @@
    height="16"
    id="svg27665"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="ktorrent.svg">
   <defs
      id="defs27667" />
@@ -31,9 +31,9 @@
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1033"
-     inkscape:window-x="-10"
-     inkscape:window-y="25"
+     inkscape:window-height="1025"
+     inkscape:window-x="-2"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
@@ -135,10 +135,10 @@
      id="layer1"
      transform="translate(3364.4171,-2100.7186)">
     <path
-       sodipodi:nodetypes="cccccccccccccccccc"
+       style="fill:#434a54;fill-opacity:0.6745098"
+       d="m -3356.4171,2102.7186 0,1 -1,0 0,3 -1,0 0,-5 -1,0 0,6 -3,0 6,8 6,-8 -3,0 0,-6 -1,0 0,4 -1,0 0,-3 z"
+       id="path3024"
        inkscape:connector-curvature="0"
-       id="path3830"
-       d="m -3356.4171,2101.7186 0,1 -1,0 0,3 -1,0 0,-5 -1,0 0,8 -3,0 6,8 6,-8 -3,0 0,-8 -1,0 0,4 -1,0 0,-3 z"
-       style="fill:#434a54;fill-opacity:0.6745098" />
+       sodipodi:nodetypes="cccccccccccccccccc" />
   </g>
 </svg>

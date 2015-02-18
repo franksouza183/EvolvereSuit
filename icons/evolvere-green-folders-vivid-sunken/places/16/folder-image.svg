@@ -13,7 +13,7 @@
    height="16"
    width="16"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="folder-image.svg">
   <defs
      id="defs2989" />
@@ -27,14 +27,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1033"
+     inkscape:window-height="1025"
      id="namedview2987"
      showgrid="true"
      inkscape:zoom="41.7193"
-     inkscape:cx="10.101839"
-     inkscape:cy="7.8117935"
-     inkscape:window-x="-10"
-     inkscape:window-y="25"
+     inkscape:cx="9.8980964"
+     inkscape:cy="7.7878238"
+     inkscape:window-x="-2"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg13094"
      inkscape:snap-bbox="true"
@@ -66,17 +66,8 @@
     </rdf:RDF>
   </metadata>
   <path
-     style="fill:#434a54;fill-opacity:0.6745098;fill-rule:nonzero"
-     d="M 16,1 16,12 14,12 14,3 3,3 3,1 z"
-     id="path2989" />
-  <path
-     style="fill:#434a54;fill-opacity:0.6745098;fill-rule:nonzero"
-     d="M 0 4 L 0 15 L 13 15 L 13 4 L 0 4 z M 2 6 L 11 6 L 11 13 L 2 13 L 2 6 z "
-     id="path2987" />
-  <path
-     sodipodi:nodetypes="ccccccc"
-     inkscape:connector-curvature="0"
-     id="path2998"
-     d="M 9,7 7,10 5,8 2,13 11,13 11,8 z"
-     style="color:#000000;fill:#404957;fill-opacity:0.230837;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+     id="path3009"
+     d="M 1,2 1,14 15,14 15,2 1,2 z m 2,2 10,0 0,8 -10,0 0,-8 z m 9,1 -4,4 0,-2 -4,4 8,0 0,-6 z"
+     style="color:#000000;fill:#434a54;fill-opacity:0.67450980000000005;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     inkscape:connector-curvature="0" />
 </svg>
