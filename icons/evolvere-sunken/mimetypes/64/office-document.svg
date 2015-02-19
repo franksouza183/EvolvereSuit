@@ -14,8 +14,8 @@
    width="64"
    height="64"
    id="svg13094"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="application-vnd.sun.xml.writer.template.svg">
+   inkscape:version="0.91+devel r"
+   sodipodi:docname="libreoffice-text.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -29,9 +29,9 @@
      inkscape:window-height="1033"
      id="namedview68"
      showgrid="true"
-     inkscape:zoom="10.429825"
-     inkscape:cx="27.450539"
-     inkscape:cy="36.082295"
+     inkscape:zoom="20.85965"
+     inkscape:cx="23.107026"
+     inkscape:cy="44.888522"
      inkscape:window-x="-2"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -133,23 +133,6 @@
          offset="1" />
     </linearGradient>
     <linearGradient
-       x1="47.832821"
-       y1="-16.837179"
-       x2="31.585039"
-       y2="-39.05085"
-       id="linearGradient3554-0"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0,64)">
-      <stop
-         id="stop3988-8"
-         style="stop-color:#63b2ea;stop-opacity:0.53678823;"
-         offset="0" />
-      <stop
-         id="stop3990-71"
-         style="stop-color:#5bb4e6;stop-opacity:0;"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
        x1="48.992088"
        y1="46.124821"
        x2="37"
@@ -170,16 +153,6 @@
          offset="1" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3051-2-8"
-       id="linearGradient3238"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-55.89739,0)"
-       x1="18.312868"
-       y1="2.3480074"
-       x2="18.312868"
-       y2="63.818436" />
-    <linearGradient
        id="linearGradient3051-2-8">
       <stop
          id="stop3053-6-1"
@@ -198,6 +171,16 @@
          style="stop-color:#e7e7e7;stop-opacity:1;"
          offset="1" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3051-2-8"
+       id="linearGradient3238"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.95522388,0,0,1,-53.125865,0)"
+       x1="18.312868"
+       y1="2.3480074"
+       x2="18.312868"
+       y2="63.818436" />
   </defs>
   <metadata
      id="metadata13099">
@@ -207,7 +190,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -267,9 +250,9 @@
      id="path4282"
      style="fill:#7cb3e2;fill-opacity:1;fill-rule:nonzero" />
   <path
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:url(#linearGradient3238);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.97735554;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+     d="m 6,8 0,2 16,0 0,-2 z m 0,5 0,2 16,0 0,-2 z m 0,5 0,2 16,0 0,-2 z"
+     id="path3548-6"
      inkscape:connector-curvature="0"
-     d="m 5,8 0,19 28,0 0,-19 z m 38,0 2.34375,7.875 2.09375,0 1.53125,-4.5625 0.03125,0 1.375,4.5625 2.09375,0 L 55,8 l -2.125,0 -1.5,5.09375 -0.03125,0 L 49.8125,8 l -1.625,0 -1.65625,5.09375 -0.03125,0 L 45.125,8 z m -35,3 22,0 0,13 -22,0 z m 19,1 c -1.10457,0 -2,0.89543 -2,2 0,1.10457 0.89543,2 2,2 1.10457,0 2,-0.89543 2,-2 0,-1.10457 -0.89543,-2 -2,-2 z m -11,2 -7,7 0,2 20,0 0,-2 -4,-4 -3,3 z m -11,17 0,3 28,0 0,-3 z m 0,7 0,3 28,0 0,-3 z m 0,7 0,3 28,0 0,-3 z"
-     id="path3548"
-     style="color:#000000;fill:url(#linearGradient3238);fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke:none"
-     sodipodi:nodetypes="cccccccccccccccccccccccccccsssssccccccccccccccccccccccc" />
+     sodipodi:nodetypes="ccccccccccccccc" />
 </svg>

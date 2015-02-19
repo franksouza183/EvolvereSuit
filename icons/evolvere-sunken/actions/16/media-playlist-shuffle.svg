@@ -13,7 +13,7 @@
    width="16"
    height="16"
    id="svg13094"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91+devel r"
    sodipodi:docname="media-playlist-shuffle.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -41,7 +41,7 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
      inkscape:zoom="41.7193"
-     inkscape:cx="7.6988697"
+     inkscape:cx="3.80379"
      inkscape:cy="7.7605181"
      inkscape:window-x="-2"
      inkscape:window-y="23"
@@ -61,12 +61,14 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <path
-     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#434a55;fill-opacity:0.67451191;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-     d="M 13 0 L 13 2 L 11 2 L 10.53125 2 L 10.21875 2.375 L 2.53125 12 L 0 12 L 0 14 L 3 14 L 3.46875 14 L 3.78125 13.625 L 11.46875 4 L 13 4 L 13 6 L 16 3 L 13 0 z M 0 2 L 0 4 L 2.53125 4 L 4.75 6.78125 L 6.03125 5.1875 L 3.78125 2.375 L 3.46875 2 L 3 2 L 0 2 z M 9.25 9.21875 L 7.96875 10.8125 L 10.21875 13.625 L 10.53125 14 L 11 14 L 13 14 L 13 16 L 16 13 L 13 10 L 13 12 L 11.46875 12 L 9.25 9.21875 z "
-     id="path3753" />
+     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccc"
+     inkscape:connector-curvature="0"
+     id="path3002"
+     d="M 12,1 12,3 10,3 9.53125,3 9.21875,3.375 1.53125,11 0,11 0,13 2,13 2.46875,13 2.78125,12.625 10.46875,5 12,5 12,7 15,4 Z M 0,3 0,5 1.53125,5 3.8082422,6.8394922 5.2093409,5.4614697 2.78125,3.375 2.46875,3 2,3 Z M 8.332212,8.7530225 7.0030225,10.155015 9.21875,12.625 9.53125,13 10,13 l 2,0 0,2 3,-3 -3,-3 0,2 -1.53125,0 z"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#434a55;fill-opacity:0.6745119;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
 </svg>

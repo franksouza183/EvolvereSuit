@@ -13,7 +13,7 @@
    width="16"
    height="16"
    id="svg13094"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91+devel r"
    sodipodi:docname="gtk-media-next-rtl.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -41,7 +41,7 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
      inkscape:zoom="41.7193"
-     inkscape:cx="10.515312"
+     inkscape:cx="6.6202323"
      inkscape:cy="7.0174567"
      inkscape:window-x="-2"
      inkscape:window-y="23"
@@ -61,13 +61,13 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <path
-     inkscape:connector-curvature="0"
-     style="fill:#434a54;fill-opacity:0.6745098"
-     d="m 9.9999999,3 0,3.75 L 15,3.625 l 0,8.75 -5.0000001,-3.125 0,3.75 L 2,8 9.9999999,3 z M 2,8 2,12 0,12 0,4 2,4 2,8 z"
-     id="polygon53-17-9-8" />
+     id="path2991"
+     d="M 15,3 15,13 11,10.5 11,13 3,8 11,3 11,5.5 15,3 Z M 3,8 3,12 1,12 1,4 3,4 3,8 Z"
+     style="fill:#434a55;fill-opacity:0.6745098;stroke:none"
+     inkscape:connector-curvature="0" />
 </svg>

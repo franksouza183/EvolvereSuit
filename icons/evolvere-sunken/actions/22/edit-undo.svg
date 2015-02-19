@@ -13,8 +13,8 @@
    height="22"
    id="svg13094"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="edit-undo-amarok.svg">
+   inkscape:version="0.91+devel r"
+   sodipodi:docname="edit-undo.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -23,7 +23,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="32"
-     inkscape:cx="13.080888"
+     inkscape:cx="8.002763"
      inkscape:cy="11.812461"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -114,7 +114,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -124,10 +124,9 @@
      inkscape:groupmode="layer"
      inkscape:label="Camada 1">
     <path
-       style="fill:#434a54;fill-opacity:0.6745098;fill-rule:nonzero;stroke:none"
-       d="m -9376.308,4847.1988 5,4 0,-3 9,0 0,4 -7,0 0,2 9,0 0,-8 -11,0 0,-3 z"
-       id="path3050"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccc" />
+       id="path3789"
+       d="m -9372.308,4842.1988 -5,4 5,4 0,-3 4,0 c 2.5556,0 6.1218,1.6401 7.0312,6.1875 l 1.9375,-0.375 c -1.0905,-5.4526 -5.5243,-7.8125 -8.9687,-7.8125 l -4,0 0,-3 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#434a54;fill-opacity:0.6745098;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

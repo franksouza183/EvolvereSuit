@@ -13,7 +13,7 @@
    width="22"
    height="22"
    id="svg2"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="minecraft.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -25,14 +25,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1033"
+     inkscape:window-height="1025"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="41.7193"
-     inkscape:cx="11.454519"
-     inkscape:cy="12.460095"
-     inkscape:window-x="-10"
-     inkscape:window-y="25"
+     inkscape:zoom="29.5"
+     inkscape:cx="15.936501"
+     inkscape:cy="12.176321"
+     inkscape:window-x="-2"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      inkscape:snap-global="true"
@@ -70,10 +70,20 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <g
+     id="g3043"
+     inkscape:export-filename="folder.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90"
+     transform="translate(141.875,6.582283)" />
+  <g
+     id="scalable"
+     transform="matrix(1.0385892,0,0,1.0385892,1357.2222,1885.3121)"
+     inkscape:label="#g3701"
+     style="fill:#ffffff" />
   <path
+     id="path3198"
+     d="m 2,2 0,18 5,0 0,-7 2,0 0,-2 -4,0 0,-4 4,0 0,4 4,0 0,-4 4,0 0,4 -4,0 0,2 2,0 0,7 5,0 L 20,2 2,2 z m 7,15 0,3 4,0 0,-3 -4,0 z"
      style="color:#000000;fill:#434a55;fill-opacity:0.6745098;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 3,3 0,16 16,0 0,-16 z m 4,4 3,0 0,3 2,0 0,-3 3,0 0,3 -3,0 0,2 3,0 0,2 0,2 -2,0 0,-2 -4,0 0,2 -2,0 0,-2 0,-2 3,0 0,-2 -3,0 z"
-     id="path2985"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccccccccccccccccccccccccc" />
+     inkscape:connector-curvature="0" />
 </svg>
