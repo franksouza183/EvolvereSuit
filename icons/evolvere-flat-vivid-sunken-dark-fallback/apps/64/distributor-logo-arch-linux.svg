@@ -14,7 +14,7 @@
    height="64"
    id="svg13094"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91+devel r"
    sodipodi:docname="distributor-logo-arch-linux.svg">
   <sodipodi:namedview
      id="base"
@@ -24,8 +24,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313709"
-     inkscape:cx="32.056378"
-     inkscape:cy="31.777976"
+     inkscape:cx="29.448922"
+     inkscape:cy="31.601199"
      inkscape:document-units="px"
      inkscape:current-layer="svg13094"
      showgrid="true"
@@ -67,30 +67,7 @@
        originy="18px" />
   </sodipodi:namedview>
   <defs
-     id="defs13096">
-    <linearGradient
-       id="linearGradient5602">
-      <stop
-         id="stop5604"
-         style="stop-color:#11a8e1;stop-opacity:1;"
-         offset="0" />
-      <stop
-         id="stop5606"
-         style="stop-color:#0d95d3;stop-opacity:1;"
-         offset="1" />
-    </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5602"
-       id="radialGradient4140"
-       cx="37.966103"
-       cy="26.576181"
-       fx="37.966103"
-       fy="26.576181"
-       r="32"
-       gradientTransform="matrix(0,1.84375,-1.75,0,78.508318,-55.000001)"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
+     id="defs13096" />
   <metadata
      id="metadata13099">
     <rdf:RDF>
@@ -99,16 +76,16 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <path
-     style="color:#000000;fill:url(#radialGradient4140);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="color:#000000;fill:#0da2de;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      d="M 0 4 L 0 34 L 0 62 L 2 64 L 32 64 L 62 64 L 64 62 L 64 34 L 64 4 L 32 4 L 0 4 z "
      id="path6498" />
   <path
-     style="color:#000000;fill:#38d5ff;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-width:2.28571415000000000"
+     style="color:#000000;fill:#3dd6ff;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-width:2.28571415"
      d="M 2 0 L 0 1 L 0 4 L 32 4 L 64 4 L 64 1 L 62 0 L 32 0 L 2 0 z "
      id="path6502" />
   <image
@@ -118,32 +95,22 @@
      id="image5213"
      style="opacity:0.18372703" />
   <path
-     style="fill:#ffffff;fill-opacity:0.35842294;fill-rule:nonzero"
-     d="M 0 3 L 0 6 L 2 4 L 32 4 L 62 4 L 64 3 L 32 3 L 0 3 z "
-     id="path4298" />
-  <path
-     style="fill:#1f0700;fill-opacity:0.06978802;fill-rule:nonzero"
-     d="M 2 0 L 0 1 L 32 1 L 64 1 L 62 0 L 32 0 L 2 0 z "
-     id="path4444" />
+     style="fill:#64deff;fill-opacity:1;fill-rule:nonzero"
+     d="M 0,3 0,6 2,4 Z"
+     id="path4298"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc" />
   <path
      d="M 64,6 62,4 64,3 z"
      id="path3028"
-     style="fill:#1f0700;fill-opacity:0.13759861"
+     style="fill:#24baed;fill-opacity:1"
      inkscape:connector-curvature="0" />
-  <path
-     style="fill:#000000;fill-opacity:0.11130587;fill-rule:nonzero"
-     d="M 63 0.5 L 63 34 L 63 63 L 64 62 L 64 34 L 64 1 L 63 0.5 z M 63 63 L 32 63 L 1 63 L 2 64 L 32 64 L 62 64 L 63 63 z "
-     id="path4366" />
   <g
      id="g3043"
      inkscape:export-filename="folder.png"
      inkscape:export-xdpi="90"
      inkscape:export-ydpi="90"
      transform="translate(-0.62500009,0.082283)" />
-  <path
-     style="fill:#ffffff;fill-opacity:0.35070675;fill-rule:nonzero"
-     d="M 0 1 L 0 34 L 0 62 L 1 63 L 1 34 L 1 5 L 2 4 L 1 3.46875 L 1 1 L 0 1 z "
-     id="path3864" />
   <g
      id="scalable"
      transform="matrix(1.0385892,0,0,1.0385892,1214.7222,1878.8121)"
@@ -153,5 +120,5 @@
      inkscape:connector-curvature="0"
      d="m 32.823955,11.125785 c -1.974075,4.839908 -3.164742,8.005776 -5.362616,12.701811 1.347572,1.428427 3.001653,3.0919 5.687876,4.970637 -2.887953,-1.188375 -4.85789,-2.381475 -6.330056,-3.619558 -2.81286,5.869465 -7.219803,14.230257 -16.162909,30.2992 7.028981,-4.057953 12.477723,-6.559724 17.555688,-7.514335 -0.21805,-0.937829 -0.34202,-1.952274 -0.3336,-3.010738 l 0.0083,-0.22518 c 0.111534,-4.503282 2.454138,-7.966306 5.229177,-7.731174 2.77504,0.235131 4.932048,4.078569 4.820517,8.581854 -0.02098,0.847375 -0.116558,1.662541 -0.28356,2.418598 C 42.675645,48.979455 48.066123,51.474822 55,55.477875 53.632775,52.960718 52.412408,50.691684 51.247003,48.53066 49.411299,47.107867 47.49657,45.256098 43.590888,43.251443 46.275429,43.949 48.197527,44.753795 49.695764,45.653362 37.846759,23.592585 36.887243,20.661163 32.823955,11.125785 z"
      id="path2518"
-     style="fill:#dae5ed;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+     style="fill:#e0f0fc;fill-opacity:1;fill-rule:evenodd;stroke:none" />
 </svg>
