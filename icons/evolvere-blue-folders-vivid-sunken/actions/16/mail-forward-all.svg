@@ -13,7 +13,7 @@
    height="16"
    id="svg27665"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91+devel r"
    sodipodi:docname="mail-forward-all.svg">
   <defs
      id="defs27667" />
@@ -25,7 +25,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="45.254837"
-     inkscape:cx="6.7341667"
+     inkscape:cx="3.1433903"
      inkscape:cy="7.249828"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -73,7 +73,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -83,17 +83,10 @@
      id="layer1"
      transform="translate(3364.4171,-2100.7186)">
     <path
-       style="color:#000000;fill:#434a55;fill-opacity:0.6745098;fill-rule:nonzero;stroke:none;stroke-width:2.28571415;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m -3359.4167,2112.7188 -3e-4,-1.9996 -3.9997,0.9996 z m -4.0003,-2.9996 4.0003,0.9996 -3e-4,-1.9996 z m 5.0003,2.9996 3,0 0,3 6,-5 -6,-5 0,3 -3,0 z"
-       id="path2993"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccc"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccccccc" />
-    <path
-       style="color:#000000;fill:#434a55;fill-opacity:0.6745098;fill-rule:nonzero;stroke:none;stroke-width:2.28571415;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 9,1 9,4 6,4 6,7 8,7 8,5 9.625,4.21875 13.375,7.34375 15,6 z M 5,4 1,5 5,6 z M 5,6 1,7 2.9375,7.5 4.75,7.03125 5,7.21875 z"
-       transform="translate(-3364.4171,2100.7186)"
-       id="rect2990"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccccccccccc" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#434a55;fill-opacity:0.6745098;fill-rule:nonzero;stroke:none;stroke-width:2.28571415;marker:none;enable-background:accumulate"
+       d="m -3353.4175,2103.7197 0,2 2.75,1.9375 1.25,-0.9375 z m -9,2 0,2 1,0 0,-2 z m 2,0 0,2 1,0 0,-2 z m 2,0 0,2 4,0 0,1 -5,0 0,2 5,0 0,2 4,-3 -4,-3 0,-1 z m -5,3 0,2 1,0 0,-2 z m 2,0 0,2 1,0 0,-2 z"
+       id="path2994" />
   </g>
 </svg>

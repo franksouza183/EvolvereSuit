@@ -14,7 +14,7 @@
    height="24"
    id="svg13094"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91+devel r"
    sodipodi:docname="window-new.svg">
   <sodipodi:namedview
      id="base"
@@ -24,8 +24,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.999999"
-     inkscape:cx="10.923757"
-     inkscape:cy="11.843007"
+     inkscape:cx="6.5413898"
+     inkscape:cy="11.247317"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -44,9 +44,9 @@
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1023"
+     inkscape:window-height="949"
      inkscape:window-x="-10"
-     inkscape:window-y="35"
+     inkscape:window-y="31"
      inkscape:window-maximized="1"
      inkscape:snap-global="true"
      fit-margin-top="0"
@@ -375,7 +375,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -385,10 +385,14 @@
      inkscape:groupmode="layer"
      inkscape:label="Camada 1">
     <path
+       id="path3045"
+       d="m -8063.2657,1109.3712 0,14 11,0 0,-2 -9,0 0,-7 14,0 0,2 2,0 0,-7 -18,0 z m 2,2 1,0 0,1 -1,0 0,-1 z m 2,0 1,0 0,1 -1,0 0,-1 z m 2,0 1,0 0,1 -1,0 0,-1 z"
        style="fill:#434a54;fill-opacity:0.6745098;fill-rule:nonzero;stroke:none"
-       d="m -8063.2657,1109.3712 0,14 10.9999,-10e-5 0,-2 -8.9999,10e-5 0,-7 13.9999,-10e-5 0,2 2,0 1e-4,-6.9999 z m 2,2 1,0 0,1 -1,0 z m 2,0 1,0 0,1 -1,0 z m 2,0 1,0 0,1 -1,0 z m 9.9999,6.9999 0,3 -3,0 0,2 3,0 0,3 2,0 0,-3 3,0 0,-2 -3,0 0,-3 z"
-       id="path3106"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccc" />
+       inkscape:connector-curvature="0" />
+    <path
+       id="path3831"
+       d="m -8047.2658,1118.3711 0,3 -3,0 0,2 3,0 0,3 2,0 0,-3 3,0 0,-2 -3,0 0,-3 z"
+       style="fill:#434a54;fill-opacity:0.6745098;fill-rule:nonzero;stroke:none"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

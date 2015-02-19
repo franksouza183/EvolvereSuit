@@ -13,8 +13,8 @@
    height="16"
    id="svg13094"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="document-import.svg">
+   inkscape:version="0.91+devel r"
+   sodipodi:docname="hb-file-import.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -23,7 +23,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="45.254834"
-     inkscape:cx="7.5664848"
+     inkscape:cx="3.9757082"
      inkscape:cy="8.8497499"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -114,7 +114,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -124,16 +124,10 @@
      inkscape:groupmode="layer"
      inkscape:label="Camada 1">
     <path
+       id="path2996"
+       d="m -9379.3076,4847.1987 0,6 3,0 0,-3 5,4 -5,4 0,-3 -3,0 0,6 10,0 0,-14 z m 0,8 0,-2 -4,0 0,2 z"
        style="fill:#434a54;fill-opacity:0.6745098;fill-rule:nonzero"
-       d="m -9368.3077,4847.1987 0,14 -10.9999,2e-4 0,-6 3.9999,0 0,3 5,-4 -5,-4 0,3 -3.9999,0 -10e-5,-6.0002 z"
-       id="path3789-4"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccc" />
-    <path
-       style="color:#000000;fill:#434a54;fill-opacity:0.6745098;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m -9383.3077,4853.1989 4,0 0,2 -4,0 z"
-       id="rect3005"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
+       sodipodi:nodetypes="ccccccccccccccccc" />
   </g>
 </svg>

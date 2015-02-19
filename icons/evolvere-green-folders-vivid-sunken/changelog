@@ -1,5 +1,9 @@
 1.1.9-1
 
+General
+
+	- Introducing the Flat Vivid Sunken variant
+
 Actions
 	
 	- Various symlinks added;
@@ -25,15 +29,16 @@ Apps
 	- Minecraft icon adjusted;
 	- Thunderbird icon added;
 	- Teamviewer file linked to team-viewer;
-	- Files chrome-https___m.facebook.com_.svg and chrome-https___m.facebook.com.svg added and linked to im-facebook.svg
-	- ffado icon adjusted
-	- alsa-tools icon file linked to ffado icon file
-	- Added 22px and 24px for various icons
+	- Files chrome-https___m.facebook.com_.svg and chrome-https___m.facebook.com.svg added and linked to im-facebook.svg;
+	- ffado icon adjusted;
+	- alsa-tools icon file linked to ffado icon file;
+	- Added 22px and 24px for various icons;
 	
 Mimetypes
 	
 	- Various icons adjusted for small sizes;
 	- Various symlinks added;
+	- Various mimetypes icons design adjusted;
 	- Generic certificate icon added;
 	
 Status
@@ -46,3 +51,4 @@ Places
 	
 	- Aptana folder added
 	- .directory files adjusted in the root of each icon theme directory for easy identification (KDE)
+	

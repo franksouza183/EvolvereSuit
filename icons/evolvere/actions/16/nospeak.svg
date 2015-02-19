@@ -14,8 +14,8 @@
    height="16"
    id="svg7538"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="nospeak.svg">
+   inkscape:version="0.91+devel r"
+   sodipodi:docname="kdenlive-hide-audio.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,7 +24,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="32.000002"
-     inkscape:cx="9.3801103"
+     inkscape:cx="4.3019856"
      inkscape:cy="7.6299081"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -175,7 +175,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -362,9 +362,9 @@
          inkscape:connector-curvature="0" />
     </g>
     <path
-       style="color:#000000;fill:#434a55;fill-opacity:0.6745098;fill-rule:nonzero;stroke:none;stroke-width:2.28571415;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 15.46875 -0.53125 L -0.53125 15.46875 L 0.53125 16.53125 L 3.90625 13.15625 L 4.40625 13.34375 L 6.21875 15.625 L 6.53125 16 L 7 16 L 10 16 L 11 16 L 11 15 L 11 6.0625 L 16.53125 0.53125 L 15.46875 -0.53125 z M 6.53125 0 L 6.21875 0.375 L 4.40625 2.65625 L 0.65625 4.0625 L 0 4.3125 L 0 5 L 0 11 L 0 11.6875 L 0.65625 11.9375 L 0.90625 12.03125 L 11 1.9375 L 11 1 L 11 0 L 10 0 L 7 0 L 6.53125 0 z M 13 7 L 13 9 L 16 9 L 16 7 L 13 7 z M 12 12 L 12 14 L 15 15 L 15 13 L 12 12 z "
-       transform="translate(-234.94618,2204.7093)"
-       id="path3818" />
+       inkscape:connector-curvature="0"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#434a54;fill-opacity:0.6745098;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+       d="m -219.47743,2204.1781 -16,16 1.0625,1.0625 3.875,-3.875 1.0625,0.25 1.8125,1.8125 0.28125,0.2813 0.4375,0 3,0 1,0 0,-1 0,-8.9375 1,-1 0,0.9375 2,-1 0,-1.9375 1.53125,-1.5313 -1.0625,-1.0625 z m -7.90625,1.5313 -0.28125,0.2812 -1.8125,1.8125 -3.71875,0.9375 -0.75,0.1875 0,0.7813 0,6 0,0.7812 0.125,0.031 10.8125,-10.8125 -0.9375,0 -3,0 -0.4375,0 z m 5.4375,6 0,2 2,0 0,-2 -2,0 z m 0,4 0,2 2,1 0,-2 -2,-1 z"
+       id="path3078" />
   </g>
 </svg>

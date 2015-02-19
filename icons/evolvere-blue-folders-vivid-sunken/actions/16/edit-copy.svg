@@ -13,8 +13,8 @@
    height="16"
    id="svg13094"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="editcopy.svg">
+   inkscape:version="0.91+devel r"
+   sodipodi:docname="mail-copy.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -23,7 +23,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="32"
-     inkscape:cx="14.641651"
+     inkscape:cx="9.563526"
      inkscape:cy="7.8366669"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -114,7 +114,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -124,11 +124,10 @@
      inkscape:groupmode="layer"
      inkscape:label="Camada 1">
     <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#434a54;fill-opacity:0.6745098;stroke:none;stroke-width:57.8928833;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="m 1,1 0,2 0,7 0,2 2,0 6,0 2,0 0,-2 0,-7 0,-2 -2,0 -6,0 z m 2,2 6,0 0,7 -6,0 z m 9,1 0,2 1,0 0,7 -6,0 0,0 -2,0 0,2 2,0 6,0 2,0 0,-2 0,-7 0,-2 z"
-       transform="translate(-9384.3076,4846.1987)"
-       id="path3019"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccc"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccc" />
+       id="path2994"
+       d="m -9382.3076,4847.1987 0,2 0,7 0,2 2,0 6,0 2,0 0,-2 0,-7 0,-2 -2,0 -6,0 z m 2,2 6,0 0,7 -6,0 z m 9,1 0,2 0,0 0,7 -5,0 0,0 -3,0 0,2 2,0 6,0 2,0 0,-2 0,-7 0,-2 z"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#434a54;fill-opacity:0.6745098;stroke:none;stroke-width:57.8928833;marker:none;enable-background:accumulate" />
   </g>
 </svg>

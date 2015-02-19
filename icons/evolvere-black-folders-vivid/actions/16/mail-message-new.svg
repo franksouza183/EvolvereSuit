@@ -13,8 +13,8 @@
    height="16"
    id="svg27665"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="mail-message-new.svg">
+   inkscape:version="0.91+devel r"
+   sodipodi:docname="gnome-stock-mail-new.svg">
   <defs
      id="defs27667" />
   <sodipodi:namedview
@@ -25,7 +25,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="45.254834"
-     inkscape:cx="6.8713336"
+     inkscape:cx="3.280557"
      inkscape:cy="9.5092642"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -125,7 +125,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -135,9 +135,10 @@
      id="layer1"
      transform="translate(3364.4171,-2100.7186)">
     <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#434a54;fill-opacity:0.6745098;stroke:none;stroke-width:57.8928833;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="M 0 2 L 0 3 L 8 8.5 L 16 3 L 16 2 L 0 2 z M 0 3.5 L 0 14 L 16 14 L 16 3.5 L 8 10.5 L 0 3.5 z M 1 10 L 2 10 L 2 11 L 1 11 L 1 10 z M 3 10 L 4 10 L 4 11 L 3 11 L 3 10 z M 1 12 L 2 12 L 2 13 L 1 13 L 1 12 z M 3 12 L 4 12 L 4 13 L 3 13 L 3 12 z "
-       transform="translate(-3364.4171,2100.7186)"
-       id="path3004" />
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#434a54;fill-opacity:0.6745098;fill-rule:nonzero;stroke:none;stroke-width:57.8928833;marker:none;enable-background:accumulate"
+       d="m -3363.4171,2102.7186 0,2 7,4.5 7,-4.5 0,-2 z m 0,2.5 0,9.5 14,0 0,-9.5 -7,7 z"
+       id="path2999"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccc" />
   </g>
 </svg>

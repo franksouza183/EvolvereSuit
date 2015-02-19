@@ -13,8 +13,8 @@
    height="16"
    id="svg27665"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="stock_mail-open.svg">
+   inkscape:version="0.91+devel r"
+   sodipodi:docname="mail-mark-read.svg">
   <defs
      id="defs27667" />
   <sodipodi:namedview
@@ -25,7 +25,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="45.254834"
-     inkscape:cx="7.5342462"
+     inkscape:cx="3.9434696"
      inkscape:cy="9.6197496"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -125,7 +125,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -135,13 +135,9 @@
      id="layer1"
      transform="translate(3364.4171,-2100.7186)">
     <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#434a54;fill-opacity:0.6745098;stroke:none;stroke-width:57.8928833;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="M 2 1 L 2 5.75 L 8 10.5 L 14 5.75 L 14 1 L 2 1 z M 4 3 L 12 3 L 12 4 L 4 4 L 4 3 z M 5 5 L 11 5 L 11 6 L 5 6 L 5 5 z "
-       transform="translate(-3364.4171,2100.7186)"
-       id="path2999" />
-    <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#434a54;fill-opacity:0.6745098;stroke:none;stroke-width:57.8928833;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="m -3364.4171,2106.2186 0,10.5 16,0 0,-10.5 -8,7 z"
-       id="path3004" />
+       id="path3007"
+       d="m -3362.4171,2101.7186 0,4.75 6,4.75 6,-4.75 0,-4.75 -12,0 z m 2,2 8,0 0,1 -8,0 0,-1 z m 1,2 6,0 0,1 -6,0 0,-1 z m -4,1.375 0,8.625 14,0 0,-8.625 -7,6.125 -7,-6.125 z"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#434a54;fill-opacity:0.6745098;stroke:none;stroke-width:57.8928833;marker:none;enable-background:accumulate"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

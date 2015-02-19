@@ -13,7 +13,7 @@
    height="15.999972"
    id="svg13094"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91+devel r"
    sodipodi:docname="view-right-new.svg">
   <sodipodi:namedview
      id="base"
@@ -23,7 +23,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="45.254832"
-     inkscape:cx="7.5206849"
+     inkscape:cx="3.9299081"
      inkscape:cy="7.543615"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -138,7 +138,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -149,25 +149,9 @@
      inkscape:label="Camada 1">
     <path
        style="fill:#434a54;fill-opacity:0.6745098;fill-rule:nonzero;stroke:none"
-       d="m 0,1 0,14 16,0 0,-14 z m 2,2 5,0 0,10 -5,0 z m 7,0 5,0 0,10 -5,0 z"
-       transform="translate(-8065.2656,1112.3712)"
-       id="path3043"
+       d="m -8050.2656,1113.3712 0,14 -14,0 0,-14 z m -2,2 -6,0 -4,0 0,10 4,0 6,0 z m -1,1 0,8 -4,0 0,-8 z"
+       id="path3787"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccccc" />
-    <g
-       transform="translate(-4488.3896,2541.1286)"
-       id="g10690-2">
-      <g
-         id="g4224"
-         transform="matrix(0.97058134,0,0,-0.97058134,-134.00158,566.00207)" />
-    </g>
-    <rect
-       style="opacity:1;fill:#434a54;fill-opacity:0.67450982000000004;fill-rule:nonzero;stroke:none"
-       id="rect3033"
-       width="3"
-       height="8"
-       x="9.9999428"
-       y="3.9998863"
-       transform="translate(-8065.2656,1112.3712)" />
+       sodipodi:nodetypes="ccccccccccccccccc" />
   </g>
 </svg>

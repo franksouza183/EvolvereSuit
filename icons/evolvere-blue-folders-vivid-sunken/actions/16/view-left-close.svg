@@ -13,7 +13,7 @@
    height="15.999972"
    id="svg13094"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91+devel r"
    sodipodi:docname="view-left-close.svg">
   <sodipodi:namedview
      id="base"
@@ -23,7 +23,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.999999"
-     inkscape:cx="14.731477"
+     inkscape:cx="9.6533518"
      inkscape:cy="8.1974886"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -138,7 +138,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -149,23 +149,8 @@
      inkscape:label="Camada 1">
     <path
        style="fill:#434a54;fill-opacity:0.6745098;fill-rule:nonzero;stroke:none"
-       d="m -8049.2656,1113.3712 0,14 -16,0 0,-14 16,0 z m -2,2 -5,0 -2,0 -4,0 -1,0 0,10 1,0 4,0 2,0 5,0 0,-10 z"
-       id="path3043"
+       d="m -8050.2656,1113.3712 0,14 -14,0 0,-14 14,0 z m -2,2 -4,0 -6,0 0,10 6,0 4,0 0,-10 z m -5,1 0,1 -1,0 0,-1 1,0 z m -1,1 0,1 -1,0 0,-1 1,0 z m -1,0 -1,0 0,-1 1,0 0,1 z m -1,0 0,1 -1,0 0,-1 1,0 z m 0,1 1,0 0,1 -1,0 0,-1 z m 0,1 0,1 -1,0 0,-1 1,0 z m 0,1 1,0 0,1 -1,0 0,-1 z m 0,1 0,1 -1,0 0,-1 1,0 z m 0,1 1,0 0,1 -1,0 0,-1 z m 0,1 0,1 -1,0 0,-1 1,0 z m 1,0 1,0 0,1 -1,0 0,-1 z m 1,0 0,-1 1,0 0,1 -1,0 z m 0,-1 -1,0 0,-1 1,0 0,1 z m 0,-1 0,-1 1,0 0,1 -1,0 z m 0,-1 -1,0 0,-1 1,0 0,1 z m 0,-1 0,-1 1,0 0,1 -1,0 z"
+       id="path3787"
        inkscape:connector-curvature="0" />
-    <g
-       transform="translate(-4488.3896,2541.1286)"
-       id="g10690-2">
-      <g
-         id="g4224"
-         transform="matrix(0.97058134,0,0,-0.97058134,-134.00158,566.00207)" />
-    </g>
-    <rect
-       y="1116.3711"
-       x="8057.2656"
-       height="8"
-       width="5.0000958"
-       id="rect3771"
-       style="fill:#404957;fill-opacity:0.23137255;fill-rule:nonzero;stroke:none"
-       transform="scale(-1,1)" />
   </g>
 </svg>

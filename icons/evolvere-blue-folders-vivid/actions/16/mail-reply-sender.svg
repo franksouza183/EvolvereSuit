@@ -13,8 +13,8 @@
    height="16"
    id="svg27665"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="mail-reply-sender.svg">
+   inkscape:version="0.91+devel r"
+   sodipodi:docname="gnome-stock-mail-rpl.svg">
   <defs
      id="defs27667" />
   <sodipodi:namedview
@@ -25,7 +25,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="45.254837"
-     inkscape:cx="9.242186"
+     inkscape:cx="5.6514096"
      inkscape:cy="7.0288571"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -73,7 +73,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -83,10 +83,10 @@
      id="layer1"
      transform="translate(3364.4171,-2100.7186)">
     <path
-       style="color:#000000;fill:#434a55;fill-opacity:0.6745098;fill-rule:nonzero;stroke:none;stroke-width:2.28571415;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m -3353.4167,2106.7189 3e-4,1.9996 3.9997,-0.9996 z m 4.0003,2.9996 -4.0003,-0.9996 3e-4,1.9996 z m -5.0003,-2.9996 -3,0 0,-3 -6,5 6,5 0,-3 3,0 z"
-       id="rect2990"
+       sodipodi:nodetypes="cccccccccccccccccc"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccccccc" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#434a55;fill-opacity:0.6745098;fill-rule:nonzero;stroke:none;stroke-width:2.28571415;marker:none;enable-background:accumulate"
+       d="m -3359.4171,2105.7192 -4,3 4,3 0,-2 6,0 0,-2 -6,0 z m 7,2 0,2 1,0 0,-2 z m 2,0 0,2 1,0 0,-2 z"
+       id="path2985" />
   </g>
 </svg>

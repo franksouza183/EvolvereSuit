@@ -13,7 +13,7 @@
    height="16.000004"
    id="svg13094"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91+devel r"
    sodipodi:docname="view-list-compact.svg">
   <sodipodi:namedview
      id="base"
@@ -23,7 +23,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="45.254835"
-     inkscape:cx="5.7898791"
+     inkscape:cx="2.1991026"
      inkscape:cy="7.8610163"
      inkscape:document-units="px"
      inkscape:current-layer="svg13094"
@@ -74,12 +74,13 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <path
-     style="fill:#434a54;fill-opacity:0.6745098;fill-rule:nonzero;stroke:none"
-     d="M 0 1 L 0 5 L 4 5 L 4 1 L 0 1 z M 9 1 L 9 5 L 13 5 L 13 1 L 9 1 z M 5 2 L 5 4 L 7 4 L 7 2 L 5 2 z M 14 2 L 14 4 L 16 4 L 16 2 L 14 2 z M 0 6 L 0 10 L 4 10 L 4 6 L 0 6 z M 9 6 L 9 10 L 13 10 L 13 6 L 9 6 z M 5 7 L 5 9 L 7 9 L 7 7 L 5 7 z M 14 7 L 14 9 L 16 9 L 16 7 L 14 7 z M 0 11 L 0 15 L 4 15 L 4 11 L 0 11 z M 5 12 L 5 14 L 7 14 L 7 12 L 5 12 z "
-     id="rect3783" />
+     inkscape:connector-curvature="0"
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#434a54;fill-opacity:0.6745098;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+     d="m 2,1.9999998 c -0.554,0 -1,0.446 -1,1 0,0.554 0.446,1 1,1 l 4,0 c 0.554,0 1,-0.446 1,-1 0,-0.554 -0.446,-1 -1,-1 l -4,0 z m 8,0 c -0.554,0 -1,0.446 -1,1 0,0.554 0.446,1 1,1 l 4,0 c 0.554,0 1,-0.446 1,-1 0,-0.554 -0.446,-1 -1,-1 l -4,0 z m -8,5 c -0.554,0 -1,0.446 -1,1 0,0.554 0.446,1 1,1 l 4,0 c 0.554,0 1,-0.446 1,-1 0,-0.554 -0.446,-1 -1,-1 l -4,0 z m 8,0 c -0.554,0 -1,0.446 -1,1 0,0.554 0.446,1 1,1 l 4,0 c 0.554,0 1,-0.446 1,-1 0,-0.554 -0.446,-1 -1,-1 l -4,0 z M 2,12 c -0.554,0 -1,0.446 -1,1 0,0.554 0.446,1 1,1 l 4,0 C 6.554,14 7,13.554 7,13 7,12.446 6.554,12 6,12 l -4,0 z"
+     id="rect3090" />
 </svg>

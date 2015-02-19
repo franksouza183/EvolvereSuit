@@ -14,8 +14,8 @@
    height="16.000004"
    id="svg13094"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="view-list-tree.svg">
+   inkscape:version="0.91+devel r"
+   sodipodi:docname="kr_treeview.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,7 +24,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="45.254835"
-     inkscape:cx="7.5024033"
+     inkscape:cx="3.9116268"
      inkscape:cy="7.6400454"
      inkscape:document-units="px"
      inkscape:current-layer="svg13094"
@@ -374,18 +374,13 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <path
-     style="fill:#434a54;fill-opacity:0.6745098;fill-rule:nonzero;stroke:none"
-     d="M 1 1 L 1 5 L 5 5 L 5 1 L 1 1 z M 6 6 L 6 10 L 10 10 L 10 6 L 6 6 z M 1 11 L 1 15 L 5 15 L 5 11 L 1 11 z "
-     id="rect3783" />
-  <path
-     style="fill:#404957;fill-opacity:0.23137255;fill-rule:nonzero;stroke:none"
-     d="m 6,2 0,2 9,0 0,-2 z M 2,5 2,7 2,9 4,9 6,9 6,7 4,7 4,5 z m 9,2 0,2 4,0 0,-2 z m -5,5 0,2 9,0 0,-2 z"
-     id="rect3806"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccccccccccccccccccccc" />
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#434a54;fill-opacity:0.6745098;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+     d="M 1,5.8146973e-6 C 0.44600002,5.8146973e-6 1.6362304e-8,0.44600581 1.6362304e-8,1.0000058 l 0,2 c 0,0.554 0.446000003637696,1 0.999999983637696,1 l 2,0 c 0.554,0 1,-0.446 1,-1 l 0,-2 C 4,0.44600581 3.554,5.8146973e-6 3,5.8146973e-6 l -2,0 z M 2,1.0000058 c 0.554,0 1,0.446 1,1 0,0.554 -0.446,1 -1,1 -0.554,0 -1,-0.446 -1,-1 0,-0.554 0.446,-1 1,-1 z m 0,4 0,3 1,0 3,0 0,1 c 0,0.554 0.446,1.0000002 1,1.0000002 l 2,0 c 0.554,0 1,-0.4460002 1,-1.0000002 l 0,-2 c 0,-0.554 -0.446,-1 -1,-1 l -2,0 c -0.554,0 -1,0.446 -1,1 l -3,0 0,-2 -1,0 z m 6,2 c 0.554,0 1,0.446 1,1 0,0.554 -0.446,1 -1,1 -0.554,0 -1,-0.446 -1,-1 0,-0.554 0.446,-1 1,-1 z m 0,4.0000002 0,3 1,0 3,0 0,1 c 0,0.554 0.446,1 1,1 l 2,0 c 0.554,0 1,-0.446 1,-1 l 0,-2 c 0,-0.554 -0.446,-1 -1,-1 l -2,0 c -0.554,0 -1,0.446 -1,1 l -3,0 0,-2 -1,0 z m 6,2 c 0.554,0 1,0.446 1,1 0,0.554 -0.446,1 -1,1 -0.554,0 -1,-0.446 -1,-1 0,-0.554 0.446,-1 1,-1 z"
+     id="path3076"
+     inkscape:connector-curvature="0" />
 </svg>

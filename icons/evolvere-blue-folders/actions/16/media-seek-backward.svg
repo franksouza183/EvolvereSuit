@@ -13,8 +13,8 @@
    width="16"
    height="16"
    id="svg13094"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="media-skip-backward.svg">
+   inkscape:version="0.91+devel r"
+   sodipodi:docname="gtk-media-rewind-ltr.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -41,7 +41,7 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
      inkscape:zoom="41.7193"
-     inkscape:cx="10.515312"
+     inkscape:cx="6.6202323"
      inkscape:cy="7.0174567"
      inkscape:window-x="-2"
      inkscape:window-y="23"
@@ -61,13 +61,14 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <path
-     id="path4115-0"
-     d="M 9,3 1,8 9,13 9,9.25 14,12.375 14,3.625 9,6.75 9,3 z"
-     style="fill:#434a54;fill-opacity:0.6745098"
-     inkscape:connector-curvature="0" />
+     sodipodi:nodetypes="cccccccc"
+     inkscape:connector-curvature="0"
+     style="fill:#434a55;fill-opacity:0.6745098;stroke:none"
+     d="M 14,3 14,13 10,10.5 10,13 2,8 10,3 10,5.5 Z"
+     id="path2995" />
 </svg>

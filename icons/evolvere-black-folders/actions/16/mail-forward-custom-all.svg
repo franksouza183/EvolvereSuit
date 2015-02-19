@@ -13,7 +13,7 @@
    height="16"
    id="svg27665"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91+devel r"
    sodipodi:docname="mail-forward-custom-all.svg">
   <defs
      id="defs27667" />
@@ -25,7 +25,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="45.254837"
-     inkscape:cx="9.5957393"
+     inkscape:cx="6.0049629"
      inkscape:cy="6.0786824"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -73,7 +73,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -83,28 +83,9 @@
      id="layer1"
      transform="translate(3364.4171,-2100.7186)">
     <path
-       style="color:#000000;fill:#434a55;fill-opacity:0.6745098;fill-rule:nonzero;stroke:none;stroke-width:2.28571415;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m -3364.4171,2114.7186 0,2 2,0 0,-2 -2,0 z"
-       id="path2988" />
-    <path
-       style="color:#000000;fill:#434a55;fill-opacity:0.6745098;fill-rule:nonzero;stroke:none;stroke-width:2.28571415;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m -3361.4171,2114.7186 0,2 2,0 0,-2 -2,0 z"
-       id="path2986" />
-    <path
-       style="color:#000000;fill:#434a55;fill-opacity:0.6745098;fill-rule:nonzero;stroke:none;stroke-width:2.28571415;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m -3358.4171,2114.7186 0,2 2,0 0,-2 -2,0 z"
-       id="path2984" />
-    <path
-       style="color:#000000;fill:#434a55;fill-opacity:0.6745098;fill-rule:nonzero;stroke:none;stroke-width:2.28571415;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m -3358.4167,2112.7188 -3e-4,-1.9996 -3.9997,0.9996 z m -4.0003,-2.9996 4.0003,0.9996 -3e-4,-1.9996 z m 5.0003,2.9996 3,0 0,3 6,-5 -6,-5 0,3 -3,0 z"
-       id="path2993"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccccccc" />
-    <path
-       style="color:#000000;fill:#434a55;fill-opacity:0.6745098;fill-rule:nonzero;stroke:none;stroke-width:2.28571415;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m -3354.4171,2101.7186 0,3 -3,0 0,3 2,0 0,-2 1.625,-0.7812 3.75,3.125 1.625,-1.3438 z m -4,3 -4,1 4,1 z m 0,2 -4,1 1.9375,0.5 1.8125,-0.4687 0.25,0.1875 z"
-       id="rect2990"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccccccccccc" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#434a55;fill-opacity:0.6745098;fill-rule:nonzero;stroke:none;stroke-width:2.28571415;marker:none;enable-background:accumulate"
+       d="m -3353.4171,2101.7186 0,2 2.75,1.9375 1.25,-0.9375 -4,-3 z m -9,2 0,2 1,0 0,-2 -1,0 z m 2,0 0,2 1,0 0,-2 -1,0 z m 2,0 0,2 4,0 0,1 -5,0 0,2 5,0 0,2 4,-3 -4,-3 0,-1 -4,0 z m -5,3 0,2 1,0 0,-2 -1,0 z m 2,0 0,2 1,0 0,-2 -1,0 z m 4,7 0,2 2,0 0,-2 -2,0 z m 3,0 0,2 2,0 0,-2 -2,0 z m 3,0 0,2 2,0 0,-2 -2,0 z"
+       id="path2994" />
   </g>
 </svg>

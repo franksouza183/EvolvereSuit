@@ -1,0 +1,49 @@
+1.1.9-1
+
+Actions
+	
+	- Various symlinks added;
+	- Some small icons redesigned;
+	- tab-close, tab-close-other, tab-detach, tab-duplicate and tab-new-background icons added
+	
+Apps
+	
+	- Syncthing icon added;
+	- Viber icon added;
+	- BitTorrent Sync icon added
+	- Borderlands 2 icon added;
+	- WhatsApp Web icon added;
+	- Skype icon adjusted;
+	- AppGrid icon added;
+	- Minetest / Freeminer icons added;
+	- Telegram icon added;
+	- QupZilla icon added;
+	- KShutdown icon added;
+	- Vivaldi icon added;
+	- Solyd X/K distributors logos icons added;
+	- GShutdown icon added;
+	- Minecraft icon adjusted;
+	- Thunderbird icon added;
+	- Teamviewer file linked to team-viewer;
+	- Files chrome-https___m.facebook.com_.svg and chrome-https___m.facebook.com.svg added and linked to im-facebook.svg;
+	- ffado icon adjusted;
+	- alsa-tools icon file linked to ffado icon file;
+	- Added 22px and 24px for various icons;
+	
+Mimetypes
+	
+	- Various icons adjusted for small sizes;
+	- Various symlinks added;
+	- Generic certificate icon added;
+	
+Status
+	
+	- Google Chrome status icons added;
+	- Dropbox status icon converted to png for compatibility;
+	- BitTorrent Sync status icons added
+
+Places
+	
+	- Aptana folder added
+	- .directory files adjusted in the root of each icon theme directory for easy identification (KDE)
+	

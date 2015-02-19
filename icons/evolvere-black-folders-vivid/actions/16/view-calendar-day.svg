@@ -13,7 +13,7 @@
    width="16"
    height="16"
    id="svg2"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91+devel r"
    sodipodi:docname="view-calendar-day.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -29,7 +29,7 @@
      id="namedview32"
      showgrid="true"
      inkscape:zoom="45.254835"
-     inkscape:cx="7.2691219"
+     inkscape:cx="3.6783454"
      inkscape:cy="6.9344319"
      inkscape:window-x="-10"
      inkscape:window-y="25"
@@ -69,7 +69,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -104,7 +104,7 @@
      x="5"
      y="7" />
   <rect
-     style="color:#000000;fill:#434a54;fill-opacity:0.6745098;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="color:#000000;fill:#404957;fill-opacity:0.230837;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect3088"
      width="2"
      height="2"
@@ -124,13 +124,6 @@
      height="2"
      x="9"
      y="7" />
-  <rect
-     style="color:#000000;fill:#404957;fill-opacity:0.230837;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     id="rect3090"
-     width="2"
-     height="2"
-     x="9"
-     y="10" />
   <rect
      style="color:#000000;fill:#404957;fill-opacity:0.230837;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      id="rect3098"
@@ -160,9 +153,9 @@
      id="rect3100"
      style="color:#000000;fill:#404957;fill-opacity:0.230837;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   <path
+     id="path2996"
+     d="M 1,1 1,5 15,5 15,1 13,1 13,3 11,3 11,1 5,1 5,3 3,3 3,1 Z m 8,9 0,2 2,0 0,-2 z"
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#434a54;fill-opacity:0.6745098;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
      inkscape:connector-curvature="0"
-     style="color:#000000;fill:#434a54;fill-opacity:0.6745098;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="M 0,1 0,5 16,5 16,1 14,1 14,3 12,3 12,1 4,1 4,3 2,3 2,1 z"
-     id="rect3102"
-     sodipodi:nodetypes="ccccccccccccc" />
+     sodipodi:nodetypes="cccccccccccccccccc" />
 </svg>

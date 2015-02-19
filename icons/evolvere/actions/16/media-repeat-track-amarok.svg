@@ -13,7 +13,7 @@
    width="16"
    height="16"
    id="svg13094"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91+devel r"
    sodipodi:docname="media-repeat-track-amarok.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -41,7 +41,7 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
      inkscape:zoom="41.7193"
-     inkscape:cx="11.857616"
+     inkscape:cx="7.9625363"
      inkscape:cy="7.6646392"
      inkscape:window-x="-2"
      inkscape:window-y="23"
@@ -65,12 +65,13 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <path
-     style="fill:#434a54;fill-opacity:0.6745098;fill-rule:nonzero;stroke:none"
-     d="M 2 2 L 2 4 L 12 4 L 12 12 L 4 12 L 4 9 L 6 9 L 3 6 L 0 9 L 2 9 L 2 14 L 14 14 L 14 2 L 2 2 z M 9 5 L 9 6 L 8 6 L 8 7 L 9 7 L 9 10 L 8 10 L 8 11 L 11 11 L 11 10 L 10 10 L 10 7 L 10 6 L 10 5 L 9 5 z "
-     id="rect2983" />
+     inkscape:connector-curvature="0"
+     id="path2993"
+     d="M 3,2 3,4 13,4 13,12 5,12 5,9 7,9 4,6 1,9 3,9 3,14 15,14 15,2 3,2 Z m 7,3 0,1 -1,0 0,1 1,0 0,3 -1,0 0,1 3,0 0,-1 -1,0 0,-3 0,-1 0,-1 -1,0 z"
+     style="fill:#434a54;fill-opacity:0.6745098;fill-rule:nonzero;stroke:none" />
 </svg>
