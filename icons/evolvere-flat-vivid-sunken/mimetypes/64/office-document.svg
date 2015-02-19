@@ -30,8 +30,8 @@
      id="namedview68"
      showgrid="true"
      inkscape:zoom="10.429825"
-     inkscape:cx="3.9122721"
-     inkscape:cy="29.179015"
+     inkscape:cx="46.338679"
+     inkscape:cy="30.904835"
      inkscape:window-x="-10"
      inkscape:window-y="35"
      inkscape:window-maximized="1"
@@ -79,16 +79,6 @@
          offset="1" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3828-4"
-       id="linearGradient4161"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0,-4)"
-       x1="22.723297"
-       y1="67.999992"
-       x2="22.723297"
-       y2="6" />
-    <linearGradient
        gradientUnits="userSpaceOnUse"
        id="linearGradient3828-4"
        y2="2"
@@ -112,6 +102,16 @@
          style="stop-color:#e0e4e6;stop-opacity:1"
          id="stop3836-1" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3828-4"
+       id="linearGradient4161"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-4)"
+       x1="22.723297"
+       y1="67.999992"
+       x2="22.723297"
+       y2="6" />
   </defs>
   <metadata
      id="metadata13099">
@@ -147,7 +147,7 @@
      style="fill:#2170c1;fill-opacity:1;fill-rule:nonzero" />
   <path
      style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:url(#linearGradient4161);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-     d="m 6,8 0,3 16.75,0 0,-3 z m 0,6 0,3 16.75,0 0,-3 z m 0,6 0,3 16.75,0 0,-3 z"
+     d="m 6,8 0,2 16,0 0,-2 z m 0,5 0,2 16,0 0,-2 z m 0,5 0,2 16,0 0,-2 z"
      id="path3548"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccccccccccc" />
