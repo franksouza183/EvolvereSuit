@@ -23,7 +23,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313709"
-     inkscape:cx="35.723942"
+     inkscape:cx="21.360836"
      inkscape:cy="28.24807"
      inkscape:document-units="px"
      inkscape:current-layer="svg13094"
@@ -91,12 +91,6 @@
      d="M 2,0 0,1 0,4 32,4 64,4 64,1 62,0 32,0 Z"
      style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffbc35;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415;marker:none;enable-background:accumulate"
      inkscape:connector-curvature="0" />
-  <path
-     sodipodi:nodetypes="cccc"
-     inkscape:connector-curvature="0"
-     style="fill:#1f0700;fill-opacity:0.13759861"
-     id="path3028"
-     d="M 64,6 62,4 64,3 Z" />
   <g
      id="g3933"
      style="fill:#ffcc00">
@@ -184,7 +178,7 @@
     </g>
   </g>
   <path
-     style="fill:#fff38e;fill-opacity:0.55187833;fill-rule:nonzero"
+     style="fill:#ffc950;fill-opacity:1;fill-rule:nonzero;opacity:1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      d="M 0,3 0,6 2,4 Z"
      id="path4298"
      inkscape:connector-curvature="0"
@@ -305,4 +299,10 @@
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#421300;fill-opacity:0.16368516;fill-rule:nonzero;stroke:none;stroke-width:1.10143617;marker:none;enable-background:accumulate;opacity:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
   </g>
+  <path
+     sodipodi:nodetypes="cccc"
+     inkscape:connector-curvature="0"
+     style="fill:#d89f2c;fill-opacity:1;opacity:1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="path3028"
+     d="M 64,6 62,4 64,3 Z" />
 </svg>
