@@ -14,8 +14,8 @@
    width="64"
    height="64"
    id="svg13094"
-   inkscape:version="0.91+devel r"
-   sodipodi:docname="ms-office-spreadsheet.svg">
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="gnome-mime-application-vnd.openxmlformats-officedocument.spreadsheetml.sheet.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -25,8 +25,8 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
      id="namedview44"
      showgrid="true"
      inkscape:snap-bbox="true"
@@ -34,10 +34,13 @@
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-bbox-midpoints="true"
      inkscape:bbox-paths="true"
-     inkscape:zoom="13.037281"
-     inkscape:cx="14.899283"
-     inkscape:cy="35.673558"
-     inkscape:current-layer="svg13094">
+     inkscape:zoom="26.074562"
+     inkscape:cx="18.950913"
+     inkscape:cy="43.222182"
+     inkscape:current-layer="svg13094"
+     inkscape:window-x="-2"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
        id="grid4177" />
@@ -230,7 +233,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -279,8 +282,8 @@
      id="path4282"
      style="fill:#a4c672;fill-opacity:1;fill-rule:nonzero" />
   <path
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4215);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-     d="m 5,8 0,15 0.25,0 0.75,0 7,0 1,0 7,0 1,0 0,-3 L 22,8 6,8 Z M 54,9 C 54,8.446 53.554,8 53,8 l -3,0 0,2 2,0 0,5 -5,0 0,-2 -2,0 0,3 c 0,0.554 0.446,1 1,1 l 7,0 c 0.554,0 1,-0.446 1,-1 z m -48,2 7,0 0,3 -7,0 z m 8,0 7,0 0,3 -7,0 z M 48,9.5 C 48,8.67157 47.32843,8 46.5,8 45.67157,8 45,8.67157 45,9.5 45,10.32843 45.67157,11 46.5,11 47.32843,11 48,10.32843 48,9.5 Z M 6,17 l 7,0 0,3 -7,0 z m 8,0 7,0 0,3 -7,0 z"
+     style="color:#000000;fill:url(#linearGradient4215);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     d="m 5,8 0,12 0.25,0 0.75,0 7,0 1,0 7,0 1,0 0,-2 L 22,8 6,8 z M 54,9 C 54,8.446 53.554,8 53,8 l -3,0 0,2 2,0 0,5 -5,0 0,-2 -2,0 0,3 c 0,0.554 0.446,1 1,1 l 7,0 c 0.554,0 1,-0.446 1,-1 z m -48,1 7,0 0,3 -7,0 z m 8,0 7,0 0,3 -7,0 z M 48,9.5 C 48,8.67157 47.32843,8 46.5,8 45.67157,8 45,8.67157 45,9.5 45,10.32843 45.67157,11 46.5,11 47.32843,11 48,10.32843 48,9.5 z M 6,15 l 7,0 0,3 -7,0 z m 8,0 7,0 0,3 -7,0 z"
      id="path3858"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccccccccsscccccccsssssccccccccccssssscccccccccc" />

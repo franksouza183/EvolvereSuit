@@ -14,7 +14,7 @@
    width="64"
    height="64"
    id="svg13094"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="csv.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -26,14 +26,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1033"
+     inkscape:window-height="1025"
      id="namedview58"
      showgrid="true"
-     inkscape:zoom="10.429825"
-     inkscape:cx="30.381925"
-     inkscape:cy="34.747579"
-     inkscape:window-x="-10"
-     inkscape:window-y="25"
+     inkscape:zoom="14.75"
+     inkscape:cx="39.662706"
+     inkscape:cy="38.734863"
+     inkscape:window-x="-2"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg13094">
     <inkscape:grid
@@ -145,40 +145,6 @@
          style="stop-color:#67a4b0;stop-opacity:1"
          offset="1" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3918"
-       id="linearGradient4549-8-1"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-3117.6016,-1600.2279)"
-       x1="3113.439"
-       y1="1664.3622"
-       x2="3113.439"
-       y2="1602.3622" />
-    <linearGradient
-       x1="31"
-       y1="64"
-       x2="31"
-       y2="2"
-       id="linearGradient3918"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         id="stop3920"
-         style="stop-color:#d4d4d4;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop3922"
-         style="stop-color:#e4e4e4;stop-opacity:1"
-         offset="0.50050378" />
-      <stop
-         id="stop3924"
-         style="stop-color:#d4d4d4;stop-opacity:1"
-         offset="0.51612902" />
-      <stop
-         id="stop3926"
-         style="stop-color:#e4e4e4;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
   </defs>
   <metadata
      id="metadata13099">
@@ -248,7 +214,9 @@
      id="path4282"
      style="fill:#8cc9d5;fill-opacity:1;fill-rule:nonzero" />
   <path
-     style="color:#000000;fill:url(#linearGradient4549-8-1);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="M 5 8 L 5 11 L 15 11 L 15 8 L 5 8 z M 18 8 L 18 11 L 28 11 L 28 8 L 18 8 z M 31 8 L 31 11 L 41 11 L 41 8 L 31 8 z M 5 14 L 5 17 L 15 17 L 15 14 L 5 14 z M 18 14 L 18 17 L 28 17 L 28 14 L 18 14 z M 31 14 L 31 17 L 41 17 L 41 14 L 31 14 z M 5 20 L 5 23 L 15 23 L 15 20 L 5 20 z M 18 20 L 18 23 L 28 23 L 28 20 L 18 20 z M 31 20 L 31 23 L 41 23 L 41 20 L 31 20 z M 5 26 L 5 29 L 15 29 L 15 26 L 5 26 z M 18 26 L 18 29 L 28 29 L 28 26 L 18 26 z M 31 26 L 31 29 L 41 29 L 41 26 L 31 26 z "
-     id="rect3109" />
+     style="color:#000000;fill:#dfdfdf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.97735554;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     d="m 5,8 0,2 6,0 0,-2 z m 9,0 0,2 6,0 0,-2 z m 9,0 0,2 6,0 0,-2 z m -18,5 0,2 6,0 0,-2 z m 9,0 0,2 6,0 0,-2 z m 9,0 0,2 6,0 0,-2 z m -18,5 0,2 6,0 0,-2 z m 9,0 0,2 6,0 0,-2 z m 9,0 0,2 6,0 0,-2 z"
+     id="rect3109"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccc" />
 </svg>

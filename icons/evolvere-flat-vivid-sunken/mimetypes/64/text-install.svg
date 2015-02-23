@@ -14,7 +14,7 @@
    width="64"
    height="64"
    id="svg13094"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="text-install.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1023"
+     inkscape:window-height="1025"
      id="namedview44"
      showgrid="true"
      inkscape:snap-bbox="true"
@@ -42,12 +42,13 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
      inkscape:zoom="10.429825"
-     inkscape:cx="17.620664"
-     inkscape:cy="27.993245"
-     inkscape:window-x="-10"
-     inkscape:window-y="35"
+     inkscape:cx="49.308636"
+     inkscape:cy="29.910823"
+     inkscape:window-x="-2"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg13094">
+     inkscape:current-layer="svg13094"
+     inkscape:snap-global="false">
     <inkscape:grid
        type="xygrid"
        id="grid3803"
@@ -138,26 +139,6 @@
          offset="1" />
     </linearGradient>
     <linearGradient
-       x1="48.992088"
-       y1="46.124821"
-       x2="37"
-       y2="36"
-       id="linearGradient4280-6"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         id="stop4293-9"
-         style="stop-color:#89c652;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop4295-7"
-         style="stop-color:#71af39;stop-opacity:1"
-         offset="0.2098622" />
-      <stop
-         id="stop4297-0"
-         style="stop-color:#89c751;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5488"
        id="linearGradient5047"
@@ -171,19 +152,19 @@
        id="linearGradient5488">
       <stop
          id="stop5490"
-         style="stop-color:#99d06a;stop-opacity:1"
+         style="stop-color:#abe47b;stop-opacity:1"
          offset="0" />
       <stop
          id="stop5492"
-         style="stop-color:#acdb84;stop-opacity:1"
+         style="stop-color:#abe47b;stop-opacity:1"
          offset="0.50050378" />
       <stop
          id="stop5494"
-         style="stop-color:#99d06a;stop-opacity:1"
-         offset="0.51600277" />
+         style="stop-color:#98db5f;stop-opacity:1"
+         offset="0.50517774" />
       <stop
          id="stop5496"
-         style="stop-color:#acdb84;stop-opacity:1"
+         style="stop-color:#98db5f;stop-opacity:1"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -212,51 +193,23 @@
   <path
      d="M 4,0 64,0 64,62 4,62 z"
      id="path3960"
-     style="fill:#77b143;fill-opacity:1;fill-rule:nonzero" />
+     style="fill:#68a92c;fill-opacity:1;fill-rule:nonzero" />
   <path
-     d="m 60,2 4,4 0,31 -4,-4 z"
-     id="path3900"
-     style="fill:url(#radialGradient3822-5);fill-rule:nonzero" />
-  <path
-     d="m 60,33 4,4 0,25 -28.32258,0 z"
-     id="path3934"
-     style="fill:url(#radialGradient3373-0);fill-rule:nonzero" />
-  <path
-     d="M 63,0 V 61 H 4 v 1 H 64 V 0 h -1 z"
-     id="path4299"
-     style="fill:#000000;fill-opacity:0.07887819;fill-rule:nonzero" />
-  <path
-     d="M 60,2 60,33 35,62 37,62 60.78125,33.65625 61,33.375 61,33 61,3 z"
-     id="path3922"
-     style="fill:url(#linearGradient4308-9);fill-rule:nonzero" />
+     style="fill:#274a00;fill-rule:nonzero;color:#000000;fill-opacity:0.12444047;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     d="M 60 2 L 60 33 L 35.6875 62 L 64 62 L 64 37 L 64 6 L 60 2 z "
+     id="path3900" />
   <path
      d="M 0,2 60,2 60,33 34,64 0,64 z"
      id="path3982"
      style="fill:url(#linearGradient5047);fill-rule:nonzero;color:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   <path
-     d="M 0,2 60,2 60,3 0,3 z"
-     id="path4052"
-     style="color:#000000;fill:#ccff9d;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-  <path
-     d="m 0,63 35,0 -1,1 -34,0 z"
-     id="path4255"
-     style="fill:#000000;fill-opacity:0.10341803;fill-rule:nonzero" />
-  <path
-     d="M 4,0 64,0 64,1 4,1 z"
-     id="path3878"
-     style="color:#000000;fill:#ccff9d;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-  <path
      d="M 34,64 60,33 c -2.328567,2.776369 -4.36141,3 -11,3 H 37 v 15 c 0,6.64407 0.04437,9.37018 -3,13 z"
      id="path4278"
-     style="fill:url(#linearGradient4280-6);fill-rule:nonzero" />
+     style="fill:#78c037;fill-rule:nonzero;fill-opacity:1" />
   <path
-     d="m 59,32 c -2.328567,2.776369 -4.36141,3 -11,3 H 36 v 15 c 0,6.64407 0.04437,9.37018 -3,13 4,-5 4.000382,-8.35667 4,-13 V 36 h 11 c 5,0 8.041405,-0.38188 11,-4 z"
-     id="path4282"
-     style="fill:#ccff9d;fill-opacity:1;fill-rule:nonzero" />
-  <path
-     style="color:#000000;fill:url(#linearGradient4078);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-     d="m 13,8 -1.38e-4,14.000131 -5.999944,0 9.999916,11.999916 9.999916,-11.999916 -5.999944,0 L 20.999944,8 z m -8.000054,24.000061 0,3.999972 0,3.999972 23.999776,0 0,-3.999972 0,-3.999972 -3.999972,0 0,3.999972 -15.999832,0 0,-3.999972 z"
-     id="rect3007"
+     sodipodi:nodetypes="ccccccccccccccccccc"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccccccccccccccc" />
+     id="path2994"
+     d="m 13,8 0,8 -3,0 4,5 4,-5 -3,0 0,-8 z m -7,13 0,2 0,2 16,0 0,-2 0,-2 -2,0 0,2 -12,0 0,-2 z"
+     style="fill:#558f15;fill-opacity:1;fill-rule:nonzero;stroke:none;color:#000000;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
 </svg>
