@@ -42,8 +42,8 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
      inkscape:zoom="8.6875"
-     inkscape:cx="46.814279"
-     inkscape:cy="43.545898"
+     inkscape:cx="62.198148"
+     inkscape:cy="33.357694"
      inkscape:window-x="-2"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
@@ -78,7 +78,8 @@
        y1="64"
        x2="22.819176"
        y2="2"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(73,0)" />
     <linearGradient
        gradientUnits="userSpaceOnUse"
        id="linearGradient3828-5"
@@ -132,15 +133,22 @@
      id="path4257"
      style="fill:url(#linearGradient4259-6-5);fill-rule:nonzero" />
   <path
-     inkscape:connector-curvature="0"
+     style="color:#000000;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="path3030"
      d="M 0,2 60,2 60,33 34,64 0,64 z"
-     id="path3982"
-     style="color:#000000;fill:url(#linearGradient3058-8);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+     inkscape:connector-curvature="0" />
   <path
      inkscape:connector-curvature="0"
      d="M 34,64 60,33 c -2.328567,2.776369 -4.36141,3 -11,3 H 37 v 15 c 0,6.644068 0.04437,9.370179 -3,13 z"
      id="path4278"
      style="fill:#b0babd;fill-opacity:1;fill-rule:nonzero" />
+  <rect
+     style="color:#000000;fill:#e0e4e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="rect3034"
+     width="60"
+     height="31"
+     x="0"
+     y="2" />
   <g
      id="g3774"
      transform="translate(0.9978581,0.9995721)">
