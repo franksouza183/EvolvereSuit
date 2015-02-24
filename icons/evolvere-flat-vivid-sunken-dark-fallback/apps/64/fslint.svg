@@ -14,7 +14,7 @@
    height="64"
    id="svg13094"
    version="1.1"
-   inkscape:version="0.91+devel r"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="fslint.svg">
   <sodipodi:namedview
      id="base"
@@ -23,11 +23,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32"
-     inkscape:cx="47.437788"
-     inkscape:cy="13.598891"
+     inkscape:zoom="11.313709"
+     inkscape:cx="43.635154"
+     inkscape:cy="45.094601"
      inkscape:document-units="px"
-     inkscape:current-layer="g3295"
+     inkscape:current-layer="svg13094"
      showgrid="true"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
@@ -44,9 +44,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1023"
-     inkscape:window-x="-10"
-     inkscape:window-y="35"
+     inkscape:window-height="1025"
+     inkscape:window-x="-2"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:snap-global="false"
      fit-margin-top="0"
@@ -112,7 +112,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -128,12 +128,6 @@
      d="M 2,0 0,1 0,2 32,2 64,2 64,1 62,0 32,0 Z"
      style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffbc35;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415;marker:none;enable-background:accumulate"
      inkscape:connector-curvature="0" />
-  <path
-     sodipodi:nodetypes="cccc"
-     inkscape:connector-curvature="0"
-     style="fill:#1f0700;fill-opacity:0.13759861"
-     id="path3028"
-     d="M 64,4 62,2 64,1 Z" />
   <g
      id="g3933"
      style="fill:#ffcc00">
@@ -220,12 +214,6 @@
          transform="translate(0,14.5)" />
     </g>
   </g>
-  <path
-     style="fill:#fff38e;fill-opacity:0.55187833;fill-rule:nonzero"
-     d="M 0,1 0,4 2,2 Z"
-     id="path4298"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccc" />
   <g
      id="g4454">
     <path
@@ -1123,4 +1111,16 @@
          style="color:#000000;fill:#421300;fill-opacity:0.16368516;fill-rule:nonzero;stroke:none;stroke-width:0.76068397;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
   </g>
+  <path
+     sodipodi:nodetypes="cccc"
+     inkscape:connector-curvature="0"
+     style="fill:#cb952c;fill-opacity:1"
+     id="path3028"
+     d="M 64,4 62,2 64,1 z" />
+  <path
+     style="fill:#ffc94e;fill-opacity:1;fill-rule:nonzero"
+     d="M 0,1 0,4 2,2 z"
+     id="path4298"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc" />
 </svg>
