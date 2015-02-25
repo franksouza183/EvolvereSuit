@@ -14,7 +14,7 @@
    height="64"
    id="svg13094"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="wine.svg">
   <sodipodi:namedview
      id="base"
@@ -24,8 +24,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313709"
-     inkscape:cx="25.451684"
-     inkscape:cy="32.331672"
+     inkscape:cx="36.942169"
+     inkscape:cy="33.215555"
      inkscape:document-units="px"
      inkscape:current-layer="svg13094"
      showgrid="false"
@@ -44,9 +44,9 @@
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1033"
-     inkscape:window-x="-10"
-     inkscape:window-y="25"
+     inkscape:window-height="1025"
+     inkscape:window-x="-2"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:snap-global="false"
      fit-margin-top="0"
@@ -262,11 +262,6 @@
      d="M 2,0 0,1 0,4 19.5625,4 39.125,4 64,4 64,1 62,0 39.125,0 19.5625,0 2,0 z"
      style="color:#000000;fill:#e7ecf0;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      inkscape:connector-curvature="0" />
-  <path
-     d="M 64,6 62,4 64,3 z"
-     id="path3028"
-     style="fill:#000000;fill-opacity:0.10215054"
-     inkscape:connector-curvature="0" />
   <g
      id="g3043"
      inkscape:export-filename="folder.png"
@@ -284,10 +279,6 @@
      id="path4298" />
   <path
      style="fill:#000000;fill-opacity:0.10215054;fill-rule:nonzero"
-     d="M 2 0 L 0 1 L 32 1 L 64 1 L 62 0 L 32 0 L 2 0 z "
-     id="path4444" />
-  <path
-     style="fill:#000000;fill-opacity:0.10215054;fill-rule:nonzero"
      d="M 63 0.5 L 63 34 L 63 63 L 64 62 L 64 34 L 64 1 L 63 0.5 z M 63 63 L 32 63 L 1 63 L 2 64 L 32 64 L 62 64 L 63 63 z "
      id="path4366" />
   <path
@@ -302,4 +293,13 @@
      style="fill:url(#radialGradient3832);fill-opacity:1;stroke:none"
      d="M 41.28125 4 L 41.28125 4.125 C 46.696198 4.6377064 51.835555 7.5589878 55.0625 11.9375 C 58.289444 16.316012 59.550815 22.11349 58.4375 27.4375 C 57.324184 32.761507 53.898534 37.531414 49.1875 40.25 C 44.476467 42.968582 38.572912 43.575039 33.40625 41.875 C 28.858249 40.378527 25.032448 37.271166 21.34375 34.21875 C 17.655053 31.166335 13.872591 28.022242 9.34375 26.46875 C 6.3528655 25.442815 3.1255101 25.215255 0 25.6875 L 0 34 L 0 62 L 2 64 L 32 64 L 62 64 L 64 62 L 64 34 L 64 4 L 41.28125 4 z "
      id="path3011" />
+  <path
+     d="M 64,6 62,4 64,3 z"
+     id="path3028"
+     style="fill:#000000;fill-opacity:0.10215054"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#000000;fill-opacity:0.10215054;fill-rule:nonzero"
+     d="M 2 0 L 0 1 L 32 1 L 64 1 L 62 0 L 32 0 L 2 0 z "
+     id="path4444" />
 </svg>
