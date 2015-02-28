@@ -13,7 +13,7 @@
    width="24"
    height="24"
    id="svg2"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="help-contents.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -25,14 +25,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="998"
+     inkscape:window-height="1019"
      id="namedview32"
      showgrid="true"
      inkscape:zoom="32.000001"
-     inkscape:cx="12.473025"
-     inkscape:cy="11.425377"
-     inkscape:window-x="-10"
-     inkscape:window-y="25"
+     inkscape:cx="15.559926"
+     inkscape:cy="11.286473"
+     inkscape:window-x="-5"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      inkscape:snap-bbox="true"
@@ -77,15 +77,8 @@
   <defs
      id="defs4" />
   <path
-     style="color:#000000;fill:#434a55;fill-opacity:0.6745098;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 10,18 3,0 0,2 -3,0 z"
-     id="rect3001"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccc" />
-  <path
-     style="fill:none;stroke:#434a55;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.6745098;stroke-dasharray:none"
-     d="m 11,16 0,-3 1,-1 4,-1 L 17,9.9687506 17,7 16,6 8,6 7,7 7,9"
-     id="path3005"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccccccc" />
+     id="path3882"
+     d="m 12,4 c -4.418278,0 -8,3.581722 -8,8 0,4.418278 3.581722,8 8,8 4.418278,0 8,-3.581722 8,-8 0,-4.418278 -3.581722,-8 -8,-8 z m 0,2.875 c 1.762693,1e-7 3.21875,1.4560573 3.21875,3.21875 0,1.762693 -1.456057,3.21875 -3.21875,3.21875 -0.280045,0 -0.573248,-0.05252 -0.84375,-0.125 l 0.3125,-1.15625 c 0.169208,0.04534 0.356073,0.0625 0.53125,0.0625 1.114164,0 2,-0.885836 2,-2 0,-1.1141637 -0.885836,-2 -2,-2 -1.114164,-10e-8 -2,0.8858363 -2,2 l -1.21875,0 C 8.7812501,8.3310573 10.237307,6.8749999 12,6.875 z M 12,15 c 0.552285,0 1,0.447715 1,1 0,0.552285 -0.447715,1 -1,1 -0.552285,0 -1,-0.447715 -1,-1 0,-0.552285 0.447715,-1 1,-1 z"
+     style="color:#000000;fill:#434a55;fill-opacity:0.6745098;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     inkscape:connector-curvature="0" />
 </svg>
