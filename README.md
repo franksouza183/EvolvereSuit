@@ -11,3 +11,11 @@ On terminal type:
 Then to get updates:
 
 `cd ~/".evolveresuit" && git pull origin master && cd`
+
+# PPA
+
+Many thank to NoobsLab for this:
+
+`sudo add-apt-repository ppa:noobslab/evolvere`
+`sudo apt-get update`
+`sudo apt-get install evolvere-icon-suite`
