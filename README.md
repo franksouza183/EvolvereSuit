@@ -14,7 +14,7 @@ Then to get updates:
 
 # PPA
 
-Many thank to NoobsLab for this:
+Many thanks to NoobsLab for this:
 
 `sudo add-apt-repository ppa:noobslab/evolvere`
 `sudo apt-get update`
