@@ -17,7 +17,7 @@ Then to get updates:
 Many thanks to NoobsLab for this:
 
 ```bash
-sudo add-apt-repository ppa:noobslab/evolvere
+sudo add-apt-repository ppa:noobslab/evolvere -y
 sudo apt-get update
-sudo apt-get install evolvere-icon-suite
+sudo apt-get install evolvere-icon-suite -y
 ```
