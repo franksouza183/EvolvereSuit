@@ -13,7 +13,7 @@
    height="64"
    width="64"
    version="1.1"
-   inkscape:version="0.91+devel r"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="folder-windows.svg"
    inkscape:export-filename="folder.png"
    inkscape:export-xdpi="90"
@@ -28,9 +28,9 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1023"
+     inkscape:window-height="1022"
      id="namedview46"
-     showgrid="true"
+     showgrid="false"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
@@ -49,10 +49,10 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="11.313709"
-     inkscape:cx="35.675611"
-     inkscape:cy="30.631958"
-     inkscape:window-x="-10"
-     inkscape:window-y="35"
+     inkscape:cx="57.762097"
+     inkscape:cy="31.283933"
+     inkscape:window-x="-5"
+     inkscape:window-y="23"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg13094"
      showguides="true"
@@ -79,51 +79,44 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <path
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#e38d16;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
-     d="m 3,6 -10e-8,58.000001 L 60,64 64,60 64,1 63,0 37,0 32,4.9999999 4,5 Z"
-     id="path3833"
+     style="color:#000000;fill:#da8c1f;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     d="m 3,6 -10e-8,58.000001 L 60,64 64,60 64,1 63,0 37,0 32,4.9999999 4,5 z"
+     id="path3833-98"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccccccccc" />
   <path
      sodipodi:nodetypes="cccccccc"
-     id="path3802"
+     id="path3802-94"
      d="m 58,13 0,51 2,0 4,-4 0,-59 -1,-1 0,18 z"
      inkscape:connector-curvature="0"
-     style="opacity:1;fill:#8c3d00;fill-opacity:0.33273704;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
+     style="fill:#8c3d00;fill-opacity:0.33273704;stroke:none;stroke-width:1;marker:none" />
   <path
      sodipodi:nodetypes="ccccc"
      d="m 7,13 51,0 0,31 -51,0 z"
-     id="path3920"
+     id="path3920-52"
      inkscape:connector-curvature="0"
      style="fill:#e2e2e2;fill-opacity:1;fill-rule:nonzero" />
   <path
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#3e4959;fill-opacity:0.22968199;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+     style="color:#000000;fill:#3e4959;fill-opacity:0.22968199;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      d="m 30,13 4,4 2,0 -4,-4 z"
-     id="path3982"
+     id="path3982-40"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccc" />
   <path
-     id="path3916"
-     d="m 0,13 0,50 1,1 59,0 1,-1 0,-45 -1,-1 -26,1e-6 -5,-5 L 1,12 Z"
+     id="path3916-08"
+     d="m 0,13 0,50 1,1 59,0 1,-1 0,-45 -1,-1 -26,1e-6 -5,-5 L 1,12 z"
      inkscape:connector-curvature="0"
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fca834;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+     style="color:#000000;fill:#f4ae3f;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      sodipodi:nodetypes="ccccccccccc"
      inkscape:export-xdpi="90"
      inkscape:export-ydpi="90" />
   <path
-     id="path3078"
-     d="m 5,29.118526 11.851426,-1.614035 0.0051,11.431458 -11.8455755,0.06746 z m 11.84578,11.134672 0.0092,11.44161 L 5.0093582,50.066205 5.0086941,40.176652 z M 18.282429,27.293398 33.99633,25 l 0,13.79071 -15.713901,0.12475 z M 34,40.360736 33.99628,54.089318 18.282378,51.871494 18.260359,40.335151 z"
-     inkscape:connector-curvature="0"
-     style="color:#000000;fill:#b54f00;fill-opacity:0.29606443;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     sodipodi:nodetypes="cccccccccccccccccccc" />
-  <path
-     style="color:#000000;fill:#8c3d00;fill-opacity:0.13327373;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="m 34,25 -15.71875,2.28125 0,11.625 1,0 0,-10.625 L 34,26.15625 34,25 z M 16.84375,27.5 5,29.125 5,39 l 1,0 0,-8.875 10.84375,-1.5 0,-1.125 z M 5,40.1875 l 0,9.875 1,0.125 0,-9 10.84375,0.0625 0,-1 L 5,40.1875 z m 13.25,0.15625 0.03125,11.53125 1,0.15625 L 19.25,41.34375 34,41.375 l 0,-1 -15.75,-0.03125 z"
-     id="path3084"
-     inkscape:connector-curvature="0" />
+     style="color:#000000;fill:#b54f00;fill-opacity:0.38628157000000002;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     d="M 30 27 L 16 29 L 16 39 L 30 39 L 30 27 z M 15 29.125 L 5 30.5625 L 5 39 L 15 39 L 15 29.125 z M 5 40 L 5 48.625 L 15 50 L 15 40 L 5 40 z M 16 40 L 16 50.15625 L 30 52.09375 L 30 40 L 16 40 z "
+     id="path3811" />
 </svg>
