@@ -12,7 +12,7 @@ Then to get updates:
 
 `cd ~/".evolveresuit" && git pull origin master && cd`
 
-# PPA
+# PPA (Icons)
 
 Many thanks to NoobsLab for this:
 
