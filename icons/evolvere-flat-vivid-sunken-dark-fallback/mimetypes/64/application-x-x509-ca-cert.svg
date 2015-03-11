@@ -25,9 +25,9 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1025"
+     inkscape:window-height="1022"
      id="namedview175"
-     showgrid="false"
+     showgrid="true"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
@@ -41,10 +41,10 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
      inkscape:zoom="11.313709"
-     inkscape:cx="38.611211"
+     inkscape:cx="25.485542"
      inkscape:cy="30.952402"
-     inkscape:window-x="-2"
-     inkscape:window-y="32"
+     inkscape:window-x="-5"
+     inkscape:window-y="23"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg13094"
      inkscape:snap-global="true"
@@ -76,15 +76,12 @@
      x="0"
      height="64"
      width="64"
-     id="rect3169"
-     style="color:#000000;fill:#f4f4c9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-  <rect
-     style="color:#000000;fill:#e8eaba;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     id="rect4359"
-     width="64"
-     height="32"
-     x="0"
-     y="0" />
+     id="rect3148"
+     style="color:#000000;fill:#efefc2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  <path
+     style="color:#000000;fill:#b9a400;fill-opacity:0.14122806;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     d="M 0 0 L 0 64 L 64 64 L 64 0 L 0 0 z M 1 1 L 63 1 L 63 63 L 1 63 L 1 1 z "
+     id="rect3135" />
   <path
      style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#2d9dde;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
      d="M 8 7 A 1 1 0 0 0 7 8 A 1 1 0 0 0 8 9 L 8 10 A 1 1 0 0 0 7 11 A 1 1 0 0 0 8 12 L 8 13 A 1 1 0 0 0 7 14 A 1 1 0 0 0 8 15 L 8 16 A 1 1 0 0 0 7 17 A 1 1 0 0 0 8 18 L 8 19 A 1 1 0 0 0 7 20 A 1 1 0 0 0 8 21 L 8 22 A 1 1 0 0 0 7 23 A 1 1 0 0 0 8 24 L 8 25 A 1 1 0 0 0 7 26 A 1 1 0 0 0 8 27 L 8 28 A 1 1 0 0 0 7 29 A 1 1 0 0 0 8 30 L 8 31 A 1 1 0 0 0 7 32 A 1 1 0 0 0 8 33 L 8 34 A 1 1 0 0 0 7 35 A 1 1 0 0 0 8 36 L 8 37 A 1 1 0 0 0 7 38 A 1 1 0 0 0 8 39 L 8 40 A 1 1 0 0 0 7 41 A 1 1 0 0 0 8 42 L 8 43 A 1 1 0 0 0 7 44 A 1 1 0 0 0 8 45 L 8 46 A 1 1 0 0 0 7 47 A 1 1 0 0 0 8 48 L 8 49 A 1 1 0 0 0 7 50 A 1 1 0 0 0 8 51 L 8 52 A 1 1 0 0 0 7 53 A 1 1 0 0 0 8 54 L 8 55 A 1 1 0 0 0 7 56 A 1 1 0 0 0 8 57 A 1 1 0 0 0 9 56 L 10 56 A 1 1 0 0 0 11 57 A 1 1 0 0 0 12 56 L 13 56 A 1 1 0 0 0 14 57 A 1 1 0 0 0 15 56 L 16 56 A 1 1 0 0 0 17 57 A 1 1 0 0 0 18 56 L 19 56 A 1 1 0 0 0 20 57 A 1 1 0 0 0 21 56 L 22 56 A 1 1 0 0 0 23 57 A 1 1 0 0 0 24 56 L 25 56 A 1 1 0 0 0 26 57 A 1 1 0 0 0 27 56 L 28 56 A 1 1 0 0 0 29 57 A 1 1 0 0 0 30 56 L 31 56 A 1 1 0 0 0 32 57 A 1 1 0 0 0 33 56 L 34 56 A 1 1 0 0 0 35 57 A 1 1 0 0 0 36 56 L 37 56 A 1 1 0 0 0 38 57 A 1 1 0 0 0 39 56 L 40 56 A 1 1 0 0 0 41 57 A 1 1 0 0 0 42 56 L 43 56 A 1 1 0 0 0 44 57 A 1 1 0 0 0 45 56 L 46 56 A 1 1 0 0 0 47 57 A 1 1 0 0 0 48 56 L 49 56 A 1 1 0 0 0 50 57 A 1 1 0 0 0 51 56 L 52 56 A 1 1 0 0 0 53 57 A 1 1 0 0 0 54 56 L 55 56 A 1 1 0 0 0 55.929688 56.998047 A 1 1 0 0 0 56 57 A 1 1 0 0 0 57 56 A 1 1 0 0 0 56 55 L 56 54 A 1 1 0 0 0 57 53 A 1 1 0 0 0 56 52 L 56 51 A 1 1 0 0 0 57 50 A 1 1 0 0 0 56 49 L 56 48 A 1 1 0 0 0 57 47 A 1 1 0 0 0 56 46 L 56 45 A 1 1 0 0 0 57 44 A 1 1 0 0 0 56 43 L 56 42 A 1 1 0 0 0 57 41 A 1 1 0 0 0 56 40 L 56 39 A 1 1 0 0 0 57 38 A 1 1 0 0 0 56 37 L 56 36 A 1 1 0 0 0 57 35 A 1 1 0 0 0 56 34 L 56 33 A 1 1 0 0 0 57 32 A 1 1 0 0 0 56 31 L 56 30 A 1 1 0 0 0 57 29 A 1 1 0 0 0 56 28 L 56 27 A 1 1 0 0 0 57 26 A 1 1 0 0 0 56 25 L 56 24 A 1 1 0 0 0 57 23 A 1 1 0 0 0 56 22 L 56 21 A 1 1 0 0 0 57 20 A 1 1 0 0 0 56 19 L 56 18 A 1 1 0 0 0 57 17 A 1 1 0 0 0 56 16 L 56 15 A 1 1 0 0 0 57 14 A 1 1 0 0 0 56 13 L 56 12 A 1 1 0 0 0 57 11 A 1 1 0 0 0 56 10 L 56 9 A 1 1 0 0 0 57 8 A 1 1 0 0 0 56 7 A 1 1 0 0 0 55.001953 7.9296875 A 1 1 0 0 0 55 8 L 54 8 A 1 1 0 0 0 53 7 A 1 1 0 0 0 52 8 L 51 8 A 1 1 0 0 0 50 7 A 1 1 0 0 0 49 8 L 48 8 A 1 1 0 0 0 47 7 A 1 1 0 0 0 46 8 L 45 8 A 1 1 0 0 0 44 7 A 1 1 0 0 0 43 8 L 42 8 A 1 1 0 0 0 41 7 A 1 1 0 0 0 40 8 L 39 8 A 1 1 0 0 0 38 7 A 1 1 0 0 0 37 8 L 36 8 A 1 1 0 0 0 35 7 A 1 1 0 0 0 34 8 L 33 8 A 1 1 0 0 0 32 7 A 1 1 0 0 0 31 8 L 30 8 A 1 1 0 0 0 29 7 A 1 1 0 0 0 28 8 L 27 8 A 1 1 0 0 0 26 7 A 1 1 0 0 0 25 8 L 24 8 A 1 1 0 0 0 23 7 A 1 1 0 0 0 22 8 L 21 8 A 1 1 0 0 0 20 7 A 1 1 0 0 0 19 8 L 18 8 A 1 1 0 0 0 17 7 A 1 1 0 0 0 16 8 L 15 8 A 1 1 0 0 0 14 7 A 1 1 0 0 0 13 8 L 12 8 A 1 1 0 0 0 11 7 A 1 1 0 0 0 10 8 L 9 8 A 1 1 0 0 0 8 7 z M 9 9 L 11 9 L 14 9 L 17 9 L 20 9 L 23 9 L 26 9 L 29 9 L 32 9 L 35 9 L 38 9 L 41 9 L 44 9 L 47 9 L 50 9 L 53 9 L 55 9 L 55 11 L 55 14 L 55 17 L 55 20 L 55 23 L 55 26 L 55 29 L 55 32 L 55 35 L 55 38 L 55 41 L 55 44 L 55 47 L 55 50 L 55 53 L 55 55 L 53 55 L 50 55 L 47 55 L 44 55 L 41 55 L 38 55 L 35 55 L 32 55 L 29 55 L 26 55 L 23 55 L 20 55 L 17 55 L 14 55 L 11 55 L 9 55 L 9 53 L 9 50 L 9 47 L 9 44 L 9 41 L 9 38 L 9 35 L 9 32 L 9 29 L 9 26 L 9 23 L 9 20 L 9 17 L 9 14 L 9 11 L 9 9 z "

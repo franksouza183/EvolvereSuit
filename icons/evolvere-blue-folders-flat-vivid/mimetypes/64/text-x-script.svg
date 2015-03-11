@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
@@ -26,7 +25,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1025"
+     inkscape:window-height="1022"
      id="namedview37"
      showgrid="true"
      showborder="false"
@@ -42,11 +41,11 @@
      inkscape:snap-midpoints="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
-     inkscape:zoom="7.375"
-     inkscape:cx="39.290901"
-     inkscape:cy="39.066384"
-     inkscape:window-x="-2"
-     inkscape:window-y="32"
+     inkscape:zoom="10.429825"
+     inkscape:cx="41.075153"
+     inkscape:cy="35.292239"
+     inkscape:window-x="-5"
+     inkscape:window-y="23"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg13094"
      inkscape:snap-global="true">
@@ -72,40 +71,6 @@
          style="stop-color:#ffffff;stop-opacity:0"
          offset="1" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5236"
-       id="linearGradient5234"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-3084.2996,-1600.2279)"
-       x1="3113.439"
-       y1="1664.3622"
-       x2="3113.439"
-       y2="1602.3622" />
-    <linearGradient
-       x1="31"
-       y1="64"
-       x2="31"
-       y2="2"
-       id="linearGradient5236"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         id="stop5238"
-         style="stop-color:#548697;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop5240"
-         style="stop-color:#548697;stop-opacity:1"
-         offset="0.50050378" />
-      <stop
-         id="stop5242"
-         style="stop-color:#437788;stop-opacity:1"
-         offset="0.50050378" />
-      <stop
-         id="stop5244"
-         style="stop-color:#437788;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
   </defs>
   <metadata
      id="metadata13099">
@@ -122,7 +87,7 @@
   <path
      d="M 4,0 64,0 64,62 4,62 z"
      id="path3960"
-     style="fill:#356372;fill-opacity:1;fill-rule:nonzero" />
+     style="fill:#236c84;fill-opacity:1;fill-rule:nonzero" />
   <path
      style="fill:#001a23;fill-rule:nonzero;fill-opacity:0.15742397"
      d="M 60 2 L 60 33 L 35.677734 62 L 64 62 L 64 37 L 64 6 L 60 2 z "
@@ -134,15 +99,13 @@
   <path
      d="M 0,2 60,2 60,33 34,64 0,64 z"
      id="path3982"
-     style="fill:url(#linearGradient5234);fill-rule:nonzero;color:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+     style="fill:#3e8aa3;fill-rule:nonzero;color:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   <path
-     inkscape:connector-curvature="0"
      style="font-size:31.84835243px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cce5f6;fill-opacity:1;stroke:none;font-family:Futura LT;-inkscape-font-specification:Futura LT"
-     d="M 6,8 6,9.7897726 13.258522,13.090909 6,16.392045 l 0,1.789773 9.545454,-4.355114 0,-1.471591 z m 9,12 0,2 8,0 0,-2 z"
-     id="path3790"
-     sodipodi:nodetypes="ccccccccccccc" />
+     d="M 6.71875 7.3125 L 5.28125 8.6875 L 13.71875 17.375 L 5.28125 26.0625 L 6.71875 27.4375 L 15.8125 18.0625 L 16.46875 17.375 L 15.8125 16.6875 L 6.71875 7.3125 z M 19 28 L 19 30 L 27 30 L 27 28 L 19 28 z "
+     id="path3790" />
   <path
      d="M 34,64 60,33 c -2.328567,2.776369 -4.36141,3 -11,3 H 37 v 15 c 0,6.644068 0.04437,9.370179 -3,13 z"
      id="path4278"
-     style="fill:#38697a;fill-rule:nonzero;fill-opacity:1" />
+     style="fill:#25718b;fill-rule:nonzero;fill-opacity:1" />
 </svg>
