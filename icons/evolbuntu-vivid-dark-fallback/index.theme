@@ -544,61 +544,61 @@ Type=Threshold
 Size=331
 Context=Actions
 Type=Scalable
-MinSize=257
+MinSize=8
 MaxSize=512
 
 [scalable/animations]
 Size=331
 Context=Animations
 Type=Scalable
-MinSize=257
+MinSize=8
 MaxSize=512
 
 [scalable/apps]
 Size=331
 Context=Applications
 Type=Scalable
-MinSize=257
+MinSize=8
 MaxSize=512
 
 [scalable/categories]
 Size=331
 Context=Categories
 Type=Scalable
-MinSize=257
+MinSize=8
 MaxSize=512
 
 [scalable/devices]
 Size=331
 Context=Devices
 Type=Scalable
-MinSize=257
+MinSize=8
 MaxSize=512
 
 [scalable/emblems]
 Size=331
 Context=Emblems
 Type=Scalable
-MinSize=257
+MinSize=8
 MaxSize=512
 
 [scalable/mimetypes]
 Size=331
 Context=MimeTypes
 Type=Scalable
-MinSize=257
+MinSize=8
 MaxSize=512
 
 [scalable/places]
 Size=331
 Context=Places
 Type=Scalable
-MinSize=257
+MinSize=8
 MaxSize=512
 
 [scalable/status]
 Size=331
 Context=Status
 Type=Scalable
-MinSize=257
+MinSize=8
 MaxSize=512
