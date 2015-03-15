@@ -13,8 +13,8 @@
    width="16"
    height="16"
    id="svg13094"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="stock_media-rec.svg">
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="media-record.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -25,7 +25,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1035"
+     inkscape:window-height="1016"
      id="namedview6"
      showgrid="true"
      inkscape:snap-bbox="true"
@@ -43,8 +43,8 @@
      inkscape:zoom="41.7193"
      inkscape:cx="8.8533768"
      inkscape:cy="6.2533275"
-     inkscape:window-x="-2"
-     inkscape:window-y="23"
+     inkscape:window-x="-5"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg13094">
     <inkscape:grid
@@ -70,15 +70,9 @@
     </rdf:RDF>
   </metadata>
   <path
-     sodipodi:type="arc"
      style="fill:#c17564;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
-     id="path3977"
-     sodipodi:cx="-3175.97"
-     sodipodi:cy="1003.9254"
-     sodipodi:rx="28.637823"
-     sodipodi:ry="28.637823"
-     d="m -3147.3321,1003.9254 a 28.637823,28.637823 0 1 1 -57.2757,0 28.637823,28.637823 0 1 1 57.2757,0 z"
-     transform="matrix(0.17459442,0,0,0.17459442,562.50663,-167.27977)" />
+     d="M 8 3 C 5.2385797 3 3 5.2385762 3 8 C 3 10.76142 5.2385797 13 8 13 C 10.761438 13 13 10.76142 13 8 C 13 5.2385762 10.761438 3 8 3 z "
+     id="path3977" />
   <path
      style="fill:#404957;fill-opacity:0.23137255;fill-rule:nonzero;stroke:none;display:inline"
      d="m 7.9687409,3.0000014 c -2.74491,0 -4.96875,2.22384 -4.96875,4.96875 0,1.62766 0.79075,3.0621696 2,3.9687496 -0.62228,-0.83004 -1,-1.85151 -1,-2.9687496 0,-2.74491 2.22384,-4.96875 4.96875,-4.96875 1.1172401,0 2.1387101,0.37772 2.9687501,1 -0.90658,-1.20925 -2.3410901,-2 -3.9687501,-2 z"

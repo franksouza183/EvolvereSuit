@@ -7,14 +7,13 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
    width="16"
    height="16"
    id="svg2"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="convert.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -26,16 +25,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1023"
+     inkscape:window-height="1016"
      id="namedview32"
      showgrid="true"
      inkscape:zoom="32.000001"
      inkscape:cx="10.816142"
      inkscape:cy="7.4845218"
-     inkscape:window-x="-10"
-     inkscape:window-y="35"
+     inkscape:window-x="-5"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g2997"
+     inkscape:current-layer="svg2"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
@@ -76,21 +75,8 @@
   </metadata>
   <defs
      id="defs4" />
-  <g
-     id="g2997">
-    <path
-       sodipodi:nodetypes="cccccccc"
-       inkscape:connector-curvature="0"
-       id="path3771"
-       d="M 10,6 5.0003,6.0003 5,8 1,5 5,2 5.0003,4.0003 10,4 z"
-       style="color:#000000;fill:#434a54;fill-opacity:0.67577096;fill-rule:nonzero;stroke:none;stroke-width:1.20000005;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-  </g>
-  <use
-     x="0"
-     y="0"
-     xlink:href="#g2997"
-     id="use3001"
-     transform="matrix(-1,0,0,-1,16.0003,16.0003)"
-     width="16"
-     height="16" />
+  <path
+     style="color:#000000;fill:#434a54;fill-opacity:0.67577096;fill-rule:nonzero;stroke:none;stroke-width:1.20000005;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     d="M 5 2 L 1 5 L 5 8 L 5 6 L 10 6 L 10 4 L 5 4 L 5 2 z M 11 8 L 11 10 L 6 10 L 6 12 L 11 12 L 11 14 L 15 11 L 11 8 z "
+     id="path3771" />
 </svg>
