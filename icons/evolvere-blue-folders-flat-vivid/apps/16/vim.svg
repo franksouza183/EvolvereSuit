@@ -14,7 +14,7 @@
    id="svg27665"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="_usr_share_pixmaps_vim.svg">
+   sodipodi:docname="vim.svg">
   <defs
      id="defs27667" />
   <sodipodi:namedview
@@ -28,12 +28,12 @@
      inkscape:cx="5.4593617"
      inkscape:cy="7.6819393"
      inkscape:document-units="px"
-     inkscape:current-layer="22"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1025"
-     inkscape:window-x="-2"
-     inkscape:window-y="32"
+     inkscape:window-height="1016"
+     inkscape:window-x="-5"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
@@ -82,16 +82,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(3363.4172,-1858.5163)">
-    <g
-       transform="matrix(0.03606018,0,0,0.03606018,-3237.7135,1855.2242)"
-       id="22"
-       inkscape:label="#g10690">
-      <path
-         sodipodi:nodetypes="ccccccccccccccc"
-         inkscape:connector-curvature="0"
-         style="color:#000000;fill:#27303a;fill-opacity:0.75328081999999996;fill-rule:nonzero;stroke:none;stroke-width:1.41430247;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m -3458.2108,146.75745 0,55.46284 27.7314,0 0,277.3142 83.1943,0 277.3142,-277.3142 0,-55.46284 -138.6571,0 0,55.46284 55.4628,0 -194.1199,194.11994 0,-194.11994 27.7314,0 0,-55.46284 z"
-         id="path2985" />
-    </g>
+    <path
+       style="color:#000000;fill:#27303a;fill-opacity:0.753280819999999968;fill-rule:nonzero;stroke:none;stroke-width:1.41430247;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 1 2 L 1 4 L 2 4 L 2 14 L 5 14 L 15 4 L 15 2 L 10 2 L 10 4 L 12 4 L 5 11 L 5 4 L 6 4 L 6 2 L 1 2 z "
+       transform="translate(-3363.4172,1858.5163)"
+       id="path2985" />
   </g>
 </svg>

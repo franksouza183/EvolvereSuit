@@ -13,7 +13,7 @@
    height="15.999998"
    id="svg13094"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="ffado.svg">
   <sodipodi:namedview
      id="base"
@@ -23,8 +23,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="32"
-     inkscape:cx="2.230648"
-     inkscape:cy="8.7245268"
+     inkscape:cx="13.761898"
+     inkscape:cy="8.0370268"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -43,9 +43,9 @@
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1023"
-     inkscape:window-x="-10"
-     inkscape:window-y="35"
+     inkscape:window-height="1016"
+     inkscape:window-x="-5"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:snap-global="true"
      fit-margin-top="0"
@@ -124,99 +124,19 @@
      inkscape:groupmode="layer"
      inkscape:label="Camada 1">
     <path
-       style="fill:#27303a;fill-opacity:0.75328081999999996;fill-rule:nonzero;stroke:none"
+       style="fill:#27303a;fill-opacity:0.753280819999999968;fill-rule:nonzero;stroke:none"
        d="m -9367.3076,4844.1988 0,4 -1,0 0,-4 1,0 z m 3,5 0,3 -7,0 0,-3 7,0 z m -8,1 0,2 -6,0 0,-2 6,0 z m 5,3 0,5 -1,0 0,-5 1,0 z m -5,0 0,2 -6,0 0,-2 6,0 z m 0,3 0,2 -6,0 0,-2 6,0 z"
        id="rect3000"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#404957;fill-opacity:0.23137255;fill-rule:nonzero;stroke:none"
+       style="fill:#404957;fill-opacity:0.0;fill-rule:nonzero;stroke:none"
        d="m -9372.3076,4844.1988 0,2 -6,0 0,-2 6,0 z m 0,3 0,2 -6,0 0,-2 6,0 z"
        id="rect3006"
        inkscape:connector-curvature="0" />
     <path
        style="color:#000000;fill:#f1f3f5;fill-opacity:0.90288714000000003;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m -9363.3076,4848.1988 0,5 -9,0 0,-5 9,0 z m -1,1 -7,0 0,3 7,0 0,-3 z"
-       id="rect2995"
-       inkscape:connector-curvature="0" />
-    <rect
-       style="color:#000000;fill:#f1f3f5;fill-opacity:0.90288714000000003;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect3001"
-       width="1"
-       height="4"
-       x="9366.3076"
-       y="4843.1987"
-       transform="scale(-1,1)" />
-    <rect
-       style="color:#000000;fill:#f1f3f5;fill-opacity:0.90288714000000003;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect3003"
-       width="1"
-       height="4"
-       x="9368.3076"
-       y="4843.1987"
-       transform="scale(-1,1)" />
-    <rect
-       style="color:#000000;fill:#f1f3f5;fill-opacity:0.90288714000000003;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect3005"
-       width="1"
-       height="4.9999995"
-       x="9366.3076"
-       y="4854.1987"
-       transform="scale(-1,1)" />
-    <rect
-       style="color:#000000;fill:#f1f3f5;fill-opacity:0.90288714000000003;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect3007"
-       width="1"
-       height="4.9999995"
-       x="9368.3076"
-       y="4854.1987"
-       transform="scale(-1,1)" />
-    <rect
-       style="color:#000000;fill:#f1f3f5;fill-opacity:0.90288714000000003;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect3009"
-       width="5"
-       height="1"
-       x="9374.3076"
-       y="4858.1987"
-       transform="scale(-1,1)" />
-    <rect
-       style="color:#000000;fill:#f1f3f5;fill-opacity:0.90288714000000003;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect3011"
-       width="5"
-       height="1"
-       x="9374.3076"
-       y="4855.1987"
-       transform="scale(-1,1)" />
-    <rect
-       style="color:#000000;fill:#f1f3f5;fill-opacity:0.90288714000000003;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect3013"
-       width="5"
-       height="1"
-       x="9374.3076"
-       y="4852.1987"
-       transform="scale(-1,1)" />
-    <rect
-       style="color:#000000;fill:#f1f3f5;fill-opacity:0.90288714000000003;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect3015"
-       width="5"
-       height="1"
-       x="9374.3076"
-       y="4849.1987"
-       transform="scale(-1,1)" />
-    <rect
-       style="color:#000000;fill:#f1f3f5;fill-opacity:0.90288714000000003;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect3017"
-       width="5"
-       height="1"
-       x="9374.3076"
-       y="4846.1987"
-       transform="scale(-1,1)" />
-    <rect
-       style="color:#000000;fill:#f1f3f5;fill-opacity:0.90288714000000003;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect3019"
-       width="5"
-       height="1"
-       x="9374.3076"
-       y="4843.1987"
-       transform="scale(-1,1)" />
+       d="M 0 0 L 0 1 L 5 1 L 5 0 L 0 0 z M 10 0 L 10 4 L 11 4 L 11 0 L 10 0 z M 12 0 L 12 4 L 13 4 L 13 0 L 12 0 z M 0 3 L 0 4 L 5 4 L 5 3 L 0 3 z M 7 5 L 7 10 L 16 10 L 16 5 L 7 5 z M 0 6 L 0 7 L 5 7 L 5 6 L 0 6 z M 8 6 L 15 6 L 15 9 L 8 9 L 8 6 z M 0 9 L 0 10 L 5 10 L 5 9 L 0 9 z M 10 11 L 10 16 L 11 16 L 11 11 L 10 11 z M 12 11 L 12 16 L 13 16 L 13 11 L 12 11 z M 0 12 L 0 13 L 5 13 L 5 12 L 0 12 z M 0 15 L 0 16 L 5 16 L 5 15 L 0 15 z "
+       transform="translate(-9379.308,4843.1988)"
+       id="rect2995" />
   </g>
 </svg>

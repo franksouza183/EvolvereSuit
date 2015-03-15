@@ -9,12 +9,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="15.999999"
-   height="16"
    id="svg13094"
+   height="16"
+   width="16"
+   version="1.1"
    inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="dropboxstatus-x.svg">
+  <defs
+     id="defs7" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -26,43 +28,32 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
      inkscape:window-height="1033"
-     id="namedview6"
-     showgrid="false"
+     id="namedview5"
+     showgrid="true"
+     inkscape:zoom="41.7193"
+     inkscape:cx="7.1547724"
+     inkscape:cy="8.9037311"
+     inkscape:window-x="-10"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg13094"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:snap-bbox-midpoints="true"
      inkscape:object-paths="true"
+     inkscape:snap-bbox-midpoints="true"
      inkscape:snap-intersection-paths="true"
      inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-midpoints="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
-     inkscape:zoom="29.5"
-     inkscape:cx="10.814445"
-     inkscape:cy="7.595985"
-     inkscape:window-x="-1"
-     inkscape:window-y="25"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg13094"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0">
+     inkscape:snap-global="false">
     <inkscape:grid
        type="xygrid"
-       id="grid2983"
-       empspacing="5"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true"
-       originx="-2.9999987px"
-       originy="-3px" />
+       id="grid2982" />
   </sodipodi:namedview>
-  <defs
-     id="defs7" />
   <metadata
      id="metadata13099">
     <rdf:RDF>
@@ -76,13 +67,8 @@
     </rdf:RDF>
   </metadata>
   <path
-     inkscape:connector-curvature="0"
-     style="fill:#c17564;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     d="M 3.9999993,0 0,3.1875 3.9999993,6.375 0,9.625 3.9999993,12.8125 8.0000013,16 l 3.9999977,-3.1875 4,-3.1875 -4,-3.25 4,-3.1875 -4,-3.1875 L 8.0000013,3.1875 3.9999993,0 z"
-     id="path3763" />
-  <path
-     style="fill:#404957;fill-opacity:0.23137255;fill-rule:nonzero;stroke:none"
-     d="m 4.0000013,0 -4,3.1875 1.125,0.90625 3.875,-3.09375 4,3.1875 L 13.000001,1 l 2.875,2.28125 0.125,-0.09375 -4,-3.1875 -3.9999997,3.1875 -4,-3.1875 z m -0.125,6.46875 -3.875,3.15625 1.125,0.90625 3.875,-3.15625 -1.125,-0.90625 z m 9.2499997,0.8125 -0.125,0.09375 2.875,2.34375 0.125,-0.09375 -2.875,-2.34375 z"
-     id="path3769"
+     id="path2985"
+     d="m 4.4994528,0.54368932 -3.50054721,2.97087378 3.50054721,3 L 8,3.5145631 4.4994528,0.54368932 z M 8,3.5145631 l 3.500547,3 3.500548,-3 L 11.500547,0.54368932 8,3.5145631 z m 3.500547,3 L 8,9.4854369 4.4994528,6.5145631 0.99890559,9.4854369 8,15.456311 15.001095,9.4854369 11.500547,6.5145631 z"
+     style="fill:#d95f43;fill-opacity:1;color:#000000;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      inkscape:connector-curvature="0" />
 </svg>
