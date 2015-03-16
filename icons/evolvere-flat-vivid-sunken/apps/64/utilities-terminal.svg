@@ -13,7 +13,7 @@
    height="64"
    id="svg13094"
    version="1.1"
-   inkscape:version="0.91+devel r"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="utilities-terminal.svg">
   <sodipodi:namedview
      id="base"
@@ -22,9 +22,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313709"
-     inkscape:cx="39.005201"
-     inkscape:cy="31.055856"
+     inkscape:zoom="16.000001"
+     inkscape:cx="37.350999"
+     inkscape:cy="23.963301"
      inkscape:document-units="px"
      inkscape:current-layer="svg13094"
      showgrid="true"
@@ -43,9 +43,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1023"
-     inkscape:window-x="-10"
-     inkscape:window-y="35"
+     inkscape:window-height="1016"
+     inkscape:window-x="-5"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:snap-global="true"
      fit-margin-top="0"
@@ -75,7 +75,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -119,7 +119,8 @@
      id="rect3777"
      style="color:#000000;fill:#295766;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   <path
-     style="font-size:31.84835243px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#d7e9f2;fill-opacity:1;stroke:none;font-family:Futura LT;-inkscape-font-specification:Futura LT"
-     d="M 8 20 L 8 22.8125 L 19.40625 28 L 8 33.1875 L 8 36 L 23 29.15625 L 23 26.84375 L 8 20 z M 23 39 L 23 42 L 35 42 L 35 39 L 23 39 z "
-     id="path3790" />
+     inkscape:connector-curvature="0"
+     style="font-size:31.84835243px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cce5f6;fill-opacity:1;stroke:none;font-family:Futura LT;-inkscape-font-specification:Futura LT"
+     d="m 22.71875,22.3125 -1.4375,1.375 8.4375,8.6875 -8.4375,8.6875 1.4375,1.375 9.09375,-9.375 0.65625,-0.6875 -0.65625,-0.6875 -9.09375,-9.375 z M 35,43 l 0,2 8,0 0,-2 -8,0 z"
+     id="path3790-3" />
 </svg>

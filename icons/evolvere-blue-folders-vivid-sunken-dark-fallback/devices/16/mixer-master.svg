@@ -13,8 +13,8 @@
    height="15.999998"
    id="svg13094"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="mixer-master.svg">
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="volume-knob.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -43,9 +43,9 @@
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1033"
-     inkscape:window-x="-10"
-     inkscape:window-y="25"
+     inkscape:window-height="1016"
+     inkscape:window-x="-5"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:snap-global="true"
      fit-margin-top="0"
@@ -129,7 +129,7 @@
        transform="translate(-9379.308,4843.1988)"
        id="rect3000" />
     <path
-       style="fill:#404957;fill-opacity:0.23137255;fill-rule:nonzero;stroke:none"
+       style="fill:#8a929e;fill-opacity:0.60931899000000000;fill-rule:nonzero;stroke:none;color:#000000;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="M 9 1 L 9 3 L 15 3 L 15 1 L 9 1 z M 9 4 L 9 6 L 15 6 L 15 4 L 9 4 z "
        transform="translate(-9379.308,4843.1988)"
        id="rect3006" />

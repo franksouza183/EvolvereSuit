@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313709"
-     inkscape:cx="32.33884"
-     inkscape:cy="29.655019"
+     inkscape:zoom="16.000001"
+     inkscape:cx="38.818388"
+     inkscape:cy="28.921745"
      inkscape:document-units="px"
      inkscape:current-layer="svg13094"
      showgrid="true"
@@ -44,9 +44,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1025"
-     inkscape:window-x="-2"
-     inkscape:window-y="32"
+     inkscape:window-height="1016"
+     inkscape:window-x="-5"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:snap-global="true"
      fit-margin-top="0"
@@ -157,12 +157,6 @@
      id="path3791"
      d="m 8,12 48,0 0,39 -3,0 -42,0 -3,0 z"
      style="color:#000000;fill:#295766;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-  <path
-     style="font-size:31.84835242999999849px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#d7e9f2;fill-opacity:1;stroke:none;font-family:Futura LT;-inkscape-font-specification:Futura LT;color:#000000;fill-rule:nonzero;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 13,33 0,1.661932 6.740057,3.065341 L 13,40.792614 l 0,1.661931 8.863636,-4.044034 0,-1.366477 z m 9,11 0,2 6.954545,0 0,-1.772727 z"
-     id="path3790"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccccccccc" />
   <rect
      y="12"
      x="1.6362305e-08"
@@ -170,4 +164,9 @@
      width="64"
      id="rect3796"
      style="color:#000000;fill:#001f48;fill-opacity:0.10743061000000000;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  <path
+     inkscape:connector-curvature="0"
+     style="font-size:31.84835243px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cce5f6;fill-opacity:1;stroke:none;font-family:Futura LT;-inkscape-font-specification:Futura LT"
+     d="m 22.71875,20.3125 -1.4375,1.375 8.4375,8.6875 -8.4375,8.6875 1.4375,1.375 9.09375,-9.375 0.65625,-0.6875 -0.65625,-0.6875 -9.09375,-9.375 z M 35,41 l 0,2 8,0 0,-2 -8,0 z"
+     id="path3790-3" />
 </svg>
