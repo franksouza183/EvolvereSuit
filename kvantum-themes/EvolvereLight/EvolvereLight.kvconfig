@@ -60,6 +60,20 @@ text.margin.bottom=3
 text.margin.left=2
 text.margin.right=2
 
+[PanelButtonTool]
+interior=true
+interior.element=toolbutton
+frame=true
+frame.element=toolbutton
+frame.top=3
+frame.bottom=3
+frame.left=3
+frame.right=3
+text.margin.top=3
+text.margin.bottom=5
+text.margin.left=4
+text.margin.right=4
+
 [ComboBox]
 frame.top=5
 frame.bottom=5
