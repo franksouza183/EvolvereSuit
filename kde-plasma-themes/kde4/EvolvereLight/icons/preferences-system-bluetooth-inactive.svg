@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="22"
+   height="22"
+   id="svg3213"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="preferences-system-bluetooth-inactive.svg">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1033"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="22.627417"
+     inkscape:cx="11.925111"
+     inkscape:cy="7.446645"
+     inkscape:window-x="-2"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="bluetooth">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2989" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3215">
+    <linearGradient
+       id="linearGradient3918-2-7">
+      <stop
+         id="stop3920-5-5"
+         offset="0"
+         style="stop-color:#dbd0ba;stop-opacity:1;" />
+      <stop
+         id="stop3922-7-9"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+    </linearGradient>
+    <radialGradient
+       r="132.9899"
+       fy="317.91205"
+       fx="-3192.6899"
+       cy="317.91205"
+       cx="-3192.6899"
+       gradientTransform="matrix(0.03991575,0,0,0.06954123,138.43864,-6.1089258)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3034"
+       xlink:href="#linearGradient3918-2-7"
+       inkscape:collect="always" />
+  </defs>
+  <g
+     id="bluetooth"
+     style="opacity:1">
+    <rect
+       ry="2"
+       rx="2"
+       y="0"
+       x="0"
+       height="22"
+       width="22"
+       id="rect2991"
+       style="opacity:0.10000000000000001;fill:#000000;fill-opacity:0.00392157000000000;stroke:none" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2984"
+       d="m 9.359375,2.0625001 0,1.9375 0,4.0312499 -3.15625,-2.84375 -1.5,1.625 4.65625,4.1875 -4.65625,4.1875 1.5,1.625 3.15625,-2.84375 0,4.03125 0,1.9375 1.65625,-1 5,-3 1.28125,-0.75 -1.09375,-1 L 12.671875,11 16.203125,7.8124999 17.296875,6.8125 l -1.28125,-0.75 -5,-3 -1.65625,-1 z m 2.1875,3.875 2.0625,1.21875 -2.0625,1.8749999 0,-3.0937499 z m 0,7.0312499 2.0625,1.875 -2.0625,1.21875 0,-3.09375 z"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#404957;fill-opacity:0.23083699999999999;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans;fill-rule:nonzero" />
+  </g>
+</svg>
