@@ -13,8 +13,8 @@
    height="24"
    id="svg27665"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="audio-volume-medium-panel.svg">
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="audio-volume-medium-symbolic.svg">
   <defs
      id="defs27667" />
   <sodipodi:namedview
@@ -24,15 +24,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="32.000002"
-     inkscape:cx="9.1893463"
-     inkscape:cy="10.435199"
+     inkscape:zoom="22.627417"
+     inkscape:cx="11.805738"
+     inkscape:cy="12.757657"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1033"
-     inkscape:window-x="-10"
+     inkscape:window-height="1018"
+     inkscape:window-x="-5"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
@@ -47,7 +47,7 @@
      inkscape:snap-midpoints="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      showguides="true"
      inkscape:guide-bbox="true"
      fit-margin-top="0"
@@ -84,13 +84,9 @@
      transform="translate(3316.4171,-2092.7186)">
     <path
        inkscape:connector-curvature="0"
-       id="path2994"
-       d="m -3303.8859,2096.7186 -0.3125,0.375 -1.8125,2.2813 -3.75,1.4062 -0.6562,0.25 0,0.6875 0,6 0,0.6875 0.6562,0.25 3.75,1.4063 1.8125,2.2812 0.3125,0.375 0.4688,0 3,0 1,0 0,-1 0,-14 0,-1 -1,0 -3,0 -0.4688,0 z m 0.9375,2 1.5313,0 0,12 -1.5313,0 -1.4687,-1.8437 0,-8.3125 1.4687,-1.8438 z"
-       style="color:#000000;fill:#27303a;fill-opacity:0.753280819999999968;fill-rule:nonzero;stroke:none;stroke-width:2.28571415;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#f1f3f5;fill-opacity:0.90288714000000003;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="m -3304.3859,2095.7186 -0.3125,0.1875 -0.2812,0.375 -1.6563,1.9063 -3.5,1.4687 -0.6562,0.4375 -0.625,0.25 0,0.6875 0,0.6875 0,6 0,0.6875 0,0.6875 0.625,0.25 0.6562,0.4375 3.5,1.4688 c 0.5534,0.607 1.3841,1.6942 1.6563,1.9062 l 0.2812,0.375 0.3125,0.1875 0.4688,0 0.5,0 3,0 1,0 1,0 0,-1 0,-1 0,-14 0,-1 0,-1 -1,0 -1,0 -3,0 -0.5,0 -0.4688,0 z m 0.5,1 0.4688,0 3,0 1,0 0,1 0,14 0,1 -1,0 -3,0 -0.4688,0 -0.3125,-0.375 -1.8125,-2.2812 -3.75,-1.4063 -0.6562,-0.25 0,-0.6875 0,-6 0,-0.6875 0.6562,-0.25 3.75,-1.4062 1.8125,-2.2813 0.3125,-0.375 z m 0.4688,2.5938 -0.3125,0.4062 -0.6875,0.8438 0,1.5312 0,5.25 0,1.5313 0.6875,0.8437 0.3125,0.4063 0,-1.7813 0,-7.25 0,-1.7812 z"
-       id="path3318"
-       inkscape:connector-curvature="0" />
+       d="m -3304.5109,2096.7186 a 1.0001,1.0001 0 0 0 -0.75,0.4375 l -1.8125,2.75 -3.6875,1.375 a 1.0001,1.0001 0 0 0 -0.6562,0.9375 l 0,5 a 1.0001,1.0001 0 0 0 0.6562,0.9375 l 3.6875,1.375 1.8125,2.75 a 1.0001,1.0001 0 0 0 0.8438,0.4375 l 4,0 a 1.0001,1.0001 0 0 0 0.9375,-0.6875 c 0,0 1.0625,-3.1458 1.0625,-7.3125 0,-4.1667 -1.0625,-7.3125 -1.0625,-7.3125 a 1.0001,1.0001 0 0 0 -0.9375,-0.6875 l -4,0 a 1.0001,1.0001 0 0 0 -0.094,0 z m 1.0938,2 2.25,0 c 0.2769,1.0573 0.75,3.2678 0.75,6 0,2.7329 -0.4732,4.943 -0.75,6 l -2.25,0 c 0,0 0.25,-3 0.25,-6 0,-3 -0.25,-6 -0.25,-6 z"
+       style="color:#000000;fill:#27303a;fill-opacity:0.75328081999999996;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3039"
+       class="ColorScheme-Text" />
   </g>
 </svg>

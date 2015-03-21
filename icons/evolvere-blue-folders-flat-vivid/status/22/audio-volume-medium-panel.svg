@@ -13,8 +13,8 @@
    height="22"
    id="svg27665"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="audio-volume-medium-panel.svg">
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="audio-volume-medium-symbolic.svg">
   <defs
      id="defs27667" />
   <sodipodi:namedview
@@ -24,15 +24,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="16.000001"
-     inkscape:cx="18.5402"
-     inkscape:cy="11.628258"
+     inkscape:zoom="22.627417"
+     inkscape:cx="11.805738"
+     inkscape:cy="12.757657"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1033"
-     inkscape:window-x="-10"
+     inkscape:window-height="1018"
+     inkscape:window-x="-5"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
@@ -47,7 +47,7 @@
      inkscape:snap-midpoints="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      showguides="true"
      inkscape:guide-bbox="true"
      fit-margin-top="0"
@@ -83,9 +83,10 @@
      id="layer1"
      transform="translate(3316.4171,-2094.7186)">
     <path
+       inkscape:connector-curvature="0"
+       d="m -3305.5109,2097.7186 a 1.0001,1.0001 0 0 0 -0.75,0.4375 l -1.8125,2.75 -3.6875,1.375 a 1.0001,1.0001 0 0 0 -0.6562,0.9375 l 0,5 a 1.0001,1.0001 0 0 0 0.6562,0.9375 l 3.6875,1.375 1.8125,2.75 a 1.0001,1.0001 0 0 0 0.8438,0.4375 l 4,0 a 1.0001,1.0001 0 0 0 0.9375,-0.6875 c 0,0 1.0625,-3.1458 1.0625,-7.3125 0,-4.1667 -1.0625,-7.3125 -1.0625,-7.3125 a 1.0001,1.0001 0 0 0 -0.9375,-0.6875 l -4,0 a 1.0001,1.0001 0 0 0 -0.094,0 z m 1.0938,2 2.25,0 c 0.2769,1.0573 0.75,3.2678 0.75,6 0,2.7329 -0.4732,4.943 -0.75,6 l -2.25,0 c 0,0 0.25,-3 0.25,-6 0,-3 -0.25,-6 -0.25,-6 z"
        style="color:#000000;fill:#27303a;fill-opacity:0.753280819999999968;fill-rule:nonzero;stroke:none;stroke-width:2.28571415;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m -3304.8859,2097.7186 -0.3125,0.375 -1.8125,2.2813 -3.75,1.4062 -0.6562,0.25 0,0.6875 0,6 0,0.6875 0.6562,0.25 3.75,1.4063 1.8125,2.2812 0.3125,0.375 0.4688,0 3,0 1,0 0,-1 0,-14 0,-1 -1,0 -3,0 -0.4688,0 z m 0.9375,2 1.5313,0 0,12 -1.5313,0 -1.4687,-1.8437 0,-8.3125 1.4687,-1.8438 z"
-       id="path3576"
-       inkscape:connector-curvature="0" />
+       id="path3039"
+       class="ColorScheme-Text" />
   </g>
 </svg>

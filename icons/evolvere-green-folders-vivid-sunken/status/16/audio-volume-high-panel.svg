@@ -13,7 +13,7 @@
    height="16"
    id="svg27665"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="audio-volume-high-panel.svg">
   <defs
      id="defs27667" />
@@ -25,14 +25,14 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="32.000002"
-     inkscape:cx="17.204878"
-     inkscape:cy="11.561342"
+     inkscape:cx="8.8923785"
+     inkscape:cy="8.4363422"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1033"
-     inkscape:window-x="-10"
+     inkscape:window-height="1018"
+     inkscape:window-x="-5"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
@@ -83,9 +83,10 @@
      id="layer1"
      transform="translate(3316.4171,-2100.7186)">
     <path
-       style="color:#000000;fill:#434a54;fill-opacity:0.6745098;fill-rule:nonzero;stroke:none;stroke-width:2.28571415;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m -3307.8859,2100.7186 -0.3125,0.375 -1.8125,2.2813 -3.75,1.4062 -0.6562,0.25 0,0.6875 0,6 0,0.6875 0.6562,0.25 3.75,1.4063 1.8125,2.2812 0.3125,0.375 0.4688,0 3,0 1,0 0,-1 0,-14 0,-1 -1,0 -3,0 -0.4688,0 z"
-       id="path3576"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       id="path3049"
+       d="m -3308.594,2101.7188 c -0.3146,0.021 -0.6144,0.2011 -0.7812,0.4687 l -1.4688,2.4375 -2.9374,1.0938 c -0.3698,0.1496 -0.6291,0.5385 -0.625,0.9374 l 0,4.125 c -0,0.399 0.2551,0.788 0.625,0.9376 l 2.9374,1.0937 1.4688,2.4375 c 0.1838,0.2934 0.5289,0.4783 0.875,0.4688 l 3.25,0 c 0.4316,0 0.8474,-0.3046 0.9688,-0.7188 0,0 0.875,-2.8188 0.875,-6.2812 0,-3.4624 -0.8751,-6.2813 -0.875,-6.2813 -0.1214,-0.4142 -0.5372,-0.7226 -0.9688,-0.7187 l -3.25,0 c -0.031,-0 -0.063,-0 -0.094,0 z"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#434a54;fill-opacity:0.6745098;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       sodipodi:nodetypes="ccccccccccccsccccc" />
   </g>
 </svg>

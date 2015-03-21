@@ -13,7 +13,7 @@
    height="22"
    id="svg27665"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="audio-volume-muted-blocking-panel.svg">
   <defs
      id="defs27667" />
@@ -31,8 +31,8 @@
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1033"
-     inkscape:window-x="-10"
+     inkscape:window-height="1018"
+     inkscape:window-x="-5"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
@@ -83,9 +83,10 @@
      id="layer1"
      transform="translate(3316.4171,-2094.7186)">
     <path
-       inkscape:connector-curvature="0"
-       id="path2991"
-       d="m -3304.8968,2097.7187 -0.3009,0.3758 -1.8269,2.2844 -3.7436,1.4039 -0.6489,0.2432 0,0.6927 0,6.0005 0,0.6927 0.6489,0.2432 3.7425,1.4027 1.828,2.2857 0.3009,0.3757 0.4806,0 2.9991,0 1.0004,0 0,-1.0005 0,-13.9995 0,-1.0005 -1.0004,0 -2.9991,0 -0.4806,0 z m 0.9612,1.9998 1.5192,0 0,12.0009 -1.5192,0 -1.7001,-2.1254 -0.1717,-0.2144 -0.2582,-0.097 -3.3506,-1.2575 0,-4.6138 3.3506,-1.2564 0.2582,-0.097 0.1717,-0.2144 1.7001,-2.1254 z"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4a97e5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+       class="ColorScheme-Text"
+       id="path4083"
+       style="fill:#4a97e5;fill-opacity:1;color:#000000;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -3305.5109,2097.7186 a 1.0001,1.0001 0 0 0 -0.75,0.4375 l -1.8125,2.75 -3.6875,1.375 a 1.0001,1.0001 0 0 0 -0.6562,0.9375 l 0,5 a 1.0001,1.0001 0 0 0 0.6562,0.9375 l 3.6875,1.375 1.8125,2.75 a 1.0001,1.0001 0 0 0 0.8438,0.4375 l 4,0 a 1.0001,1.0001 0 0 0 0.9375,-0.6875 c 0,0 1.0625,-3.1458 1.0625,-7.3125 0,-4.1667 -1.0625,-7.3125 -1.0625,-7.3125 a 1.0001,1.0001 0 0 0 -0.9375,-0.6875 l -4,0 a 1.0001,1.0001 0 0 0 -0.094,0 z m 0.625,2 2.7188,0 c 0.2769,1.0573 0.75,3.2678 0.75,6 0,2.7329 -0.4732,4.943 -0.75,6 l -2.7188,0 -1.6875,-2.5625 a 1.0001,1.0001 0 0 0 -0.5,-0.375 l -3.3437,-1.25 0,-3.625 3.3437,-1.25 a 1.0001,1.0001 0 0 0 0.5,-0.375 l 1.6875,-2.5625 z"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
