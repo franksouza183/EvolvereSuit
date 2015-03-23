@@ -37,6 +37,7 @@ Apps
 	- plasmagik icon added;
 	- deepin-music icon added;
 	- blockdevice icon added;
+	- preferences-system-windows-actions icon added;
 	- 22/24 px sizes of plasma icon added;
 	- 22/24 px sizes of wolfram-mathematica icon added;
 	- 22/24 px sizes of preferences-system-windows icon added;
@@ -45,13 +46,13 @@ Apps
 	- 16/22/24 px sizes of Ardour icon adjusted;
 	- 16/22/24 px sizes of imagemagick icon added;
 	- ardour3 icon added (symlink);
-	- multimedia-photo-manager icon added (symlink)
-	- some apps design adjustments on flat variants
-	- steam icon colors adjusted on default and vivid variants
-	- view-services-lastfm-amarok icon added (symlink)
-	- view-services-gpodder-amarok icon added (symlink)
-	- Photos icon added (symlink)
-	- photos-amarok icon added (symlink)
+	- multimedia-photo-manager icon added (symlink);
+	- some apps design adjustments on flat variants;
+	- steam icon colors adjusted on default and vivid variants;
+	- view-services-lastfm-amarok icon added (symlink);
+	- view-services-gpodder-amarok icon added (symlink);
+	- Photos icon added (symlink);
+	- photos-amarok icon added (symlink);
 	- label-amarok icon added (symlink)
 
 Categories
@@ -65,7 +66,7 @@ Mimetypes
 	- bytecode icon adjusted for small size and added for vivid/flat variants;
 	- spreadsheet icon adjusted for small size and added for vivid/flat variants;
 	- presentation icon adjusted for small size and added for vivid/flat variants;
-	- top shadow removed;
+	- top shadow removed on flat variants;
 	- c/c++ icons added for vivid/flat variants
  	
 Places
