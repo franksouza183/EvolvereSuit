@@ -80,7 +80,7 @@
      transform="translate(0,-8)">
     <path
        sodipodi:type="arc"
-       style="fill:#404957;fill-opacity:0.0;fill-rule:nonzero;stroke:none"
+       style="fill:#404957;fill-opacity:0.15;fill-rule:nonzero;stroke:none"
        id="path3778"
        sodipodi:cx="33.5"
        sodipodi:cy="32.5"
@@ -90,7 +90,7 @@
        transform="matrix(0.33098618,0.33098618,-0.33098618,0.33098618,11.669015,-1.8450909)" />
     <path
        sodipodi:nodetypes="cccccccc"
-       style="color:#000000;fill:#404957;fill-opacity:0.0;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#404957;fill-opacity:0.15;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="path2984"
        d="m 11.000001,14.999997 0,5 -3.9999998,0 5.9999998,8 6,-8 -4,0 0,-5 z"
        inkscape:connector-curvature="0" />
