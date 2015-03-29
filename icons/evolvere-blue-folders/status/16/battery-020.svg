@@ -13,7 +13,7 @@
    height="16"
    id="svg27665"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="battery-020.svg">
   <defs
      id="defs27667" />
@@ -25,15 +25,15 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="32.000002"
-     inkscape:cx="12.125084"
-     inkscape:cy="8.8157181"
+     inkscape:cx="6.7820072"
+     inkscape:cy="7.1484404"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1033"
-     inkscape:window-x="-10"
-     inkscape:window-y="25"
+     inkscape:window-height="1017"
+     inkscape:window-x="-5"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
@@ -82,23 +82,12 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(3316.4171,-2100.7186)">
-    <rect
-       style="color:#000000;fill:#c17564;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.20000005000000010;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect2985"
-       width="6"
-       height="2"
-       x="-3311.4167"
-       y="2111.719" />
     <path
-       sodipodi:nodetypes="cccccccccccccc"
+       style="color:#000000;fill:#434a54;fill-opacity:0.67577096;fill-rule:nonzero;stroke:none;stroke-width:1.20000005;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 7,1 C 6.446,1 6,1.446 6,2 4.3553,2 3,3.3553 3,5 l 0,7 c 0,1.6447 1.3553,3 3,3 l 3,0 c 1.6447,0 3,-1.3553 3,-3 L 12,5 C 12,3.3553 10.6447,2 9,2 9,1.446 8.554,1 8,1 z M 6,4 9,4 c 0.5713,0 1,0.4287 1,1 l 0,7 -5,0 0,-7 C 5,4.4287 5.4287,4 6,4 z"
+       transform="translate(-3316.4171,2100.7186)"
+       id="path3064"
        inkscape:connector-curvature="0"
-       id="path2993"
-       d="m -3311.4171,2100.7186 0,2 -3,0 0,14 12,0 0,-14 -3,0 0,-2 z m -1,4 8,0 0,10 -8,0 z"
-       style="color:#000000;fill:#c17564;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.20000005;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    <path
-       style="color:#000000;fill:#404957;fill-opacity:0.230837;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m -3311.4171,2100.7186 0,2 -3,0 0,14 1,0 0,-13 3,0 0,-2 5,0 0,-1 -6,0 z m 7,2 0,1 2,0 0,-1 -2,0 z m 0,3 0,9 -7,0 0,1 8,0 0,-10 -1,0 z"
-       id="path3006"
-       inkscape:connector-curvature="0" />
+       sodipodi:nodetypes="scsssssscsssssccss" />
   </g>
 </svg>

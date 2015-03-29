@@ -13,7 +13,7 @@
    height="24"
    id="svg27665"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="battery-100.svg">
   <defs
      id="defs27667" />
@@ -25,15 +25,15 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="32.000002"
-     inkscape:cx="20.031334"
-     inkscape:cy="10.784468"
+     inkscape:cx="15.455036"
+     inkscape:cy="11.465621"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1033"
-     inkscape:window-x="-10"
-     inkscape:window-y="25"
+     inkscape:window-height="1017"
+     inkscape:window-x="-5"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
@@ -83,11 +83,10 @@
      id="layer1"
      transform="translate(3316.4171,-2092.7186)">
     <path
-       style="color:#000000;fill:#27303a;fill-opacity:0.75328081999999996;fill-rule:nonzero;stroke:none;stroke-width:1.20000005;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 9,3 9,5 6,5 6,21 18,21 18,5 15,5 15,3 z m -1,4 8,0 0,12 -8,0 z M 9.000347,8.0003128 9,18 l 6,0 3.47e-4,-9.9996872 z"
-       transform="translate(-3316.4171,2092.7186)"
-       id="path3006"
+       sodipodi:nodetypes="scsssssscss"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccccccccc" />
+       id="path2987"
+       d="m -3305.4171,2096.7186 c -0.554,0 -1,0.446 -1,1 -1.6447,0 -3,1.3553 -3,3 l 0,9 c 0,1.6447 1.3553,3 3,3 l 4,0 c 1.6447,0 3,-1.3553 3,-3 l 0,-9 c 0,-1.6447 -1.3553,-3 -3,-3 0,-0.554 -0.446,-1 -1,-1 z"
+       style="color:#000000;fill:#27303a;fill-opacity:0.75328081999999996;fill-rule:nonzero;stroke:none;stroke-width:1.20000005;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
 </svg>
