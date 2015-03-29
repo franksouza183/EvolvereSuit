@@ -13,7 +13,7 @@
    height="24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="audio-headphones.svg">
   <sodipodi:namedview
      id="base"
@@ -23,15 +23,15 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="32"
-     inkscape:cx="16.54217"
-     inkscape:cy="9.525452"
+     inkscape:cx="9.964045"
+     inkscape:cy="10.494202"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1035"
-     inkscape:window-x="-2"
-     inkscape:window-y="23"
+     inkscape:window-height="1017"
+     inkscape:window-x="-5"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -69,10 +69,10 @@
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
     <path
-       style="fill:#27303a;fill-opacity:0.75328081999999996;fill-rule:nonzero;stroke:none"
-       d="m 422,1051.3622 c -4.41828,0 -8,3.5818 -8,8 l -2,0 0,7 4,0 0,-7 c 0,-3.3137 2.68629,-6 6,-6 3.31371,0 6,2.6863 6,6 l 0,7 4,0 0,-7 -2,0 c 0,-4.4182 -3.58172,-8 -8,-8 z"
-       id="path2986"
+       style="color:#000000;fill:#27303a;fill-opacity:0.75328081999999996;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 422,1051.3622 c -4.41828,0 -8,3.5818 -8,8 l 1,7 3,0 0,-6 -3,0 1,-1 c 0,-3.3137 2.68629,-6 6,-6 3.31371,0 6,2.6863 6,6 l 1,1 -3,0 0,6 3,0 1,-7 c 0,-4.4182 -3.58172,-8 -8,-8 z"
+       id="path3003"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sccccsssccccs" />
+       sodipodi:nodetypes="sccccccsscccccs" />
   </g>
 </svg>
