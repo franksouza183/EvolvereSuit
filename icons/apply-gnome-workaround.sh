@@ -43,7 +43,7 @@ function do_link() {
 [[ -z "${1}" ]] && panic 1 'panic: path to iconset expected as argument\n'
 
 while [[ -n "${1}" ]]; do
-	pushd "$1" >/dev/null && panic $? 'panic: can not cd to %s\n' "${1}";
+	pushd "$1" >/dev/null || panic $? 'panic: can not cd to %s\n' "${1}";
 	
 	for opdir in places mimetypes devices status categories apps actions; do
 		pushd "${opdir}" >/dev/null
