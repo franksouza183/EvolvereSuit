@@ -22,6 +22,10 @@ vertical_spin_indicators=false
 merge_menubar_with_toolbar=true
 
 [GeneralColors]
+text.normal.color=none
+text.focus.color=none
+text.press.color=none
+text.toggle.color=none
 
 
 [GenericFrame]
@@ -35,7 +39,6 @@ frame.top=5
 frame.bottom=5
 frame.left=5
 frame.right=5
-text.focus.color=#f8f9fa
 
 [PanelButtonCommand]
 frame.top=5
@@ -193,8 +196,6 @@ frame.left=3
 frame.right=3
 indicator.size=12
 indicator.element=mdi
-text.normal.color=#c9cbce
-text.focus.color=#c9cbce
 text.bold=false
 text.italic=false
 text.margin.top=7
@@ -205,8 +206,6 @@ text.margin.right=5
 [DockTitle]
 indicator.size=12
 indicator.element=dockbutton
-text.normal.color=#c9cbce
-text.focus.color=#c9cbce
 
 [ToolTip]
 frame.top=10
