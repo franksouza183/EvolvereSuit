@@ -72,11 +72,11 @@
        inkscape:collect="always"
        id="linearGradient3060">
       <stop
-         style="stop-color:#ffffff;stop-opacity:0.81002641"
+         style="stop-color:#ffffff;stop-opacity:0.91927083"
          offset="0"
          id="stop3062" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0.4599824"
+         style="stop-color:#ffffff;stop-opacity:0.68425679"
          offset="1"
          id="stop3064" />
     </linearGradient>
@@ -192,19 +192,41 @@
     </linearGradient>
     <radialGradient
        r="32"
-       fy="21.62978"
+       fy="18"
        fx="32"
-       cy="21.62978"
+       cy="18"
        cx="32"
-       gradientTransform="matrix(1.75,0,0,1.640625,-24,-13.083439)"
+       gradientTransform="matrix(0,1.6151028,-1.7330518,0,63.194933,-32.683288)"
        gradientUnits="userSpaceOnUse"
-       id="radialGradient3079"
-       xlink:href="#linearGradient5879"
+       id="radialGradient3028"
+       xlink:href="#linearGradient3955"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient3955">
+      <stop
+         offset="0"
+         style="stop-color:#4b617d;stop-opacity:1;"
+         id="stop3957" />
+      <stop
+         offset="1"
+         style="stop-color:#393f44;stop-opacity:1;"
+         id="stop3959" />
+    </linearGradient>
+    <radialGradient
+       r="32"
+       fy="18"
+       fx="32"
+       cy="18"
+       cx="32"
+       gradientTransform="matrix(0,1.6151028,-1.7330518,0,63.194933,-32.683288)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3063"
+       xlink:href="#linearGradient3955"
        inkscape:collect="always" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4842-55-7"
-       id="radialGradient3971"
+       id="radialGradient3077"
        gradientUnits="userSpaceOnUse"
        cx="12"
        cy="19"
@@ -236,15 +258,15 @@
          style="stop-color:#ffffff;stop-opacity:0;" />
     </linearGradient>
     <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4842-55-7"
-       id="radialGradient3975"
-       gradientUnits="userSpaceOnUse"
-       cx="12"
-       cy="19"
-       fx="12"
+       r="13"
        fy="19"
-       r="13" />
+       fx="12"
+       cy="19"
+       cx="12"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3940"
+       xlink:href="#linearGradient4842-55-7"
+       inkscape:collect="always" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4842-55-7"
@@ -256,25 +278,25 @@
        fy="19"
        r="13" />
     <radialGradient
-       r="13"
-       fy="19"
-       fx="12"
-       cy="19"
-       cx="12"
-       gradientUnits="userSpaceOnUse"
-       id="radialGradient3940"
+       inkscape:collect="always"
        xlink:href="#linearGradient4842-55-7"
-       inkscape:collect="always" />
+       id="radialGradient3971"
+       gradientUnits="userSpaceOnUse"
+       cx="12"
+       cy="19"
+       fx="12"
+       fy="19"
+       r="13" />
     <radialGradient
-       r="13"
-       fy="19"
-       fx="12"
-       cy="19"
-       cx="12"
-       gradientUnits="userSpaceOnUse"
-       id="radialGradient4037"
+       inkscape:collect="always"
        xlink:href="#linearGradient4842-55-7"
-       inkscape:collect="always" />
+       id="radialGradient3975"
+       gradientUnits="userSpaceOnUse"
+       cx="12"
+       cy="19"
+       fx="12"
+       fy="19"
+       r="13" />
   </defs>
   <metadata
      id="metadata13099">
@@ -290,17 +312,17 @@
   </metadata>
   <path
      inkscape:connector-curvature="0"
-     style="color:#000000;fill:url(#radialGradient3079);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="color:#000000;fill:url(#radialGradient3063);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      d="m 0,4 0,30 0,28 2,2 30,0 30,0 2,-2 L 64,34 64,4 32,4 0,4 z"
-     id="path4095" />
+     id="path6383" />
   <path
      inkscape:connector-curvature="0"
-     style="color:#000000;fill:#97a6b9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="color:#000000;fill:#7090b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      d="M 2,0 0,1 0,4 32,4 64,4 64,1 62,0 32,0 2,0 z"
-     id="path4090" />
+     id="path6502" />
   <path
      inkscape:connector-curvature="0"
-     style="fill:#ffffff;fill-opacity:0.30300353;fill-rule:nonzero"
+     style="fill:#ffffff;fill-opacity:0.26881726;fill-rule:nonzero"
      d="M 0,3 0,6 2,4 32,4 62,4 64,3 32,3 0,3 z"
      id="path4298" />
   <path
@@ -318,25 +340,11 @@
      style="fill:#000000;fill-opacity:0.11130587;fill-rule:nonzero"
      d="M 63,0.5 63,34 63,63 64,62 64,34 64,1 63,0.5 z m 0,62.5 -31,0 -31,0 1,1 30,0 30,0 1,-1 z"
      id="path4366" />
-  <g
-     id="g3043"
-     inkscape:export-filename="folder.png"
-     inkscape:export-xdpi="90"
-     inkscape:export-ydpi="90"
-     transform="translate(-0.62500009,0.082283)" />
   <path
-     inkscape:connector-curvature="0"
-     style="fill:#ffffff;fill-opacity:0.30300353;fill-rule:nonzero"
+     style="fill:#ffffff;fill-opacity:0.35070675;fill-rule:nonzero"
      d="M 0,1 0,34 0,62 1,63 1,34 1,5 2,4 1,3.46875 1,1 0,1 z"
-     id="path3864" />
-  <g
-     id="scalable"
-     transform="matrix(1.0385892,0,0,1.0385892,1214.7222,1878.8121)"
-     inkscape:label="#g3701"
-     style="fill:#ffffff" />
-  <g
-     id="g5521"
-     transform="translate(38,9)" />
+     id="path3864"
+     inkscape:connector-curvature="0" />
   <g
      id="g3008">
     <path
@@ -357,7 +365,7 @@
   </g>
   <path
      sodipodi:type="arc"
-     style="color:#000000;fill:url(#radialGradient4037);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06597184999999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.76996528"
+     style="color:#000000;fill:url(#radialGradient3967);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06597185;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      id="path3965"
      sodipodi:cx="12"
      sodipodi:cy="19"
@@ -367,7 +375,7 @@
      transform="matrix(-1,0,0,1,44.59375,1.125)" />
   <path
      sodipodi:type="arc"
-     style="color:#000000;fill:url(#radialGradient3971);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06597184999999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.76996528"
+     style="color:#000000;fill:url(#radialGradient3971);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06597185;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      id="path3969"
      sodipodi:cx="12"
      sodipodi:cy="19"
@@ -377,7 +385,7 @@
      transform="matrix(-0.41527711,0,0,0.41527711,16.871984,38.41484)" />
   <path
      sodipodi:type="arc"
-     style="color:#000000;fill:url(#radialGradient3975);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06597184999999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.76996528"
+     style="color:#000000;fill:url(#radialGradient3975);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06597185;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      id="path3973"
      sodipodi:cx="12"
      sodipodi:cy="19"
@@ -393,6 +401,6 @@
      sodipodi:cy="19"
      sodipodi:cx="12"
      id="path4852-3"
-     style="color:#000000;fill:url(#radialGradient3940);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06597184999999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.76996528"
+     style="color:#000000;fill:url(#radialGradient3940);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06597185;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      sodipodi:type="arc" />
 </svg>

@@ -18,14 +18,14 @@
    sodipodi:docname="bluej.svg">
   <sodipodi:namedview
      id="base"
-     pagecolor="#cbcdd6"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313709"
-     inkscape:cx="18.205785"
-     inkscape:cy="32.097977"
+     inkscape:cx="29.475299"
+     inkscape:cy="30.772152"
      inkscape:document-units="px"
      inkscape:current-layer="svg13094"
      showgrid="true"
@@ -69,14 +69,13 @@
   <defs
      id="defs13096">
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient3919">
       <stop
-         style="stop-color:#4c89c8;stop-opacity:1"
+         style="stop-color:#3c93ec;stop-opacity:1;"
          offset="0"
          id="stop3921" />
       <stop
-         style="stop-color:#396592;stop-opacity:1"
+         style="stop-color:#1e6fc2;stop-opacity:1;"
          offset="1"
          id="stop3923" />
     </linearGradient>
@@ -136,7 +135,7 @@
        transform="translate(1,0)" />
   </g>
   <path
-     style="color:#000000;fill:#5c9ddf;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="color:#000000;fill:#48b2ff;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      d="M 2,0 0,1 0,2 32,2 64,2 64,1 62,0 32,0 z"
      id="path6502"
      inkscape:connector-curvature="0"
@@ -177,7 +176,7 @@
      inkscape:label="#g3701"
      style="fill:#ffffff" />
   <path
-     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.67473119"
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.8261649"
      d="m 32,15 0,19 c 0,4.908328 -3.513197,8.646442 -9.03125,10.125 l 2.0625,7.75 C 33.270445,49.667314 40,42.872412 40,34 l 0,-19 -8,0 z"
      id="path3827"
      inkscape:connector-curvature="0" />

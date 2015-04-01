@@ -23,11 +23,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.0000004"
-     inkscape:cx="44.04376"
-     inkscape:cy="32.958407"
+     inkscape:zoom="11.313709"
+     inkscape:cx="28.458574"
+     inkscape:cy="32.383278"
      inkscape:document-units="px"
-     inkscape:current-layer="g3011"
+     inkscape:current-layer="svg13094"
      showgrid="false"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
@@ -44,9 +44,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1033"
-     inkscape:window-x="-2"
-     inkscape:window-y="25"
+     inkscape:window-height="1023"
+     inkscape:window-x="-10"
+     inkscape:window-y="35"
      inkscape:window-maximized="1"
      inkscape:snap-global="false"
      fit-margin-top="0"
@@ -72,21 +72,21 @@
        id="linearGradient5602">
       <stop
          offset="0"
-         style="stop-color:#5a7980;stop-opacity:1;"
+         style="stop-color:#418190;stop-opacity:1;"
          id="stop5604" />
       <stop
          offset="1"
-         style="stop-color:#43585f;stop-opacity:1;"
+         style="stop-color:#325966;stop-opacity:1;"
          id="stop5606" />
     </linearGradient>
     <radialGradient
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,0.9375,0,2.125)"
+       gradientTransform="matrix(0,1.6985901,-1.5924281,0,60.663706,-35.354882)"
        r="32"
        fy="18"
-       fx="32"
+       fx="29.634779"
        cy="18"
-       cx="32"
+       cx="29.634779"
        id="radialGradient4140"
        xlink:href="#linearGradient5602"
        inkscape:collect="always" />
@@ -153,16 +153,16 @@
        id="image3028"
        x="6.2518635"
        y="11.346941"
-       style="opacity:0.83347714" />
+       style="opacity:1" />
   </g>
   <path
      id="path6502"
      d="M 2 0 L 0 1 L 0 4 L 32 4 L 64 4 L 64 1 L 62 0 L 32 0 L 2 0 z "
-     style="color:#000000;fill:#7d9ba3;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-width:2.28571415000000000" />
+     style="color:#000000;fill:#64aabc;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-width:2.28571415000000000" />
   <path
      id="path4298"
      d="M 0 3 L 0 6 L 2 4 L 32 4 L 62 4 L 64 3 L 32 3 L 0 3 z "
-     style="fill:#ffffff;fill-opacity:0.14487633;fill-rule:nonzero" />
+     style="fill:#ffffff;fill-opacity:0.29569891;fill-rule:nonzero" />
   <path
      id="path4444"
      d="M 2 0 L 0 1 L 32 1 L 64 1 L 62 0 L 32 0 L 2 0 z "

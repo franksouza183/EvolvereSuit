@@ -18,14 +18,14 @@
    sodipodi:docname="view-statistics.svg">
   <sodipodi:namedview
      id="base"
-     pagecolor="#cbcdd6"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313709"
-     inkscape:cx="32.048866"
-     inkscape:cy="33.31952"
+     inkscape:cx="26.531559"
+     inkscape:cy="31.864659"
      inkscape:document-units="px"
      inkscape:current-layer="svg13094"
      showgrid="true"
@@ -48,7 +48,7 @@
      inkscape:window-x="-5"
      inkscape:window-y="26"
      inkscape:window-maximized="1"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -77,27 +77,27 @@
   <defs
      id="defs13096">
     <linearGradient
-       id="linearGradient3094">
+       id="linearGradient3094-6">
       <stop
          offset="0"
          style="stop-color:#bdc4cf;stop-opacity:1;"
-         id="stop3096" />
+         id="stop3096-1" />
       <stop
          offset="1"
          style="stop-color:#a1a8ba;stop-opacity:1;"
-         id="stop3104" />
+         id="stop3104-5" />
     </linearGradient>
     <radialGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3094"
-       id="radialGradient3886"
+       xlink:href="#linearGradient3094-6"
+       id="radialGradient3094"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(6.8856667e-8,1.5625001,-1.4375,6.3348129e-8,57.491254,-34.030912)"
        cx="30.739782"
        cy="17.037395"
        fx="30.739782"
        fy="17.037395"
-       r="32"
-       gradientTransform="matrix(6.8856667e-8,1.5625001,-1.4375,6.3348129e-8,57.491254,-34.030912)"
-       gradientUnits="userSpaceOnUse" />
+       r="32" />
   </defs>
   <metadata
      id="metadata13099">
@@ -114,7 +114,7 @@
   <path
      id="path6538"
      d="m 0,2 0,32 0,28 2,2 30,0 30,0 2,-2 0,-28 0,-32 -32,0 z"
-     style="color:#000000;fill:url(#radialGradient3886);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="color:#000000;fill:url(#radialGradient3094);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccccccc" />
   <path
@@ -141,7 +141,7 @@
      inkscape:label="#g3701"
      style="fill:#ffffff" />
   <path
-     style="fill:#ffffff;fill-opacity:0.16077737;fill-rule:nonzero"
+     style="fill:#ffffff;fill-opacity:0.54480286;fill-rule:nonzero"
      d="M 0,1 0,4 2,2 32,2 62,2 64,1 32,1 z"
      id="path4298"
      inkscape:connector-curvature="0"
@@ -153,7 +153,7 @@
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccccccccccccc" />
   <path
-     style="fill:#ffffff;fill-opacity:0.3010753;fill-rule:nonzero"
+     style="fill:#ffffff;fill-opacity:0.64247311;fill-rule:nonzero"
      d="M 0,1 0,34 0,62 1,63 1,34 1,3 2,2 1,1.46875 1,1 z"
      id="path3864"
      inkscape:connector-curvature="0"
@@ -181,24 +181,23 @@
      height="14.126999"
      width="8"
      id="rect3781"
-     style="color:#000000;fill:#a9503d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+     style="color:#000000;fill:#b8462e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   <rect
      y="24"
      x="43"
      height="27"
      width="8"
      id="rect3783"
-     style="color:#000000;fill:#c37e22;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+     style="color:#000000;fill:#d8810d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   <rect
-     style="color:#000000;fill:#558d2a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="color:#000000;fill:#4f9b15;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      id="rect3779"
      width="8"
      height="39"
      x="28"
      y="12" />
   <path
-     inkscape:connector-curvature="0"
-     style="color:#000000;fill:#2b384c;fill-opacity:0.65603447;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 7,8 0,50 1,0 49,0 0,-1 L 8,57 8,8 7,8 z m 2.0000001,4 0,1 L 10,13 10,12 9.0000001,12 z m 0,5 0,1 L 10,18 10,17 9.0000001,17 z m 0,5 0,1 L 10,23 10,22 9.0000001,22 z m 0,5 0,1 L 10,28 10,27 9.0000001,27 z m 0,5 0,1 L 10,33 10,32 9.0000001,32 z m 0,5 0,1 L 10,38 10,37 9.0000001,37 z m 0,5 0,1 L 10,43 10,42 9.0000001,42 z m 0,5 0,1 L 10,48 10,47 9.0000001,47 z m 0,5 0,1 L 10,53 10,52 9.0000001,52 z M 12,55 l 0,1 1,0 0,-1 -1,0 z m 5,0 0,1 1,0 0,-1 -1,0 z m 5,0 0,1 1,0 0,-1 -1,0 z m 5,0 0,1 1,0 0,-1 -1,0 z m 5,0 0,1 1,0 0,-1 -1,0 z m 5,0 0,1 1,0 0,-1 -1,0 z m 5,0 0,1 1,0 0,-1 -1,0 z m 5,0 0,1 1,0 0,-1 -1,0 z m 5,0 0,1 1,0 0,-1 -1,0 z"
+     style="color:#000000;fill:#2b384c;fill-opacity:0.76551723;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     d="M 7 8 L 7 58 L 8 58 L 57 58 L 57 57 L 8 57 L 8 8 L 7 8 z M 9 12 L 9 13 L 10 13 L 10 12 L 9 12 z M 9 17 L 9 18 L 10 18 L 10 17 L 9 17 z M 9 22 L 9 23 L 10 23 L 10 22 L 9 22 z M 9 27 L 9 28 L 10 28 L 10 27 L 9 27 z M 9 32 L 9 33 L 10 33 L 10 32 L 9 32 z M 9 37 L 9 38 L 10 38 L 10 37 L 9 37 z M 9 42 L 9 43 L 10 43 L 10 42 L 9 42 z M 9 47 L 9 48 L 10 48 L 10 47 L 9 47 z M 9 52 L 9 53 L 10 53 L 10 52 L 9 52 z M 12 55 L 12 56 L 13 56 L 13 55 L 12 55 z M 17 55 L 17 56 L 18 56 L 18 55 L 17 55 z M 22 55 L 22 56 L 23 56 L 23 55 L 22 55 z M 27 55 L 27 56 L 28 56 L 28 55 L 27 55 z M 32 55 L 32 56 L 33 56 L 33 55 L 32 55 z M 37 55 L 37 56 L 38 56 L 38 55 L 37 55 z M 42 55 L 42 56 L 43 56 L 43 55 L 42 55 z M 47 55 L 47 56 L 48 56 L 48 55 L 47 55 z M 52 55 L 52 56 L 53 56 L 53 55 L 52 55 z "
      id="rect3009" />
 </svg>

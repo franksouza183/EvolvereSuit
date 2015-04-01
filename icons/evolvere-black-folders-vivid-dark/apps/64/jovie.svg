@@ -18,14 +18,14 @@
    sodipodi:docname="jovie.svg">
   <sodipodi:namedview
      id="base"
-     pagecolor="#cbcdd6"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.0000004"
-     inkscape:cx="33.396868"
-     inkscape:cy="30.371379"
+     inkscape:zoom="11.313709"
+     inkscape:cx="29.491006"
+     inkscape:cy="31.97707"
      inkscape:document-units="px"
      inkscape:current-layer="svg13094"
      showgrid="true"
@@ -44,9 +44,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1033"
-     inkscape:window-x="-2"
-     inkscape:window-y="25"
+     inkscape:window-height="1023"
+     inkscape:window-x="-10"
+     inkscape:window-y="35"
      inkscape:window-maximized="1"
      inkscape:snap-global="true"
      fit-margin-top="0"
@@ -72,11 +72,11 @@
        id="linearGradient5602">
       <stop
          id="stop5604"
-         style="stop-color:#5485be;stop-opacity:1;"
+         style="stop-color:#3082e2;stop-opacity:1;"
          offset="0" />
       <stop
          id="stop5606"
-         style="stop-color:#446a9b;stop-opacity:1;"
+         style="stop-color:#2866b7;stop-opacity:1;"
          offset="1" />
     </linearGradient>
     <radialGradient
@@ -108,7 +108,7 @@
      d="M 0 4 L 0 34 L 0 62 L 2 64 L 32 64 L 62 64 L 64 62 L 64 34 L 64 4 L 32 4 L 0 4 z "
      id="path6498" />
   <path
-     style="color:#000000;fill:#7cb3e2;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-width:2.28571415000000000"
+     style="color:#000000;fill:#65b5f9;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-width:2.28571415000000000"
      d="M 2 0 L 0 1 L 0 4 L 32 4 L 64 4 L 64 1 L 62 0 L 32 0 L 2 0 z "
      id="path6502" />
   <image
@@ -118,7 +118,7 @@
      id="image5213"
      style="opacity:0.28300259" />
   <path
-     style="fill:#ffffff;fill-opacity:0.14487633;fill-rule:nonzero"
+     style="fill:#ffffff;fill-opacity:0.33960575;fill-rule:nonzero"
      d="M 0 3 L 0 6 L 2 4 L 32 4 L 62 4 L 64 3 L 32 3 L 0 3 z "
      id="path4298" />
   <path
@@ -151,11 +151,11 @@
      style="fill:#ffffff" />
   <path
      inkscape:connector-curvature="0"
-     style="fill:#c4d3de;fill-opacity:1;stroke:none"
+     style="fill:#d9e3ea;fill-opacity:1;stroke:none"
      d="m 25,18 -6,9 -5,3 0,9 5,2 6,9 5,0 0,-32 -5,0 z m 19,0 -10,6 0,4 12,-6 -2,-4 z m -7,14 0,4 13,0 0,-4 -13,0 z m -3,8 0,4 10,6 2,-4 -12,-6 z"
      id="path3059" />
   <path
-     style="color:#000000;fill:#ffffff;fill-opacity:0.39607843;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="color:#000000;fill:#ffffff;fill-opacity:0.71594983;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      d="m 25,18 -6,9 -5,3 0,9 1,0.40625 L 15,31 l 5,-3 6,-9 4,0 0,-1 -5,0 z m 19,0 -10,6 0,4 1,-0.5 L 35,25 44.625,19.21875 44,18 z m -7,14 0,4 1,0 0,-3 12,0 0,-1 -13,0 z m -3,8 0,4 1,0.59375 L 35,41 45.8125,46.40625 46,46 34,40 z M 19.53125,41.8125 25,50 25.34375,50 20,42 19.53125,41.8125 z"
      id="path3037"
      inkscape:connector-curvature="0" />

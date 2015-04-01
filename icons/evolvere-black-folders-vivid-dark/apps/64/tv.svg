@@ -15,17 +15,17 @@
    id="svg13094"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="minitube.svg">
+   sodipodi:docname="tv.svg">
   <sodipodi:namedview
      id="base"
-     pagecolor="#cbcdd6"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313709"
-     inkscape:cx="33.672179"
-     inkscape:cy="32.554546"
+     inkscape:cx="36.85416"
+     inkscape:cy="32.112604"
      inkscape:document-units="px"
      inkscape:current-layer="svg13094"
      showgrid="true"
@@ -93,14 +93,13 @@
          id="stop3926" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient3850">
       <stop
-         style="stop-color:#848960;stop-opacity:1"
+         style="stop-color:#8d9554;stop-opacity:1;"
          offset="0"
          id="stop3852" />
       <stop
-         style="stop-color:#5a5a3b;stop-opacity:1"
+         style="stop-color:#636332;stop-opacity:1;"
          offset="1"
          id="stop3854" />
     </linearGradient>
@@ -109,11 +108,11 @@
       <stop
          id="stop4061"
          offset="0"
-         style="stop-color:#856c44;stop-opacity:1;" />
+         style="stop-color:#967033;stop-opacity:1;" />
       <stop
          id="stop4063"
          offset="1"
-         style="stop-color:#5d4b3b;stop-opacity:1;" />
+         style="stop-color:#6a4a2e;stop-opacity:1;" />
     </linearGradient>
     <radialGradient
        inkscape:collect="always"
@@ -178,7 +177,7 @@
      sodipodi:nodetypes="ccccccccccc" />
   <path
      inkscape:connector-curvature="0"
-     style="color:#000000;fill:#b09765;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="color:#000000;fill:#e6af41;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      d="M 2,0 0,1 0,10 32,10 64,10 64,1 62,0 32,0 z"
      id="path4090"
      sodipodi:nodetypes="ccccccccc" />
@@ -402,7 +401,7 @@
        y="25"
        style="opacity:0.46544183" />
     <path
-       style="color:#000000;fill:#ffffff;fill-opacity:0.23566309;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#ffffff;fill-opacity:0.44444445;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="M 57 13 C 54.790861 13 53 14.790861 53 17 C 53 18.348668 53.664887 19.525429 54.6875 20.25 C 54.256203 19.611596 54 18.828427 54 18 C 54 15.790861 55.790861 14 58 14 C 58.828427 14 59.611596 14.256203 60.25 14.6875 C 59.525429 13.664887 58.348668 13 57 13 z "
        transform="translate(0,12)"
        id="path4081" />
@@ -449,7 +448,7 @@
        id="path4105"
        transform="translate(0,12)"
        d="m 57,13 c -2.209139,0 -4,1.790861 -4,4 0,1.348668 0.664887,2.525429 1.6875,3.25 C 54.256203,19.611596 54,18.828427 54,18 c 0,-2.209139 1.790861,-4 4,-4 0.828427,0 1.611596,0.256203 2.25,0.6875 C 59.525429,13.664887 58.348668,13 57,13 z"
-       style="color:#000000;fill:#ffffff;fill-opacity:0.23566308;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#ffffff;fill-opacity:0.44444445;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:connector-curvature="0" />
   </g>
   <rect

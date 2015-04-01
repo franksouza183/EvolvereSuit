@@ -26,14 +26,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1033"
+     inkscape:window-height="1023"
      id="namedview44"
      showgrid="true"
      inkscape:zoom="10.429825"
-     inkscape:cx="39.100695"
-     inkscape:cy="25.996596"
+     inkscape:cx="4.7760535"
+     inkscape:cy="30.119388"
      inkscape:window-x="-10"
-     inkscape:window-y="25"
+     inkscape:window-y="35"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg13094"
      inkscape:snap-global="true"
@@ -147,7 +147,7 @@
        fy="5.724555">
       <stop
          id="stop3853"
-         style="stop-color:#dba78a;stop-opacity:0.52424049;"
+         style="stop-color:#ff9d66;stop-opacity:0.52424049;"
          offset="0" />
       <stop
          id="stop3855"
@@ -156,35 +156,7 @@
     </radialGradient>
     <inkscape:path-effect
        is_visible="true"
-       id="path-effect3016-8"
-       effect="spiro" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3883"
-       id="linearGradient3891"
-       gradientUnits="userSpaceOnUse"
-       x1="25"
-       y1="55"
-       x2="25"
-       y2="17" />
-    <linearGradient
-       id="linearGradient3883">
-      <stop
-         id="stop3885"
-         offset="0"
-         style="stop-color:#d4d0c3;stop-opacity:1;" />
-      <stop
-         id="stop3887"
-         offset="1"
-         style="stop-color:#d3c7ab;stop-opacity:1;" />
-    </linearGradient>
-    <inkscape:path-effect
-       is_visible="true"
        id="path-effect3893"
-       effect="spiro" />
-    <inkscape:path-effect
-       is_visible="true"
-       id="path-effect3016-8-4"
        effect="spiro" />
   </defs>
   <metadata
@@ -202,11 +174,11 @@
   <path
      d="M 0,1 2,0 62,0 64,1 64,16 0,16 z"
      id="path3029"
-     style="fill:#dca275;fill-rule:nonzero;fill-opacity:1" />
+     style="fill:#f29f5f;fill-rule:nonzero;fill-opacity:1" />
   <path
      d="m 0,15 64,0 0,47 -2,2 -60,0 -2,-2 z"
      id="path3809"
-     style="fill:#a4724d;fill-rule:nonzero;fill-opacity:1" />
+     style="fill:#a56637;fill-rule:nonzero;fill-opacity:1" />
   <path
      d="m 0,15 64,0 0,47 -2,2 -60,0 -2,-2 z"
      id="path3831"
@@ -258,13 +230,13 @@
   <path
      d="m 0,14 64,0 0,1 -64,0 z"
      id="path3878"
-     style="fill:#ffffff;fill-rule:nonzero;fill-opacity:0.31360424" />
+     style="fill:#ffffff;fill-rule:nonzero;fill-opacity:0.34946236" />
   <path
      d="M 0,17 2,15 0,14 z"
      id="path3028-3"
      style="fill:#ffffff;fill-opacity:0.40989399" />
   <path
-     style="color:#000000;fill:#000000;fill-opacity:0.19892476;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="color:#000000;fill:#000000;fill-opacity:0.26344085;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      d="m 31.781818,24 16.436364,0 -8.357533,9 3.8,0 -8.357532,9 4,0 -13.929221,15 4.681429,-11 -4,0 4.255844,-10 -3.636364,0 5.107013,-12"
      id="path3019"
      inkscape:path-effect="#path-effect3021"
@@ -280,5 +252,5 @@
      inkscape:path-effect="#path-effect3893"
      id="path3889"
      d="m 30.424727,24.144546 15,-4 -9,12 5,-1 -8,12 4,-1 -14,17 5,-14 -4,1 5,-11 -5,1 6,-12"
-     style="color:#000000;fill:#ffffff;fill-opacity:0.67450980000000005;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+     style="color:#000000;fill:#ffffff;fill-opacity:0.72849464;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
 </svg>

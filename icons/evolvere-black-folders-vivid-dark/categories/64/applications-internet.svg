@@ -18,14 +18,14 @@
    sodipodi:docname="applications-internet.svg">
   <sodipodi:namedview
      id="base"
-     pagecolor="#cbcdd6"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313709"
-     inkscape:cx="33.80029"
-     inkscape:cy="32.304173"
+     inkscape:cx="36.054193"
+     inkscape:cy="30.801571"
      inkscape:document-units="px"
      inkscape:current-layer="svg13094"
      showgrid="true"
@@ -44,9 +44,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1033"
+     inkscape:window-height="1023"
      inkscape:window-x="-10"
-     inkscape:window-y="25"
+     inkscape:window-y="35"
      inkscape:window-maximized="1"
      inkscape:snap-global="false"
      fit-margin-top="0"
@@ -214,11 +214,11 @@
        id="linearGradient4158">
       <stop
          offset="0"
-         style="stop-color:#4ba4ec;stop-opacity:1;"
+         style="stop-color:#339ef4;stop-opacity:1;"
          id="stop4160" />
       <stop
          offset="1"
-         style="stop-color:#3975a5;stop-opacity:1;"
+         style="stop-color:#2579bc;stop-opacity:1;"
          id="stop4162" />
     </linearGradient>
     <radialGradient
@@ -389,7 +389,7 @@
      id="path3443" />
   <path
      inkscape:connector-curvature="0"
-     style="color:#000000;fill:#8cc5ec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="color:#000000;fill:#71caff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      d="M 2,0 0,1 0,4 32,4 64,4 64,1 62,0 32,0 2,0 z"
      id="path3447" />
   <image

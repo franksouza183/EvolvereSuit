@@ -18,14 +18,14 @@
    sodipodi:docname="google-drive.svg">
   <sodipodi:namedview
      id="base"
-     pagecolor="#cbcdd6"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313709"
-     inkscape:cx="25.203488"
-     inkscape:cy="32.329323"
+     inkscape:cx="32.84908"
+     inkscape:cy="33.478371"
      inkscape:document-units="px"
      inkscape:current-layer="svg13094"
      showgrid="true"
@@ -129,39 +129,6 @@
        x2="53.457493"
        y2="55.332497"
        gradientTransform="matrix(1.0625,0,0,1.0625,-2,-2.25)" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3094-7"
-       id="radialGradient3886-6"
-       cx="30.739782"
-       cy="17.037395"
-       fx="30.739782"
-       fy="17.037395"
-       r="32"
-       gradientTransform="matrix(6.8856667e-8,1.5625001,-1.4375,6.3348129e-8,57.491254,-34.030912)"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       id="linearGradient3094-7">
-      <stop
-         offset="0"
-         style="stop-color:#bdc4cf;stop-opacity:1;"
-         id="stop3096-7" />
-      <stop
-         offset="1"
-         style="stop-color:#a1a8ba;stop-opacity:1;"
-         id="stop3104-8" />
-    </linearGradient>
-    <radialGradient
-       r="32"
-       fy="17.037395"
-       fx="30.739782"
-       cy="17.037395"
-       cx="30.739782"
-       gradientTransform="matrix(6.8856667e-8,1.5625001,-1.4375,6.3348129e-8,57.491254,-34.030912)"
-       gradientUnits="userSpaceOnUse"
-       id="radialGradient3090"
-       xlink:href="#linearGradient3094-7"
-       inkscape:collect="always" />
   </defs>
   <metadata
      id="metadata13099">
@@ -226,10 +193,10 @@
      id="polygon3064"
      points="44385,76894 133156,76894 110963,115341 22194,115341 "
      class="fil0"
-     style="fill:#3a6abb;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#3173cf;fill-opacity:1;fill-rule:evenodd"
      transform="matrix(3.1320172e-4,0,0,3.1320172e-4,11.147655,15.8125)" />
   <path
-     style="color:#000000;fill:#6698eb;fill-opacity:1;fill-rule:evenodd;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="color:#000000;fill:#529bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      d="m 25.037829,39.886513 -0.447368,0.894737 27.764802,0 0.50329,-0.894737 z"
      id="polygon3837"
      inkscape:connector-curvature="0"
@@ -240,10 +207,10 @@
      id="polygon3042"
      points="133156,76894 88772,0 44385,0 88772,76894 "
      class="fil1"
-     style="fill:#d9b055;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#edb842;fill-opacity:1;fill-rule:evenodd"
      transform="matrix(3.1320172e-4,0,0,3.1320172e-4,11.147655,15.8125)" />
   <path
-     style="color:#000000;fill:#f3d48d;fill-opacity:1;fill-rule:evenodd;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="color:#000000;fill:#ffde71;fill-opacity:1;fill-rule:evenodd;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      d="m 25.037829,15.8125 13.924342,24.074013 0.363487,0 -13.393092,-23.179276 13.532895,0 -0.50329,-0.894737 -13.924342,0 z"
      id="polygon3832"
      inkscape:connector-curvature="0" />
@@ -253,10 +220,10 @@
      id="polygon3020"
      points="22194,115341 66578,38447 44385,0 0,76894 "
      class="fil2"
-     style="fill:#348f65;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#259e66;fill-opacity:1;fill-rule:evenodd"
      transform="matrix(3.1320172e-4,0,0,3.1320172e-4,11.147655,15.8125)" />
   <path
-     style="color:#000000;fill:#47bc85;fill-opacity:1;fill-rule:evenodd;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="color:#000000;fill:#3dc686;fill-opacity:1;fill-rule:evenodd;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      d="M 25.037829,15.8125 11.141447,39.886513 18.103618,51.9375 18.299342,51.601974 12.036184,40.78125 25.736842,17.042763 25.037829,15.8125 z"
      id="polygon3827"
      inkscape:connector-curvature="0" />

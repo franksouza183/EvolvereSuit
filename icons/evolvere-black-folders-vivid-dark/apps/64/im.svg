@@ -18,14 +18,14 @@
    sodipodi:docname="im.svg">
   <sodipodi:namedview
      id="base"
-     pagecolor="#cbcdd6"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="8.0000004"
-     inkscape:cx="50.569003"
-     inkscape:cy="21.748959"
+     inkscape:cx="36.441428"
+     inkscape:cy="48.720701"
      inkscape:document-units="px"
      inkscape:current-layer="svg13094"
      showgrid="true"
@@ -44,9 +44,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1033"
-     inkscape:window-x="-2"
-     inkscape:window-y="25"
+     inkscape:window-height="1023"
+     inkscape:window-x="-10"
+     inkscape:window-y="35"
      inkscape:window-maximized="1"
      inkscape:snap-global="true"
      fit-margin-top="0"
@@ -72,11 +72,11 @@
        id="linearGradient4158">
       <stop
          offset="0"
-         style="stop-color:#4c8ec3;stop-opacity:1;"
+         style="stop-color:#3597e6;stop-opacity:1;"
          id="stop4160" />
       <stop
          offset="1"
-         style="stop-color:#4d7798;stop-opacity:1;"
+         style="stop-color:#2b7ec0;stop-opacity:1;"
          id="stop4162" />
     </linearGradient>
     <radialGradient
@@ -110,7 +110,7 @@
      inkscape:connector-curvature="0" />
   <path
      inkscape:connector-curvature="0"
-     style="color:#000000;fill:#97c3ea;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="color:#000000;fill:#73c5ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      d="M 2,0 0,1 0,4 32,4 64,4 64,1 62,0 32,0 2,0 z"
      id="path3447" />
   <image
@@ -161,7 +161,7 @@
      sodipodi:nodetypes="ssccsss"
      id="path4222"
      d="m 32,13 c -11.59797,0 -21,9.40202 -21,21 0,5.798991 2.38725,11.012247 6.187501,14.8125 L 11,55 32,55 C 43.598,55 53,45.597978 53,34 53,22.40202 43.598,13 32,13 z"
-     style="fill:#cedce7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="fill:#dfe8ef;fill-opacity:1;fill-rule:nonzero;stroke:none"
      inkscape:connector-curvature="0" />
   <path
      style="fill:#404957;fill-opacity:0.23083699999999999;fill-rule:nonzero;stroke:none;color:#000000;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"

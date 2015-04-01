@@ -18,14 +18,14 @@
    sodipodi:docname="cantata.svg">
   <sodipodi:namedview
      id="base"
-     pagecolor="#cbcdd6"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313709"
-     inkscape:cx="31.800842"
-     inkscape:cy="32.894676"
+     inkscape:cx="31.713872"
+     inkscape:cy="34.497062"
      inkscape:document-units="px"
      inkscape:current-layer="svg13094"
      showgrid="true"
@@ -72,11 +72,11 @@
        id="linearGradient3915">
       <stop
          offset="0"
-         style="stop-color:#5f93c5;stop-opacity:1;"
+         style="stop-color:#3b94e9;stop-opacity:1;"
          id="stop3917" />
       <stop
          offset="1"
-         style="stop-color:#2f4769;stop-opacity:1"
+         style="stop-color:#1c447c;stop-opacity:1;"
          id="stop3919" />
     </linearGradient>
     <linearGradient
@@ -84,21 +84,21 @@
       <stop
          id="stop3911"
          offset="0"
-         style="stop-color:#ccd9e4;stop-opacity:1;" />
+         style="stop-color:#d0e4f6;stop-opacity:1;" />
       <stop
          id="stop3913"
          offset="1"
-         style="stop-color:#99adbf;stop-opacity:1;" />
+         style="stop-color:#a4bfd7;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient5602">
       <stop
          id="stop5604"
-         style="stop-color:#5a7691;stop-opacity:1;"
+         style="stop-color:#3b76b0;stop-opacity:1;"
          offset="0" />
       <stop
          id="stop5606"
-         style="stop-color:#394453;stop-opacity:1;"
+         style="stop-color:#2b4261;stop-opacity:1;"
          offset="1" />
     </linearGradient>
     <radialGradient
@@ -152,7 +152,7 @@
      d="M 0 4 L 0 34 L 0 62 L 2 64 L 32 64 L 62 64 L 64 62 L 64 34 L 64 4 L 32 4 L 0 4 z "
      id="path6498" />
   <path
-     style="color:#000000;fill:#6b8ca8;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-width:2.28571415000000000"
+     style="color:#000000;fill:#478fcc;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-width:2.28571415000000000"
      d="M 2 0 L 0 1 L 0 4 L 32 4 L 64 4 L 64 1 L 62 0 L 32 0 L 2 0 z "
      id="path6502" />
   <image

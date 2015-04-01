@@ -17,18 +17,18 @@
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="text-x-script.svg">
   <sodipodi:namedview
-     pagecolor="#dbdde3"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
      guidetolerance="10"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
      inkscape:window-height="1025"
      id="namedview37"
-     showgrid="true"
+     showgrid="false"
      showborder="false"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
@@ -42,9 +42,9 @@
      inkscape:snap-midpoints="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
-     inkscape:zoom="7.375"
-     inkscape:cx="14.924791"
-     inkscape:cy="43.633955"
+     inkscape:zoom="10.429825"
+     inkscape:cx="19.810167"
+     inkscape:cy="29.339961"
      inkscape:window-x="-2"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
@@ -101,15 +101,15 @@
        gradientUnits="userSpaceOnUse">
       <stop
          id="stop4293"
-         style="stop-color:#59696d;stop-opacity:1;"
+         style="stop-color:#466e78;stop-opacity:1"
          offset="0" />
       <stop
          id="stop4295"
-         style="stop-color:#4c595d;stop-opacity:1;"
+         style="stop-color:#3b626e;stop-opacity:1"
          offset="0.2098622" />
       <stop
          id="stop4297"
-         style="stop-color:#5b6b70;stop-opacity:1;"
+         style="stop-color:#4a7481;stop-opacity:1"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -157,55 +157,21 @@
        gradientUnits="userSpaceOnUse">
       <stop
          id="stop5238"
-         style="stop-color:#607277;stop-opacity:1;"
+         style="stop-color:#4d7988;stop-opacity:1"
          offset="0" />
       <stop
          id="stop5240"
-         style="stop-color:#697c82;stop-opacity:1;"
+         style="stop-color:#548697;stop-opacity:1"
          offset="0.50050378" />
       <stop
          id="stop5242"
-         style="stop-color:#607277;stop-opacity:1;"
+         style="stop-color:#40707f;stop-opacity:1"
          offset="0.51612902" />
       <stop
          id="stop5244"
-         style="stop-color:#697c82;stop-opacity:1"
+         style="stop-color:#477f94;stop-opacity:1"
          offset="1" />
     </linearGradient>
-    <linearGradient
-       x1="31"
-       y1="64"
-       x2="31"
-       y2="2"
-       id="linearGradient5236-2"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         id="stop5238-8"
-         style="stop-color:#607277;stop-opacity:1;"
-         offset="0" />
-      <stop
-         id="stop5240-4"
-         style="stop-color:#697c82;stop-opacity:1;"
-         offset="0.50050378" />
-      <stop
-         id="stop5242-4"
-         style="stop-color:#607277;stop-opacity:1;"
-         offset="0.51612902" />
-      <stop
-         id="stop5244-9"
-         style="stop-color:#697c82;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       y2="1602.3622"
-       x2="3113.439"
-       y1="1664.3622"
-       x1="3113.439"
-       gradientTransform="translate(-3084.2996,-1600.2279)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3109"
-       xlink:href="#linearGradient5236-2"
-       inkscape:collect="always" />
   </defs>
   <metadata
      id="metadata13099">
@@ -222,7 +188,7 @@
   <path
      d="M 4,0 64,0 64,62 4,62 z"
      id="path3960"
-     style="fill:#4e5c61;fill-opacity:1;fill-rule:nonzero" />
+     style="fill:#345864;fill-opacity:1;fill-rule:nonzero" />
   <path
      d="m 60,2 4,4 0,31 -4,-4 z"
      id="path3900"
@@ -250,7 +216,7 @@
   <path
      d="M 0,2 60,2 60,3 0,3 z"
      id="path4253"
-     style="fill:#8a9ba1;fill-opacity:1;fill-rule:nonzero" />
+     style="fill:#6fafc5;fill-opacity:1;fill-rule:nonzero" />
   <path
      d="m 0,63 35,0 -1,1 -34,0 z"
      id="path4255"
@@ -258,9 +224,9 @@
   <path
      d="M 4,0 64,0 64,1 4,1 z"
      id="path3878"
-     style="fill:#8a9ba1;fill-opacity:1;fill-rule:nonzero" />
+     style="fill:#5290a5;fill-opacity:1;fill-rule:nonzero" />
   <path
-     style="color:#000000;fill:#ffffff;fill-opacity:0.04770318;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="color:#000000;fill:#ffffff;fill-opacity:0.08318426;fill-rule:nonzero;stroke:none;stroke-width:2.28571415;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      d="M 0 5 L 0 6 L 60 6 L 60 5 L 0 5 z M 0 8 L 0 9 L 60 9 L 60 8 L 0 8 z M 0 11 L 0 12 L 60 12 L 60 11 L 0 11 z M 0 14 L 0 15 L 60 15 L 60 14 L 0 14 z M 0 17 L 0 18 L 60 18 L 60 17 L 0 17 z M 0 20 L 0 21 L 60 21 L 60 20 L 0 20 z M 0 23 L 0 24 L 60 24 L 60 23 L 0 23 z M 0 26 L 0 27 L 60 27 L 60 26 L 0 26 z M 0 29 L 0 30 L 60 30 L 60 29 L 0 29 z M 0 32 L 0 33 L 60 33 L 60 32 L 0 32 z M 0 35 L 0 36 L 57.46875 36 L 58.3125 35 L 0 35 z M 0 38 L 0 39 L 54.96875 39 L 55.8125 38 L 0 38 z M 0 41 L 0 42 L 52.4375 42 L 53.28125 41 L 0 41 z M 0 44 L 0 45 L 49.9375 45 L 50.78125 44 L 0 44 z M 0 47 L 0 48 L 47.40625 48 L 48.25 47 L 0 47 z M 0 50 L 0 51 L 44.90625 51 L 45.75 50 L 0 50 z M 0 53 L 0 54 L 42.375 54 L 43.21875 53 L 0 53 z M 0 56 L 0 57 L 39.875 57 L 40.71875 56 L 0 56 z M 0 59 L 0 60 L 37.34375 60 L 38.1875 59 L 0 59 z "
      id="path3883" />
   <path
@@ -274,11 +240,11 @@
   <path
      d="m 59,32 c -2.328567,2.776369 -4.36141,3 -11,3 H 36 v 15 c 0,6.644068 0.04437,9.370179 -3,13 4,-5 4.000382,-8.356667 4,-13 V 36 h 11 c 5,0 8.041405,-0.381883 11,-4 z"
      id="path4282"
-     style="fill:#8a9ba1;fill-opacity:1;fill-rule:nonzero"
+     style="fill:#6fafc5;fill-opacity:1;fill-rule:nonzero"
      inkscape:connector-curvature="0" />
   <path
      inkscape:connector-curvature="0"
-     style="font-size:31.84835242999999849px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;color:#000000;fill:#b8c5cc;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Futura LT;-inkscape-font-specification:Futura LT"
+     style="font-size:31.84835242999999849px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cdd6dc;fill-opacity:1;stroke:none;font-family:Futura LT;-inkscape-font-specification:Futura LT;color:#000000;fill-rule:nonzero;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      d="M 6,8 6,9.7897726 13.258522,13.090909 6,16.392045 l 0,1.789773 9.545454,-4.355114 0,-1.471591 z m 9,12 0,2 8,0 0,-2 z"
      id="path3790-9"
      sodipodi:nodetypes="ccccccccccccc" />

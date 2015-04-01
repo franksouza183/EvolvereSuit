@@ -18,14 +18,14 @@
    sodipodi:docname="geogebra.svg">
   <sodipodi:namedview
      id="base"
-     pagecolor="#cbcdd6"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313709"
-     inkscape:cx="13.582415"
-     inkscape:cy="28.867797"
+     inkscape:cx="32.188161"
+     inkscape:cy="30.900729"
      inkscape:document-units="px"
      inkscape:current-layer="svg13094"
      showgrid="false"
@@ -72,11 +72,11 @@
        id="linearGradient5602">
       <stop
          id="stop5604"
-         style="stop-color:#6f72ba;stop-opacity:1;"
+         style="stop-color:#5b5fce;stop-opacity:1;"
          offset="0" />
       <stop
          id="stop5606"
-         style="stop-color:#515299;stop-opacity:1;"
+         style="stop-color:#3f41b5;stop-opacity:1;"
          offset="1" />
     </linearGradient>
     <radialGradient
@@ -108,11 +108,11 @@
      d="M 0 4 L 0 34 L 0 62 L 2 64 L 32 64 L 62 64 L 64 62 L 64 34 L 64 4 L 32 4 L 0 4 z "
      id="path6498" />
   <path
-     style="color:#000000;fill:#9896f1;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-width:2.28571415000000000"
+     style="color:#000000;fill:#888cff;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-width:2.28571415000000000"
      d="M 2 0 L 0 1 L 0 4 L 32 4 L 64 4 L 64 1 L 62 0 L 32 0 L 2 0 z "
      id="path6502" />
   <path
-     style="fill:#ffffff;fill-opacity:0.14487633;fill-rule:nonzero"
+     style="fill:#ffffff;fill-opacity:0.28673837;fill-rule:nonzero"
      d="M 0 3 L 0 6 L 2 4 L 32 4 L 62 4 L 64 3 L 32 3 L 0 3 z "
      id="path4298" />
   <path
@@ -148,7 +148,7 @@
      transform="translate(-0.77563952,-1.0262539)">
     <path
        sodipodi:type="arc"
-       style="color:#000000;fill:none;stroke:#c8c7df;stroke-width:2.56619072;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:none;stroke:#dadaea;stroke-width:2.56619071999999981;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="path3808"
        sodipodi:cx="35.266949"
        sodipodi:cy="36.864777"
@@ -160,7 +160,7 @@
        id="g3848">
       <path
          sodipodi:type="arc"
-         style="color:#000000;fill:#c8c7df;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.76776683;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#000000;fill:#dadaea;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.76776683000000001;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="path3831"
          sodipodi:cx="13.611805"
          sodipodi:cy="16.53546"

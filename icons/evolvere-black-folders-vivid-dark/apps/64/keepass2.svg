@@ -18,14 +18,14 @@
    sodipodi:docname="keepass2.svg">
   <sodipodi:namedview
      id="base"
-     pagecolor="#cbcdd6"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313709"
-     inkscape:cx="25.2883"
-     inkscape:cy="30.56115"
+     inkscape:cx="35.408765"
+     inkscape:cy="30.737927"
      inkscape:document-units="px"
      inkscape:current-layer="svg13094"
      showgrid="true"
@@ -72,11 +72,11 @@
        id="linearGradient4158">
       <stop
          offset="0"
-         style="stop-color:#536cc3;stop-opacity:1;"
+         style="stop-color:#3b5fdb;stop-opacity:1;"
          id="stop4160" />
       <stop
          offset="1"
-         style="stop-color:#485ca6;stop-opacity:1;"
+         style="stop-color:#2c4cc2;stop-opacity:1;"
          id="stop4162" />
     </linearGradient>
     <radialGradient
@@ -110,7 +110,7 @@
      id="path3443" />
   <path
      inkscape:connector-curvature="0"
-     style="color:#000000;fill:#8ca8ef;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="color:#000000;fill:#7ca6ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      d="M 2,0 0,1 0,4 32,4 64,4 64,1 62,0 32,0 2,0 z"
      id="path3447" />
   <image
@@ -139,7 +139,7 @@
      inkscape:label="#g3701"
      style="fill:#ffffff" />
   <path
-     style="fill:#ffffff;fill-opacity:0.14487634;fill-rule:nonzero"
+     style="fill:#ffffff;fill-opacity:0.36290324;fill-rule:nonzero"
      d="M 0,3 0,6 2,4 32,4 62,4 64,3 32,3 0,3 z"
      id="path4298"
      inkscape:connector-curvature="0" />
@@ -162,7 +162,7 @@
      inkscape:connector-curvature="0"
      id="path3051"
      d="m 32,17 c -6.627417,0 -12,5.372583 -12,12 l 3,0 c 0,-4.970563 4.029437,-9 9,-9 4.970563,0 9,4.029437 9,9 l 3,0 C 44,22.372583 38.627417,17 32,17 z m -14,13 0,3 28,0 0,-3 -28,0 z m 0,4 0,3 12,0 0,-3 -12,0 z m 16,0 0,3 12,0 0,-3 -12,0 z m -16,4 0,3 12,0 0,-3 -12,0 z m 16,0 0,3 12,0 0,-3 -12,0 z m -16,4 0,3 12,0 0,-3 -12,0 z m 16,0 0,3 12,0 0,-3 -12,0 z m -16,4 0,3 28,0 0,-3 -28,0 z"
-     style="color:#000000;fill:#c2d5ff;fill-opacity:0.86290324;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+     style="color:#000000;fill:#dce7ff;fill-opacity:0.86290324;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   <path
      style="color:#000000;fill:#000000;fill-opacity:0.15194348999999999;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      d="M 32 20 C 27.029437 20 23 24.029437 23 29 L 21.0625 29 C 21.034766 29.332899 21 29.659937 21 30 L 24 30 C 24 25.029437 28.029437 21 33 21 C 35.230662 21 37.2713 21.812334 38.84375 23.15625 C 37.19303 21.224825 34.739901 20 32 20 z M 40.96875 21.03125 C 42.85313 23.150685 44 25.940911 44 29 L 41.9375 29 C 41.975003 29.333645 42 29.656337 42 30 L 45 30 C 45 26.431672 43.441002 23.229318 40.96875 21.03125 z M 46 31 L 46 33 L 19 33 L 19 34 L 30 34 L 34 34 L 46 34 L 47 34 L 47 31 L 46 31 z M 30 35 L 30 37 L 19 37 L 19 38 L 30 38 L 31 38 L 31 35 L 30 35 z M 46 35 L 46 37 L 35 37 L 35 38 L 46 38 L 47 38 L 47 35 L 46 35 z M 30 39 L 30 41 L 19 41 L 19 42 L 30 42 L 31 42 L 31 39 L 30 39 z M 46 39 L 46 41 L 35 41 L 35 42 L 46 42 L 47 42 L 47 39 L 46 39 z M 30 43 L 30 45 L 19 45 L 19 46 L 31 46 L 31 43 L 30 43 z M 46 43 L 46 45 L 35 45 L 35 46 L 46 46 L 47 46 L 47 43 L 46 43 z M 46 47 L 46 49 L 19 49 L 19 50 L 47 50 L 47 47 L 46 47 z "

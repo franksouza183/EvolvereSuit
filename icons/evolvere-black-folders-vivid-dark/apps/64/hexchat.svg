@@ -18,14 +18,14 @@
    sodipodi:docname="hexchat.svg">
   <sodipodi:namedview
      id="base"
-     pagecolor="#cbcdd6"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.0000004"
-     inkscape:cx="27.854499"
-     inkscape:cy="26.259794"
+     inkscape:zoom="11.313709"
+     inkscape:cx="32.337102"
+     inkscape:cy="32.773208"
      inkscape:document-units="px"
      inkscape:current-layer="svg13094"
      showgrid="false"
@@ -44,9 +44,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1033"
-     inkscape:window-x="-2"
-     inkscape:window-y="25"
+     inkscape:window-height="1023"
+     inkscape:window-x="-10"
+     inkscape:window-y="35"
      inkscape:window-maximized="1"
      inkscape:snap-global="true"
      fit-margin-top="0"
@@ -72,11 +72,11 @@
        id="linearGradient5602-41-4">
       <stop
          id="stop5604-6-7"
-         style="stop-color:#ca7556;stop-opacity:1;"
+         style="stop-color:#e16a3f;stop-opacity:1;"
          offset="0" />
       <stop
          id="stop5606-8-7"
-         style="stop-color:#b5644b;stop-opacity:1;"
+         style="stop-color:#cd502a;stop-opacity:1;"
          offset="1" />
     </linearGradient>
     <radialGradient
@@ -109,7 +109,7 @@
      style="color:#000000;fill:url(#radialGradient4045);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      inkscape:connector-curvature="0" />
   <path
-     style="color:#000000;fill:#e1a16f;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="color:#000000;fill:#ff9d51;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      d="M 2 0 L 0 1 L 0 4 L 32 4 L 64 4 L 64 1 L 62 0 L 32 0 L 2 0 z "
      id="path6502" />
   <image
@@ -118,6 +118,13 @@
      height="64"
      id="image4212"
      style="opacity:0.64020708" />
+  <rect
+     style="color:#000000;fill:#fff8c3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="rect4043"
+     width="10.375"
+     height="4"
+     x="9.5"
+     y="0" />
   <path
      d="M 64,6 62,4 64,3 z"
      id="path3028"
@@ -140,7 +147,7 @@
      style="fill:#ffffff" />
   <path
      inkscape:connector-curvature="0"
-     style="color:#000000;fill:#f8eea3;fill-opacity:0.56537104;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="color:#000000;fill:#f8eea3;fill-opacity:0.75627238;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      d="M 9.5,4 26.78125,33.9375 16.90625,51 l 10.375,0 4.6875,-8.09375 L 44.125,64 54.5,64 37.15625,33.9375 46.9375,17 36.5625,17 31.96875,24.9375 19.875,4 9.5,4 z"
      id="path4021" />
   <path
@@ -156,7 +163,7 @@
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccccccccccccccccccc" />
   <path
-     style="fill:#ffffff;fill-opacity:0.2155477;fill-rule:nonzero"
+     style="fill:#ffffff;fill-opacity:0.41935483;fill-rule:nonzero"
      d="M 0 3 L 0 6 L 2 4 L 32 4 L 62 4 L 64 3 L 32 3 L 0 3 z "
      id="path4298" />
   <path
@@ -167,11 +174,4 @@
      style="fill:#000000;fill-opacity:0.11130587;fill-rule:nonzero"
      d="M 63 0.5 L 63 34 L 63 63 L 64 62 L 64 34 L 64 1 L 63 0.5 z M 63 63 L 32 63 L 1 63 L 2 64 L 32 64 L 62 64 L 63 63 z "
      id="path4366" />
-  <rect
-     style="color:#000000;fill:#fff7b7;fill-opacity:0.61749119;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     id="rect4043"
-     width="10.375"
-     height="4"
-     x="9.5"
-     y="0" />
 </svg>

@@ -15,17 +15,17 @@
    id="svg13094"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="acroread.svg">
+   sodipodi:docname="pdf-viewer.svg">
   <sodipodi:namedview
      id="base"
-     pagecolor="#cbcdd6"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.9999996"
-     inkscape:cx="30.570925"
-     inkscape:cy="25.790788"
+     inkscape:zoom="5.656854"
+     inkscape:cx="57.645052"
+     inkscape:cy="33.784718"
      inkscape:document-units="px"
      inkscape:current-layer="svg13094"
      showgrid="true"
@@ -44,9 +44,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1033"
+     inkscape:window-height="1023"
      inkscape:window-x="-10"
-     inkscape:window-y="25"
+     inkscape:window-y="35"
      inkscape:window-maximized="1"
      inkscape:snap-global="true"
      fit-margin-top="0"
@@ -69,25 +69,24 @@
   <defs
      id="defs13096">
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient4341">
       <stop
-         style="stop-color:#d8d8d8;stop-opacity:1;"
+         style="stop-color:#e4e4e4;stop-opacity:1;"
          offset="0"
          id="stop4343" />
       <stop
-         style="stop-color:#d8d8d8;stop-opacity:0.8620072"
+         style="stop-color:#d8d8d8;stop-opacity:0.91079509;"
          offset="1"
          id="stop4345" />
     </linearGradient>
     <linearGradient
        id="linearGradient4291">
       <stop
-         style="stop-color:#b85f51;stop-opacity:1;"
+         style="stop-color:#d44b35;stop-opacity:1;"
          offset="0"
          id="stop4293" />
       <stop
-         style="stop-color:#a24b3d;stop-opacity:1;"
+         style="stop-color:#c13e28;stop-opacity:1;"
          offset="1"
          id="stop4295" />
     </linearGradient>
@@ -156,7 +155,7 @@
      sodipodi:nodetypes="ccccccccccc" />
   <path
      inkscape:connector-curvature="0"
-     style="color:#000000;fill:#d79287;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="color:#000000;fill:#ff745f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      d="M 2,0 0,1 0,8 32,8 64,8 64,1 62,0 32,0 z"
      id="path4090"
      sodipodi:nodetypes="ccccccccc" />

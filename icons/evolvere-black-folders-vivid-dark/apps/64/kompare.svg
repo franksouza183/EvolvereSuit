@@ -18,14 +18,14 @@
    sodipodi:docname="kompare.svg">
   <sodipodi:namedview
      id="base"
-     pagecolor="#cbcdd6"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313709"
-     inkscape:cx="33.665884"
-     inkscape:cy="31.490666"
+     inkscape:cx="30.881651"
+     inkscape:cy="31.844219"
      inkscape:document-units="px"
      inkscape:current-layer="svg13094"
      showgrid="true"
@@ -80,11 +80,11 @@
        id="linearGradient3094">
       <stop
          offset="0"
-         style="stop-color:#458fb8;stop-opacity:1"
+         style="stop-color:#2e95cf;stop-opacity:1;"
          id="stop3096" />
       <stop
          offset="1"
-         style="stop-color:#3a6895;stop-opacity:1"
+         style="stop-color:#2368ac;stop-opacity:1;"
          id="stop3104" />
     </linearGradient>
     <radialGradient
@@ -117,7 +117,7 @@
      style="color:#000000;fill:url(#radialGradient3886);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      inkscape:connector-curvature="0" />
   <path
-     style="color:#000000;fill:#64add7;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="color:#000000;fill:#49b4f2;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      d="M 2 0 L 0 1 L 0 4 L 19.5625 4 L 39.125 4 L 64 4 L 64 1 L 62 0 L 39.125 0 L 19.5625 0 L 2 0 z "
      id="path6688" />
   <g
@@ -145,7 +145,7 @@
      style="fill:#000000;fill-opacity:0.10215054"
      inkscape:connector-curvature="0" />
   <path
-     style="fill:#ffffff;fill-opacity:0.16077739;fill-rule:nonzero"
+     style="fill:#ffffff;fill-opacity:0.32258064;fill-rule:nonzero"
      d="M 0 3 L 0 6 L 2 4 L 32 4 L 62 4 L 64 3 L 32 3 L 0 3 z "
      id="path4298" />
   <path
@@ -153,7 +153,7 @@
      d="M 2 0 L 0 1 L 32 1 L 64 1 L 62 0 L 32 0 L 2 0 z "
      id="path4444" />
   <rect
-     style="color:#000000;fill:#ffffff;fill-opacity:0.4982079;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="color:#000000;fill:#ffffff;fill-opacity:0.56272399;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      id="rect3080"
      width="39"
      height="39"
@@ -169,33 +169,33 @@
      height="39"
      width="39"
      id="rect3082"
-     style="color:#000000;fill:#ffffff;fill-opacity:0.4982079;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+     style="color:#000000;fill:#ffffff;fill-opacity:0.56272399;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   <rect
      y="23"
      x="23"
      height="3"
      width="18"
      id="rect3854"
-     style="color:#000000;fill:#77ac47;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+     style="color:#000000;fill:#6ab02b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   <rect
      y="29"
      x="23"
      height="3"
      width="18"
      id="rect3856"
-     style="color:#000000;fill:#77ac47;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+     style="color:#000000;fill:#6ab02b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   <rect
      y="35"
      x="23"
      height="3"
      width="18"
      id="rect3858"
-     style="color:#000000;fill:#77ac47;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+     style="color:#000000;fill:#6ab02b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   <rect
      y="41"
      x="23"
      height="3"
      width="18"
      id="rect3860"
-     style="color:#000000;fill:#77ac47;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+     style="color:#000000;fill:#6ab02b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
 </svg>

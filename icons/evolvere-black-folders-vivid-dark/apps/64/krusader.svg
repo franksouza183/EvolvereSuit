@@ -18,14 +18,14 @@
    sodipodi:docname="krusader.svg">
   <sodipodi:namedview
      id="base"
-     pagecolor="#cbcdd6"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313709"
-     inkscape:cx="29.486746"
-     inkscape:cy="32.417305"
+     inkscape:cx="33.331639"
+     inkscape:cy="32.063752"
      inkscape:document-units="px"
      inkscape:current-layer="svg13094"
      showgrid="true"
@@ -69,25 +69,14 @@
   <defs
      id="defs13096">
     <linearGradient
-       id="linearGradient3774">
-      <stop
-         style="stop-color:#afdfff;stop-opacity:0.0946897;"
-         offset="0"
-         id="stop3776" />
-      <stop
-         style="stop-color:#afdfff;stop-opacity:0.02175304;"
-         offset="1"
-         id="stop3778" />
-    </linearGradient>
-    <linearGradient
        id="linearGradient4158">
       <stop
          offset="0"
-         style="stop-color:#536cc3;stop-opacity:1;"
+         style="stop-color:#3a5edc;stop-opacity:1;"
          id="stop4160" />
       <stop
          offset="1"
-         style="stop-color:#485ca6;stop-opacity:1;"
+         style="stop-color:#304ebe;stop-opacity:1;"
          id="stop4162" />
     </linearGradient>
     <radialGradient
@@ -121,7 +110,7 @@
      id="path3443" />
   <path
      inkscape:connector-curvature="0"
-     style="color:#000000;fill:#8ca8ef;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="color:#000000;fill:#6c9bff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      d="M 2,0 0,1 0,4 32,4 64,4 64,1 62,0 32,0 2,0 z"
      id="path3447" />
   <image
@@ -129,7 +118,7 @@
      width="64"
      height="64"
      id="image5213"
-     style="opacity:0.33304573"
+     style="opacity:0.3735783"
      x="0"
      y="0" />
   <path
@@ -150,7 +139,7 @@
      inkscape:label="#g3701"
      style="fill:#ffffff" />
   <path
-     style="fill:#ffffff;fill-opacity:0.14487634;fill-rule:nonzero"
+     style="fill:#ffffff;fill-opacity:0.30555555;fill-rule:nonzero"
      d="M 0,3 0,6 2,4 32,4 62,4 64,3 32,3 0,3 z"
      id="path4298"
      inkscape:connector-curvature="0" />
@@ -172,7 +161,7 @@
   <path
      sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
      inkscape:connector-curvature="0"
-     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#c2d5ff;fill-opacity:0.79301076;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#bfd7ff;fill-opacity:0.9283154;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
      d="m 7,10 0,1.5 0,44 0,1.5 1.5,0 24,0 0.5,0 0,-1.5 0.25,-44 0,-1.5 -0.75,0 -24,0 z m 24,0 0,1.5 0,44 0,1.5 1.5,0 23,0 1.5,0 0,-1.5 0,-44 0,-1.5 -1.5,0 -23,0 z m -21,3 21,0 0,41 -21,0 z m 23,0 21,0 0,41 -21,0 z m -20,3 0,2 15.25,0 0,-2 z m 23,0 0,2 15,0 0,-2 z m -23,5 0,2 15.25,0 0,-2 z m 23,0 0,2 15,0 0,-2 z m -23,5 0,2 15.25,0 0,-2 z m 0,5 0,2 15.25,0 0,-2 z"
      id="path3861" />
   <path

@@ -18,14 +18,14 @@
    sodipodi:docname="fusion-icon.svg">
   <sodipodi:namedview
      id="base"
-     pagecolor="#cbcdd6"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313709"
-     inkscape:cx="23.250359"
-     inkscape:cy="32.172746"
+     inkscape:cx="33.812766"
+     inkscape:cy="32.084358"
      inkscape:document-units="px"
      inkscape:current-layer="svg13094"
      showgrid="true"
@@ -84,10 +84,9 @@
          id="stop3930" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient3916">
       <stop
-         style="stop-color:#a0deff;stop-opacity:1;"
+         style="stop-color:#ffffff;stop-opacity:1;"
          offset="0"
          id="stop3918" />
       <stop
@@ -99,22 +98,22 @@
        id="linearGradient3888">
       <stop
          id="stop3890"
-         style="stop-color:#487ec6;stop-opacity:1;"
+         style="stop-color:#4087e5;stop-opacity:1;"
          offset="0" />
       <stop
          id="stop3892"
-         style="stop-color:#3c5c95;stop-opacity:1;"
+         style="stop-color:#275dbc;stop-opacity:1;"
          offset="1" />
     </linearGradient>
     <linearGradient
        id="linearGradient3854">
       <stop
          id="stop3856"
-         style="stop-color:#b5d2e9;stop-opacity:1;"
+         style="stop-color:#bce1ff;stop-opacity:1;"
          offset="0" />
       <stop
          id="stop3858"
-         style="stop-color:#859fc3;stop-opacity:1;"
+         style="stop-color:#93b6e7;stop-opacity:1;"
          offset="1" />
     </linearGradient>
     <radialGradient
@@ -211,7 +210,7 @@
      y="0" />
   <path
      inkscape:connector-curvature="0"
-     style="color:#000000;fill:#6d9edc;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="color:#000000;fill:#56adff;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      d="M 2,0 0,1 0,4 19.5625,4 39.125,4 64,4 64,1 62,0 39.125,0 19.5625,0 2,0 z"
      id="path6688" />
   <path

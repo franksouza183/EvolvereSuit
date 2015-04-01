@@ -18,14 +18,14 @@
    sodipodi:docname="nepomuk.svg">
   <sodipodi:namedview
      id="base"
-     pagecolor="#cbcdd6"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.0000004"
-     inkscape:cx="16.530926"
-     inkscape:cy="48.769206"
+     inkscape:zoom="11.313709"
+     inkscape:cx="39.855915"
+     inkscape:cy="33.998425"
      inkscape:document-units="px"
      inkscape:current-layer="svg13094"
      showgrid="true"
@@ -44,9 +44,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1033"
-     inkscape:window-x="-2"
-     inkscape:window-y="25"
+     inkscape:window-height="1023"
+     inkscape:window-x="-10"
+     inkscape:window-y="35"
      inkscape:window-maximized="1"
      inkscape:snap-global="true"
      fit-margin-top="0"
@@ -71,11 +71,11 @@
     <linearGradient
        id="linearGradient4326">
       <stop
-         style="stop-color:#437d93;stop-opacity:1;"
+         style="stop-color:#2184a9;stop-opacity:1;"
          offset="0"
          id="stop4328" />
       <stop
-         style="stop-color:#53abc0;stop-opacity:1;"
+         style="stop-color:#30c0e3;stop-opacity:1;"
          offset="1"
          id="stop4330" />
     </linearGradient>
@@ -292,11 +292,11 @@
        id="linearGradient4158">
       <stop
          offset="0"
-         style="stop-color:#40a9b8;stop-opacity:1;"
+         style="stop-color:#28bbd0;stop-opacity:1;"
          id="stop4160" />
       <stop
          offset="1"
-         style="stop-color:#4988a0;stop-opacity:1;"
+         style="stop-color:#2897c1;stop-opacity:1;"
          id="stop4162" />
     </linearGradient>
     <radialGradient
@@ -664,7 +664,7 @@
      id="path3443" />
   <path
      inkscape:connector-curvature="0"
-     style="color:#000000;fill:#95d0da;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="color:#000000;fill:#78e4f7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      d="M 2,0 0,1 0,4 32,4 64,4 64,1 62,0 32,0 2,0 z"
      id="path3447" />
   <image
@@ -676,7 +676,7 @@
      x="0"
      y="0" />
   <path
-     style="fill:#ffffff;fill-opacity:0.18551236;fill-rule:nonzero"
+     style="fill:#ffffff;fill-opacity:0.37275985;fill-rule:nonzero"
      d="M 0,3 0,6 2,4 32,4 62,4 64,3 32,3 0,3 z"
      id="path4298"
      inkscape:connector-curvature="0" />
@@ -732,7 +732,7 @@
        sodipodi:cy="42.5"
        sodipodi:cx="44.5"
        id="path4116"
-       style="color:#000000;fill:#2f6f9e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.83333324999999991;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#0d6eb5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.83333324999999991;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        sodipodi:type="arc" />
     <g
        transform="matrix(1.9995083,0,0,1.9995083,-108.69542,-27.983265)"
@@ -813,7 +813,7 @@
        sodipodi:cy="42.5"
        sodipodi:cx="44.5"
        id="path4150"
-       style="color:#000000;fill:#6e5970;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.83333324999999991;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#883a8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.83333324999999991;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        sodipodi:type="arc" />
     <g
        transform="matrix(2.1105924,0,0,2.1105924,-116.84519,-31.760123)"
@@ -894,7 +894,7 @@
        sodipodi:cy="42.5"
        sodipodi:cx="44.5"
        id="path4184"
-       style="color:#000000;fill:#5f7d64;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.83333324999999991;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#3b8a48;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.83333324999999991;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        sodipodi:type="arc" />
     <g
        transform="matrix(1.9184389,0,0,1.9184389,-102.7477,-25.226905)"
@@ -969,7 +969,7 @@
        sodipodi:type="arc" />
     <path
        sodipodi:type="arc"
-       style="color:#000000;fill:#8a825f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.83333324999999991;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#a38f39;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.83333324999999991;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="path3098"
        sodipodi:cx="44.5"
        sodipodi:cy="42.5"

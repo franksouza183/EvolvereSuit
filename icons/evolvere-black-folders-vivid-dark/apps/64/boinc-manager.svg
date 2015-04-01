@@ -18,13 +18,13 @@
    sodipodi:docname="boinc-manager.svg">
   <sodipodi:namedview
      id="base"
-     pagecolor="#cbcdd6"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313709"
-     inkscape:cx="36.874294"
+     inkscape:cx="22.95313"
      inkscape:cy="27.686934"
      inkscape:document-units="px"
      inkscape:current-layer="svg13094"
@@ -45,8 +45,8 @@
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
      inkscape:window-height="1023"
-     inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-x="-10"
+     inkscape:window-y="35"
      inkscape:window-maximized="1"
      inkscape:snap-global="true"
      fit-margin-top="0"
@@ -71,11 +71,11 @@
     <linearGradient
        id="linearGradient3800">
       <stop
-         style="stop-color:#6da6e4;stop-opacity:1;"
+         style="stop-color:#66adfb;stop-opacity:1;"
          offset="0"
          id="stop3802" />
       <stop
-         style="stop-color:#4185d1;stop-opacity:0.65869427;"
+         style="stop-color:#2784eb;stop-opacity:0.65869427;"
          offset="1"
          id="stop3804" />
     </linearGradient>
@@ -84,11 +84,11 @@
       <stop
          id="stop4061"
          offset="0"
-         style="stop-color:#4e5f7a;stop-opacity:1;" />
+         style="stop-color:#365e9d;stop-opacity:1;" />
       <stop
          id="stop4063"
          offset="1"
-         style="stop-color:#3a424b;stop-opacity:1;" />
+         style="stop-color:#2e3946;stop-opacity:1;" />
     </linearGradient>
     <radialGradient
        inkscape:collect="always"
@@ -104,11 +104,11 @@
     <linearGradient
        id="linearGradient4109">
       <stop
-         style="stop-color:#dabc6b;stop-opacity:1;"
+         style="stop-color:#f4cf51;stop-opacity:1;"
          offset="0"
          id="stop4111" />
       <stop
-         style="stop-color:#c29046;stop-opacity:1;"
+         style="stop-color:#e38f25;stop-opacity:1;"
          offset="1"
          id="stop4113" />
     </linearGradient>
@@ -154,7 +154,7 @@
      id="path4095" />
   <path
      inkscape:connector-curvature="0"
-     style="color:#000000;fill:#6d88a4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="color:#000000;fill:#538cc7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      d="M 2,0 0,1 0,4 32,4 64,4 64,1 62,0 32,0 2,0 z"
      id="path4090" />
   <path

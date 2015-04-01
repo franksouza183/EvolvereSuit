@@ -18,14 +18,14 @@
    sodipodi:docname="cache.svg">
   <sodipodi:namedview
      id="base"
-     pagecolor="#cbcdd6"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313709"
-     inkscape:cx="26.133677"
-     inkscape:cy="28.08056"
+     inkscape:cx="32.895385"
+     inkscape:cy="29.759939"
      inkscape:document-units="px"
      inkscape:current-layer="svg13094"
      showgrid="true"
@@ -44,9 +44,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1033"
+     inkscape:window-height="1023"
      inkscape:window-x="-10"
-     inkscape:window-y="25"
+     inkscape:window-y="35"
      inkscape:window-maximized="1"
      inkscape:snap-global="true"
      fit-margin-top="0"
@@ -72,11 +72,11 @@
        id="linearGradient5602-41-4">
       <stop
          id="stop5604-6-7"
-         style="stop-color:#c7973e;stop-opacity:1;"
+         style="stop-color:#e1970f;stop-opacity:1;"
          offset="0" />
       <stop
          id="stop5606-8-7"
-         style="stop-color:#bd5642;stop-opacity:1;"
+         style="stop-color:#d5462a;stop-opacity:1;"
          offset="1" />
     </linearGradient>
     <inkscape:path-effect
@@ -97,11 +97,11 @@
       <stop
          id="stop3885"
          offset="0"
-         style="stop-color:#dccea0;stop-opacity:1" />
+         style="stop-color:#f5d87a;stop-opacity:1;" />
       <stop
          id="stop3887"
          offset="1"
-         style="stop-color:#e5d7b6;stop-opacity:1" />
+         style="stop-color:#ffe29c;stop-opacity:1;" />
     </linearGradient>
     <inkscape:path-effect
        is_visible="true"
@@ -136,7 +136,7 @@
      d="M 0 4 L 0 34 L 0 62 L 2 64 L 32 64 L 62 64 L 64 62 L 64 34 L 64 4 L 32 4 L 0 4 z "
      id="path6498" />
   <path
-     style="color:#000000;fill:#e5a06c;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="color:#000000;fill:#ffb649;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      d="M 2 0 L 0 1 L 0 4 L 32 4 L 64 4 L 64 1 L 62 0 L 32 0 L 2 0 z "
      id="path6502" />
   <image
@@ -178,7 +178,7 @@
      inkscape:label="#g3701"
      style="fill:#ffffff" />
   <path
-     style="color:#000000;fill:#000000;fill-opacity:0.1469534;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="color:#000000;fill:#000000;fill-opacity:0.18727599;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      d="M 33.563636,20 50,20 l -8,9 4,0 -9,9 4,0 L 24,55 31,42 27,42 31.636364,32 28,32 33.563636,20"
      id="path3019"
      inkscape:path-effect="#path-effect3021-3"

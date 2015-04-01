@@ -18,14 +18,14 @@
    sodipodi:docname="vmware-player.svg">
   <sodipodi:namedview
      id="base"
-     pagecolor="#cbcdd6"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313709"
-     inkscape:cx="22.507122"
-     inkscape:cy="32.097186"
+     inkscape:cx="31.036597"
+     inkscape:cy="31.566856"
      inkscape:document-units="px"
      inkscape:current-layer="svg13094"
      showgrid="true"
@@ -69,14 +69,13 @@
   <defs
      id="defs13096">
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient3796">
       <stop
-         style="stop-color:#d6c25b;stop-opacity:1"
+         style="stop-color:#e8ce49;stop-opacity:1;"
          offset="0"
          id="stop3798" />
       <stop
-         style="stop-color:#a6963c;stop-opacity:1"
+         style="stop-color:#bfa723;stop-opacity:1;"
          offset="1"
          id="stop3800" />
     </linearGradient>
@@ -84,11 +83,11 @@
        id="linearGradient4158">
       <stop
          offset="0"
-         style="stop-color:#3982c0;stop-opacity:1;"
+         style="stop-color:#2c83cd;stop-opacity:1;"
          id="stop4160" />
       <stop
          offset="1"
-         style="stop-color:#4b6ab8;stop-opacity:1;"
+         style="stop-color:#3560ce;stop-opacity:1;"
          id="stop4162" />
     </linearGradient>
     <radialGradient
@@ -133,7 +132,7 @@
      id="path3443" />
   <path
      inkscape:connector-curvature="0"
-     style="color:#000000;fill:#86bee6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="color:#000000;fill:#6db9ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      d="M 2,0 0,1 0,4 32,4 64,4 64,1 62,0 32,0 2,0 z"
      id="path3447" />
   <image
@@ -145,7 +144,7 @@
      x="0"
      y="0" />
   <path
-     style="fill:#ffffff;fill-opacity:0.18551236;fill-rule:nonzero"
+     style="fill:#ffffff;fill-opacity:0.3234767;fill-rule:nonzero"
      d="M 0,3 0,6 2,4 32,4 62,4 64,3 32,3 0,3 z"
      id="path4298"
      inkscape:connector-curvature="0" />
@@ -191,7 +190,7 @@
      d="m 10,12 0,1 0,3 0,11 4,0 0,-8.15625 8,7.96875 0,5.1875 4,0 0,-4 4,0 0,-4 -5.1875,0 L 16.84375,16 25,16 25,12 10,12 z m 29,0 0,4 8.15625,0 -7.96875,8 -5.1875,0 0,4 4,0 0,4 4,0 0,-5.1875 8,-7.96875 0,8.15625 4,0 0,-15 -1,0 -3,0 -11,0 z m -17,24 0,8 8,0 0,-4 -4,0 0,-4 -4,0 z m 16,0 0,4 -4,0 0,4 5.1875,0 7.96875,8 L 39,52 l 0,4 15,0 0,-1 0,-3 0,-11 -4,0 0,8.15625 L 42,41.1875 42,36 38,36 z"
      id="path3794" />
   <path
-     style="color:#000000;fill:#ffea96;fill-opacity:0.34856629;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="color:#000000;fill:#ffea96;fill-opacity:0.62365592;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      d="m 10,12 0,1 0,3 0,11 1,0 0,-10 0,-3 0,-1 14,0 0,-1 -15,0 z m 29,0 0,4 1,0 0,-3 11,0 3,0 0,-1 -1,0 -3,0 -11,0 z m 7.15625,5 -6.96875,7 -5.1875,0 0,4 1,0 0,-3 5.1875,0 7.96875,-8 -2,0 z M 51,19.84375 l -1,1 0,6.15625 1,0 0,-7.15625 z M 24.8125,24 l 1,1 4.1875,0 0,-1 -5.1875,0 z M 22,26.8125 22,32 l 1,0 0,-4.1875 -1,-1 z M 38,29 l 0,3 1,0 0,-3 -1,0 z m -16,7 0,8 1,0 0,-7 3,0 0,-1 -4,0 z m 16,0 0,4 -4,0 0,4 1,0 0,-3 4,0 0,-4 3,0 0,-1 -4,0 z m -11,4 0,1 3,0 0,-1 -3,0 z m 23,1 0,8.15625 1,1 L 51,42 l 3,0 0,-1 -4,0 z m -11,11 0,4 1,0 0,-3 8.15625,0 -1,-1 L 39,52 z"
      id="rect3779"
      inkscape:connector-curvature="0" />

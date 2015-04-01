@@ -15,17 +15,17 @@
    id="svg13094"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="space-analyzer.svg">
+   sodipodi:docname="space-usage.svg">
   <sodipodi:namedview
      id="base"
-     pagecolor="#cbcdd6"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.0000005"
-     inkscape:cx="37.522337"
-     inkscape:cy="34.847302"
+     inkscape:zoom="11.313709"
+     inkscape:cx="36.175027"
+     inkscape:cy="35.314045"
      inkscape:document-units="px"
      inkscape:current-layer="svg13094"
      showgrid="true"
@@ -44,9 +44,9 @@
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1033"
+     inkscape:window-height="1023"
      inkscape:window-x="-10"
-     inkscape:window-y="25"
+     inkscape:window-y="35"
      inkscape:window-maximized="1"
      inkscape:snap-global="true"
      fit-margin-top="0"
@@ -146,7 +146,7 @@
      id="g3898">
     <path
        sodipodi:type="arc"
-       style="color:#000000;fill:#bc9b54;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#db9022;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="path3825"
        sodipodi:cx="64"
        sodipodi:cy="64"
@@ -166,13 +166,13 @@
        sodipodi:cy="64"
        sodipodi:cx="64"
        id="path3011"
-       style="color:#000000;fill:#948d7c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#b38a44;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        sodipodi:type="arc" />
     <path
        sodipodi:end="0.37301601"
        sodipodi:start="0"
        sodipodi:type="arc"
-       style="color:#000000;fill:#568d99;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#3c94a7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="path3037"
        sodipodi:cx="64"
        sodipodi:cy="64"
@@ -184,7 +184,7 @@
        sodipodi:end="0.78539816"
        sodipodi:start="0.52359878"
        sodipodi:type="arc"
-       style="color:#000000;fill:#bcb454;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#d2b237;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="path3039"
        sodipodi:cx="64"
        sodipodi:cy="64"
@@ -196,7 +196,7 @@
        sodipodi:end="1.3089969"
        sodipodi:start="1.2448214"
        sodipodi:type="arc"
-       style="color:#000000;fill:#83975a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#77953b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="path3821"
        sodipodi:cx="64"
        sodipodi:cy="64"
@@ -212,7 +212,7 @@
        sodipodi:cy="64"
        sodipodi:cx="64"
        id="path3043"
-       style="color:#000000;fill:#c47fb2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#d45ab4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        sodipodi:type="arc"
        sodipodi:start="1.3089969"
        sodipodi:end="1.5707963" />
@@ -220,7 +220,7 @@
        sodipodi:end="1.2441795"
        sodipodi:start="1.0471976"
        sodipodi:type="arc"
-       style="color:#000000;fill:#b29150;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#d2b237;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="path3041"
        sodipodi:cx="64"
        sodipodi:cy="64"
@@ -232,7 +232,7 @@
        sodipodi:end="0.52359878"
        sodipodi:start="0.37227403"
        sodipodi:type="arc"
-       style="color:#000000;fill:#ab6076;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#c3486c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="path3022"
        sodipodi:cx="64"
        sodipodi:cy="64"
@@ -248,7 +248,7 @@
        sodipodi:cy="64"
        sodipodi:cx="64"
        id="path3026"
-       style="color:#000000;fill:#86b057;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#87c443;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        sodipodi:type="arc"
        sodipodi:start="0"
        sodipodi:end="0.52359878" />
@@ -260,7 +260,7 @@
        sodipodi:cy="64"
        sodipodi:cx="64"
        id="path3029"
-       style="color:#000000;fill:#bc9b54;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#db9022;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        sodipodi:type="arc"
        sodipodi:start="0.52359878"
        sodipodi:end="0.78539816" />
@@ -268,7 +268,7 @@
        sodipodi:end="1.3089969"
        sodipodi:start="1.0471976"
        sodipodi:type="arc"
-       style="color:#000000;fill:#b26950;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#d15a31;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="path3823"
        sodipodi:cx="64"
        sodipodi:cy="64"
@@ -284,7 +284,7 @@
        sodipodi:cy="64"
        sodipodi:cx="64"
        id="path3033"
-       style="color:#000000;fill:#b28950;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#b38a44;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        sodipodi:type="arc"
        sodipodi:start="0.78539816"
        sodipodi:end="1.0471976" />
@@ -292,7 +292,7 @@
        sodipodi:end="1.5707963"
        sodipodi:start="1.3089969"
        sodipodi:type="arc"
-       style="color:#000000;fill:#b46b81;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#c73f68;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="path3019"
        sodipodi:cx="64"
        sodipodi:cy="64"
@@ -308,7 +308,7 @@
        sodipodi:cy="64"
        sodipodi:cx="64"
        id="path3024"
-       style="color:#000000;fill:#4a7aaa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#397abb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        sodipodi:type="arc"
        sodipodi:start="0"
        sodipodi:end="0.78539816" />
@@ -316,7 +316,7 @@
        sodipodi:end="1.5707963"
        sodipodi:start="0.78539816"
        sodipodi:type="arc"
-       style="color:#000000;fill:#b25050;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#bf2a2a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="path3016"
        sodipodi:cx="64"
        sodipodi:cy="64"
@@ -342,17 +342,17 @@
        height="4"
        width="10"
        id="rect3817"
-       style="color:#000000;fill:#b8dd90;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="color:#000000;fill:#b9ff6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <rect
        y="0"
        x="-50"
        height="4"
        width="10"
        id="rect3819"
-       style="color:#000000;fill:#77bfcf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#5cd0ea;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        transform="scale(-1,1)" />
     <rect
-       style="color:#000000;fill:#e7c98b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#ffd273;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect3815"
        width="10"
        height="4"
@@ -365,7 +365,7 @@
        height="4"
        width="10"
        id="rect3813"
-       style="color:#000000;fill:#97bbde;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="color:#000000;fill:#76bbff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
   <path
      d="M 64,6 62,4 64,3 z"
@@ -384,7 +384,7 @@
      inkscape:label="#g3701"
      style="fill:#ffffff" />
   <path
-     style="fill:#ffffff;fill-opacity:0.16077739;fill-rule:nonzero"
+     style="fill:#ffffff;fill-opacity:0.42473119;fill-rule:nonzero"
      d="M 0 3 L 0 6 L 2 4 L 32 4 L 62 4 L 64 3 L 32 3 L 0 3 z "
      id="path4298" />
   <path
@@ -396,7 +396,7 @@
      d="M 63 0.5 L 63 34 L 63 63 L 64 62 L 64 34 L 64 1 L 63 0.5 z M 63 63 L 32 63 L 1 63 L 2 64 L 32 64 L 62 64 L 63 63 z "
      id="path4366" />
   <path
-     style="fill:#ffffff;fill-opacity:0.30107528;fill-rule:nonzero"
+     style="fill:#ffffff;fill-opacity:0.50089604;fill-rule:nonzero"
      d="M 0 1 L 0 34 L 0 62 L 1 63 L 1 34 L 1 5 L 2 4 L 1 3.46875 L 1 1 L 0 1 z "
      id="path3864" />
 </svg>

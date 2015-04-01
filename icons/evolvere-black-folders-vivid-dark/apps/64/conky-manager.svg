@@ -18,14 +18,14 @@
    sodipodi:docname="conky-manager.svg">
   <sodipodi:namedview
      id="base"
-     pagecolor="#cbcdd6"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="8.0000004"
-     inkscape:cx="30.589955"
-     inkscape:cy="31.98292"
+     inkscape:cx="36.261965"
+     inkscape:cy="39.437731"
      inkscape:document-units="px"
      inkscape:current-layer="svg13094"
      showgrid="true"
@@ -69,14 +69,13 @@
   <defs
      id="defs13096">
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient3841">
       <stop
-         style="stop-color:#e15454;stop-opacity:1"
+         style="stop-color:#ff6049;stop-opacity:1;"
          offset="0"
          id="stop3843" />
       <stop
-         style="stop-color:#c74e4e;stop-opacity:0.47311828"
+         style="stop-color:#ff2828;stop-opacity:0.63671625;"
          offset="1"
          id="stop3845" />
     </linearGradient>
@@ -85,11 +84,11 @@
       <stop
          id="stop4061"
          offset="0"
-         style="stop-color:#684f4f;stop-opacity:1;" />
+         style="stop-color:#713f3f;stop-opacity:1;" />
       <stop
          id="stop4063"
          offset="1"
-         style="stop-color:#3d3434;stop-opacity:1;" />
+         style="stop-color:#4b3030;stop-opacity:1;" />
     </linearGradient>
     <radialGradient
        inkscape:collect="always"
@@ -133,7 +132,7 @@
      id="path4095" />
   <path
      inkscape:connector-curvature="0"
-     style="color:#000000;fill:#856b6b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="color:#000000;fill:#9e5252;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      d="M 2,0 0,1 0,4 32,4 64,4 64,1 62,0 32,0 2,0 z"
      id="path4090" />
   <path
@@ -178,7 +177,7 @@
      d="m 11,24 0,21 5,0 2,0 0,-3 -2,0 0,-15 2,0 0,-3 -2,0 -5,0 z m 9,0 0,3 3,0 0,-3 -3,0 z m 8,0 10,21 6,0 -10,-21 -6,0 z M 47,24 41.34375,37.1875 44.5,43.8125 53,24 47,24 z M 28,26.15625 28,45 l 4,0 0,-10.4375 -4,-8.40625 z m 25,0.3125 -4,9.34375 0,9.1875 4,0 0,-18.53125 z M 20,42 l 0,3 3,0 0,-3 -3,0 z"
      style="color:#000000;fill:url(#radialGradient3847);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   <path
-     style="color:#000000;fill:#fd7474;fill-opacity:0.22401434;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="color:#000000;fill:#ff7272;fill-opacity:0.49641576;fill-rule:nonzero;stroke:none;stroke-width:2.28571415000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      d="m 11,24 0,21 1,0 0,-20 5,0 1,0 0,-1 -2,0 -5,0 z m 9,0 0,3 1,0 0,-2 2,0 0,-1 -3,0 z m 8,0 10,21 0.53125,0 L 29,25 34.46875,25 34,24 28,24 z M 47,24 41.34375,37.1875 44.5,43.8125 44.75,43.21875 42.34375,38.1875 48,25 52.5625,25 53,24 47,24 z M 28,26.15625 28,45 l 1,0 0,-16.75 -1,-2.09375 z m 25,1.1875 -4,9.3125 0,8.34375 1,0 0,-8.1875 3,-7 0,-2.46875 z M 17,42 l 0,1 1,0 0,-1 -1,0 z m 3,0 0,3 1,0 0,-2 2,0 0,-1 -3,0 z"
      id="path3831"
      inkscape:connector-curvature="0" />
