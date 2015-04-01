@@ -6,11 +6,11 @@ I strongly recommend you clone this repository instead of downloading the zip fi
 
 On terminal type:
 
-`if [[ ! -d ~/".evolveresuit" ]]; then mkdir ~/".evolveresuit"; fi && git clone https://github.com/franksouza183/EvolvereSuit ~/.evolveresuit/`
+`mkdir -p "~/.evolveresuit" && git clone https://github.com/franksouza183/EvolvereSuit ~/.evolveresuit/`
 
 Then to get updates:
 
-`cd ~/".evolveresuit" && git pull origin master && cd`
+`cd "~/.evolveresuit" && git pull origin master && cd`
 
 # PPA (Icons)
 
